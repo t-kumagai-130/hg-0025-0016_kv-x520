@@ -502,6 +502,66 @@
 						</value.second>
 					</Child>
 					<Child>
+						<value.first>PU_CONT_WIN:ポップアップ 内容ウィンドウ情報 ver.1.0.0</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>PU_CONT_WINS:ポップアップ 内容ウィンドウ配列 ver.1.0.0</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>PU_DISP_WIN:ポップアップ 表示ウィンドウ ver.1.0.0</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>PU_DISP_WINS:ポップアップ 表示ウィンドウ配列 ver.1.0.0</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>PU_SET:ポップアップ 設定 ver.1.0.0ポップアップの表示に関する設定値を格納します。</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>PU_STA:ポップアップ 状態 v1.0.0ポップアップの状態を示します。</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>PU_TITLE_WIN:タイトルウィンドウ ver.1.0.0</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>PU_TITLE_WINS:ポップアップ タイトルウィンドウ配列 ver.1.0.0</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>PU_WIN:ポップアップ ウィンドウ情報 ver.1.0.0ポップアップの情報を格納します。</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>PU_WINS:ポップアップ ウィンドウ配列 ver.1.0.0ポップアップのウィンドウ配列</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
 						<value.first>TORQ_INSP:トルク検査結果</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
@@ -557,6 +617,252 @@
 								<value.first>ブックマーク</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>PR_SLIDER</value.first>
+						<value.second>
+							<Expanded>1</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>1</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>｜ └ ENDREF    / 入出力終了更新</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>｜ ├ PB-ENDREF / PB内情報の終了更新</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>｜ ├ PB-REF    / PB内情報の開始更新</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>｜ ├ PROCBLOCK / PB内処理</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>｜ ├ REF       / 入出力開始更新</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>PU_ARG:ポップアップ 配置座標変換 ver.1.0.0</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>PU_DELETE:ウィンドウ削除 ver.1.0.0</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>｜ ├ PROCBLOCK / PB内処理</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>PU_DISP2:ウィンドウ表示(拡張) ver.1.0.0</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>｜ ├ ENDREF    / 入出力終了更新</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>｜ ├ PB-ENDREF / PB内情報の終了更新</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>｜ ├ PB-REF    / PB内情報の開始更新</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>｜ ├ PROCBLOCK / PB内処理</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>PU_DISP:ウィンドウ表示 ver.1.0.0</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>｜ ├ PB-ENDREF / PB内情報の終了更新</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>PU_INSERT:ウィンドウ追加 ver.1.0.0</value.first>
+						<value.second>
+							<Expanded>1</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>1</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
 								</value.second>
 							</Child>
 							<Child>
@@ -1154,6 +1460,54 @@
 								</value.second>
 							</Child>
 							<Child>
+								<value.first>PU_DRIVER1 [21]:ポップアップ制御</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>└ 運転準備</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 運転準備</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ウィンドウ追加</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
 								<value.first>Setting [3]:設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
@@ -1445,6 +1799,36 @@
 											</Child>
 											<Child>
 												<value.first>設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>TP1_manual [20]</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

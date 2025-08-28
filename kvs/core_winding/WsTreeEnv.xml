@@ -502,6 +502,12 @@
 						</value.second>
 					</Child>
 					<Child>
+						<value.first>PR_SET:プロセススライダー 設定変数</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
 						<value.first>PU_CONT_WIN:ポップアップ 内容ウィンドウ情報 ver.1.0.0</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
@@ -630,11 +636,11 @@
 					<Child>
 						<value.first>PR_SLIDER</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>ブックマーク</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>END</value.first>
 										<value.second>
@@ -773,30 +779,6 @@
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
-									<Child>
-										<value.first>｜ ├ ENDREF    / 入出力終了更新</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>｜ ├ PB-ENDREF / PB内情報の終了更新</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>｜ ├ PB-REF    / PB内情報の開始更新</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>｜ ├ PROCBLOCK / PB内処理</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
 								</value.second>
 							</Child>
 							<Child>
@@ -827,12 +809,6 @@
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
-									<Child>
-										<value.first>｜ ├ PB-ENDREF / PB内情報の終了更新</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
 								</value.second>
 							</Child>
 							<Child>
@@ -846,11 +822,11 @@
 					<Child>
 						<value.first>PU_INSERT:ウィンドウ追加 ver.1.0.0</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>ブックマーク</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>END</value.first>
 										<value.second>
@@ -1390,7 +1366,7 @@
 							<Child>
 								<value.first>Main [7]</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

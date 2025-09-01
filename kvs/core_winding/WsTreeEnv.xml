@@ -640,7 +640,7 @@
 							<Child>
 								<value.first>ブックマーク</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>END</value.first>
 										<value.second>
@@ -1120,7 +1120,7 @@
 							<Child>
 								<value.first>Files [17]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -1438,7 +1438,7 @@
 							<Child>
 								<value.first>PU_DRIVER1 [21]:ポップアップ制御</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -1582,6 +1582,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>プロセスバー</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>メインボタン</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -1612,7 +1618,7 @@
 							<Child>
 								<value.first>TP1_Files [18]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -1792,11 +1798,11 @@
 							<Child>
 								<value.first>TP1_manual [20]</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>

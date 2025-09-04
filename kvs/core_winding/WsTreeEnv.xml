@@ -716,6 +716,36 @@
 						<value.second>
 							<Expanded>1</Expanded>
 							<Child>
+								<value.first>FD_LOG_ADD</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
 								<value.first>FILE_ADD</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
@@ -813,6 +843,18 @@
 										<value.first>ブックマーク</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
 										</value.second>
 									</Child>
 									<Child>
@@ -1198,7 +1240,7 @@
 							<Child>
 								<value.first>Cylnder1_DRIVER [22]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -1622,7 +1664,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>

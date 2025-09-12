@@ -1156,11 +1156,11 @@
 							<Child>
 								<value.first>Abnormal [6]</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -1304,7 +1304,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>   │ └ 制御</value.first>
 												<value.second>
@@ -1450,31 +1450,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>│ │    └ 演算処理</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>│ │ │ └ 演算処理</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>│ │ └ 任意データ書込み</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
 												<value.first>│ │ └ 演算処理</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>│ │ ├ 検査終了時</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -1487,12 +1463,6 @@
 											</Child>
 											<Child>
 												<value.first>│ ├ ファイルの整理(削除)</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>│ ├ 動作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -2326,7 +2296,7 @@
 							<Child>
 								<value.first>Unit1 [9]:ユニットプログラム</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

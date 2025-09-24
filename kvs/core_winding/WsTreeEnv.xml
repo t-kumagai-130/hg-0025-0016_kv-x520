@@ -4028,13 +4028,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis [23]</value.first>
+								<value.first>Axis [11]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -4118,7 +4118,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder1_DRIVER [22]</value.first>
+								<value.first>Cylnder1_DRIVER [12]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -4196,13 +4196,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>FTP [19]</value.first>
+								<value.first>FTP [23]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>   │ └ 制御</value.first>
 												<value.second>
@@ -4310,13 +4310,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Files [17]</value.first>
+								<value.first>Files [22]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -4348,19 +4348,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>└ TPBIL</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
 												<value.first>└ 出力</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>├ TPL</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -4403,12 +4391,6 @@
 											</Child>
 											<Child>
 												<value.first>├ 設定</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>キーボード</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -4544,7 +4526,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>OUT [11]:出力処理</value.first>
+								<value.first>OUT [13]:出力処理</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -4595,6 +4577,24 @@
 											</Child>
 											<Child>
 												<value.first>└ 運転準備</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ キーボード</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ キーボード(記号1)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ キーボード(記号2)</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -4760,13 +4760,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1 [12]:タッチパネル1</value.first>
+								<value.first>TP1 [14]:タッチパネル1</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -4780,6 +4780,24 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>└ TPBIL</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ TPL</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>キーボード</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>プロセスバー</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -4787,6 +4805,12 @@
 											</Child>
 											<Child>
 												<value.first>メインボタン</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>入力</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -4814,7 +4838,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_Files [18]</value.first>
+								<value.first>TP1_Files [19]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -5018,7 +5042,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_mess [15]:タッチパネル1 メッセージ</value.first>
+								<value.first>TP1_mess [17]:タッチパネル1 メッセージ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -5048,7 +5072,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_mode [14]:タッチパネル1 モード</value.first>
+								<value.first>TP1_mode [16]:タッチパネル1 モード</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -5090,7 +5114,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_moni [13]:モニタ</value.first>
+								<value.first>TP1_moni [15]:モニタ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -5162,7 +5186,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_warning [16]:タッチパネル1 警告</value.first>
+								<value.first>TP1_warning [18]:タッチパネル1 警告</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>

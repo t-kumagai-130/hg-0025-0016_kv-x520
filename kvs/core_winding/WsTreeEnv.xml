@@ -584,6 +584,18 @@
 						<value.second>
 							<Expanded>1</Expanded>
 							<Child>
+								<value.first>PUX_DISP_IDX</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>PUX_STA</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
 								<value.first>PU_CONT_WIN:ポップアップ 内容ウィンドウ情報 ver.1.0.0</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
@@ -910,6 +922,36 @@
 						</value.second>
 					</Child>
 					<Child>
+						<value.first>DEV_INFO_GET</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
 						<value.first>FILES</value.first>
 						<value.second>
 							<Expanded>1</Expanded>
@@ -1066,36 +1108,6 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>INFO_GET</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-							<Child>
-								<value.first>ブックマーク</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-									<Child>
-										<value.first>END</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>ENDH</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>ローカル変数</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-								</value.second>
-							</Child>
-						</value.second>
-					</Child>
-					<Child>
 						<value.first>POPUP</value.first>
 						<value.second>
 							<Expanded>1</Expanded>
@@ -1166,7 +1178,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_DISP2:ウィンドウ表示(拡張) ver.1.0.0</value.first>
+								<value.first>PU_DISP:ウィンドウ表示 ver.1.0.0</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -1196,7 +1208,37 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_DISP:ウィンドウ表示 ver.1.0.0</value.first>
+								<value.first>PU_DISP_EXP</value.first>
+								<value.second>
+									<Expanded>1</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>PU_DISP_Old:ウィンドウ表示(拡張) ver.1.0.0</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -5104,7 +5146,7 @@
 							<Child>
 								<value.first>TP1_manual [21]</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -5117,6 +5159,18 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>PU</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>設定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

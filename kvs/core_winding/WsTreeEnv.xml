@@ -4168,6 +4168,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>PU</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>TPB / TPBIL</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -4930,6 +4936,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>セキュリティアイコン</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>プロセスバー</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -5150,7 +5162,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -5165,6 +5177,24 @@
 											</Child>
 											<Child>
 												<value.first>PU</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>TPB / TPBIL</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>描画</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

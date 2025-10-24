@@ -484,6 +484,12 @@
 						</value.second>
 					</Child>
 					<Child>
+						<value.first>CNTER</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
 						<value.first>CYLNDER</value.first>
 						<value.second>
 							<Expanded>1</Expanded>
@@ -702,7 +708,7 @@
 					<Child>
 						<value.first>UniversalLibrary</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>Motor</value.first>
 								<value.second>
@@ -772,11 +778,11 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>CYLNDER</value.first>
+						<value.first>COUNTER</value.first>
 						<value.second>
 							<Expanded>1</Expanded>
 							<Child>
-								<value.first>CYL_MOVE_RST</value.first>
+								<value.first>CNT_ADD</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -806,7 +812,103 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>CylCtrl</value.first>
+								<value.first>CNT_CLEAR</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>CNT_SUB</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>CYLNDER</value.first>
+						<value.second>
+							<Expanded>1</Expanded>
+							<Child>
+								<value.first>CYL_MOVE_RST:動作回数リセット</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>CylCtrl:シリンダ制御</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -1456,13 +1558,13 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>SCAN_TIME_ADD</value.first>
+						<value.first>SCAN_TIME_ADD:スキャンタイム積算</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
 								<value.first>ブックマーク</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>END</value.first>
 										<value.second>

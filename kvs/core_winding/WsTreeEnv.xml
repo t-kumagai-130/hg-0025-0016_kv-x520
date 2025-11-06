@@ -4660,7 +4660,7 @@
 							<Child>
 								<value.first>Axis5 [14]:【軸5】ワーク排出上下軸：RCP6-SA7R-WA-56P-16-400-P5-S-B-MR</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -5789,6 +5789,12 @@
 											</Child>
 											<Child>
 												<value.first>TPB / TPBIL</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>モニタ</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

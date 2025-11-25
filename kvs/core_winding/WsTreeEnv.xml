@@ -484,6 +484,12 @@
 						</value.second>
 					</Child>
 					<Child>
+						<value.first>AXIS_STA</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
 						<value.first>AZD</value.first>
 						<value.second>
 							<Expanded>1</Expanded>
@@ -511,6 +517,12 @@
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>BIT16</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
 						</value.second>
 					</Child>
 					<Child>
@@ -651,6 +663,12 @@
 							</Child>
 							<Child>
 								<value.first>KSV_COT</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>KSV_IL</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -819,6 +837,12 @@
 							</Child>
 							<Child>
 								<value.first>RCON_DEV2OUT</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>RCON_IL</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -2124,7 +2148,7 @@
 					<Child>
 						<value.first>RAxisCtrl</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>ブックマーク</value.first>
 								<value.second>
@@ -5122,6 +5146,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>原点モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>設定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -5144,7 +5174,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -5242,7 +5272,7 @@
 							<Child>
 								<value.first>Axis13 [24]:【軸13】巻取り主軸：SV3-B075AK</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -5266,6 +5296,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>原点モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>設定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -5284,7 +5320,7 @@
 							<Child>
 								<value.first>Axis14 [25]:【軸14】ワーク幅調整軸：SV3-M040AK</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -5302,7 +5338,19 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>制御/描画</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点モニタ</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -5416,13 +5464,19 @@
 										<value.second>
 											<Expanded>1</Expanded>
 											<Child>
-												<value.first>EDN</value.first>
+												<value.first>END</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点モニタ</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -5470,6 +5524,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>原点モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>設定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -5507,6 +5567,12 @@
 											</Child>
 											<Child>
 												<value.first>PU</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点モニタ</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -5614,6 +5680,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>原点モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>設定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -5651,6 +5723,12 @@
 											</Child>
 											<Child>
 												<value.first>制御/描画</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点モニタ</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -5698,6 +5776,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>原点モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>設定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -5716,11 +5800,11 @@
 							<Child>
 								<value.first>Axis8 [19]:【軸8】Y軸：溶接トーチ前後：ICSB2-YSA2M-WA-20AQ-20AQBNM-T4-5L-SC/ISB【ISPB】-SXM-WA-60-8-②-T4-⑧-③</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -5734,7 +5818,19 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>インターロック</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>制御/描画</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点モニタ</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -5758,7 +5854,7 @@
 							<Child>
 								<value.first>Axis9 [20]:【軸9】Z軸：溶接トーチ上下：ICSB2-YSA2M-WA-20AQ-20AQBNM-T4-5L-SC/ISB【ISPB】-SXM-WA-60-4-④-T4-⑧-⑤</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -5776,7 +5872,19 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>インターロック</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>制御/描画</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点モニタ</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -5920,6 +6028,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>原点モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>情報</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -5963,6 +6077,12 @@
 											</Child>
 											<Child>
 												<value.first>制御/描画</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点モニタ</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -6016,6 +6136,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>原点モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>設定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -6059,6 +6185,12 @@
 											</Child>
 											<Child>
 												<value.first>制御/描画</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点モニタ</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -6112,6 +6244,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>原点モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>設定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -6155,6 +6293,12 @@
 											</Child>
 											<Child>
 												<value.first>制御/描画</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点モニタ</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -6250,6 +6394,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>原点モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>設定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -6292,6 +6442,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>原点モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>設定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -6328,7 +6484,19 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>制御/描画</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点モニタ</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -6370,7 +6538,19 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>制御/描画</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点モニタ</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -6418,6 +6598,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>原点モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>設定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -6455,6 +6641,12 @@
 											</Child>
 											<Child>
 												<value.first>制御/描画</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点モニタ</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -6502,6 +6694,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>原点モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>設定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -6539,6 +6737,12 @@
 											</Child>
 											<Child>
 												<value.first>制御/描画</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点モニタ</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

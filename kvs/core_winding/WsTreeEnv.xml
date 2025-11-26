@@ -946,7 +946,7 @@
 							<Child>
 								<value.first>ブックマーク</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>EDN</value.first>
 										<value.second>
@@ -1228,7 +1228,7 @@
 							<Child>
 								<value.first>CylCtrl:シリンダ制御</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -1318,7 +1318,7 @@
 							<Child>
 								<value.first>CylMgr</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -1708,9 +1708,39 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>KAxisCtrl</value.first>
+						<value.first>GET_SV3_ERR</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>KAxisCtrl</value.first>
+						<value.second>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>ブックマーク</value.first>
 								<value.second>
@@ -1765,6 +1795,12 @@
 									</Child>
 									<Child>
 										<value.first>[4]座標変更</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>[5]原点復帰</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -2152,7 +2188,7 @@
 							<Child>
 								<value.first>ブックマーク</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>EDN</value.first>
 										<value.second>
@@ -5062,7 +5098,7 @@
 							<Child>
 								<value.first>Axis1 [12]:【軸1】箔ロウリール軸：5TK20GN-CW2J+5GN180K</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -5276,7 +5312,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -5596,7 +5632,7 @@
 							<Child>
 								<value.first>Axis5 [16]:【軸5】ワーク排出上下軸：RCP6-SA7R-WA-56P-16-400-P5-S-B-MR</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -6347,6 +6383,12 @@
 											</Child>
 											<Child>
 												<value.first>制御/描画</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点モニタ</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -7450,11 +7492,11 @@
 							<Child>
 								<value.first>TP1 [46]:タッチパネル1</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -7511,6 +7553,12 @@
 											</Child>
 											<Child>
 												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点モニタ</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -7714,7 +7762,7 @@
 							<Child>
 								<value.first>TP1_manual [53]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -8182,7 +8230,7 @@
 							<Child>
 								<value.first>EtherNet/IP   R30000  DM10000</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>[1]  RCON-GW-N-EP</value.first>
 										<value.second>
@@ -8414,7 +8462,7 @@
 									<Child>
 										<value.first>同期制御設定</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>カム設定</value.first>
 												<value.second>

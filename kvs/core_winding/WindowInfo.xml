@@ -3,6 +3,8 @@
   <GlobalVariable>
     <GroupFilters>
       <Name>(Default)</Name>
+      <Name>Setting</Name>
+      <Name>TP</Name>
     </GroupFilters>
   </GlobalVariable>
   <Motion>

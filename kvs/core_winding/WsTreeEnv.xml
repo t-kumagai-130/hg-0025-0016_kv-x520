@@ -1600,36 +1600,6 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>DEV_GET_INFO</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-							<Child>
-								<value.first>ブックマーク</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-									<Child>
-										<value.first>END</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>ENDH</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>ローカル変数</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-								</value.second>
-							</Child>
-						</value.second>
-					</Child>
-					<Child>
 						<value.first>DVIDXI_TO_PUIDX</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
@@ -1811,6 +1781,36 @@
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>GET_DEV_INFO</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 						</value.second>
@@ -6154,18 +6154,6 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>PU</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>TPB / TPBIL</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
 												<value.first>モニタ</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -6178,25 +6166,13 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>出力</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>制御</value.first>
+												<value.first>制御/描画</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
 												<value.first>原点モニタ</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>情報</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -6268,7 +6244,7 @@
 							<Child>
 								<value.first>Cylnder11 [39]:【ｼﾘ11】平板カット刃押出し：CD55B32-105-M9BZ</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -6322,7 +6298,7 @@
 							<Child>
 								<value.first>Cylnder12 [40]:【ｼﾘ12】平板カット刃開閉：CDQ2B25-10DMZ-L-A93M</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -6376,7 +6352,7 @@
 							<Child>
 								<value.first>Cylnder13 [41]:【ｼﾘ13】波板カット刃押出し：CD55B32-105-M9BZ</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -6430,7 +6406,7 @@
 							<Child>
 								<value.first>Cylnder14 [42]:【ｼﾘ14】波板カット刃開閉：CDQ2B40M-15DMZ-M9BZ</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -6964,7 +6940,7 @@
 							<Child>
 								<value.first>EC1 [44]:【EC1】ワーク排出前後軸：MXQ20-50A-M9BZ</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -7510,6 +7486,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>PU</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>[]csv(BIN)ファイル保存</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -7553,6 +7535,12 @@
 											</Child>
 											<Child>
 												<value.first>├ 設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>パラメータ編集</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -8681,6 +8669,30 @@
 					</Child>
 					<Child>
 						<value.first>(System)</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>Axis</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>Popup</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>Setting</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>TP</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 						</value.second>

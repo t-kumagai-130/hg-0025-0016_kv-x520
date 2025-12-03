@@ -922,6 +922,18 @@
 						</value.second>
 					</Child>
 					<Child>
+						<value.first>SET_CHECK_LIMIT_UINT</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>SET_CHECK_STA</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
 						<value.first>TORQ_INSP:トルク検査結果</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
@@ -2585,6 +2597,66 @@
 					</Child>
 					<Child>
 						<value.first>SCAN_TIME_ADD:スキャンタイム積算</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>SET_SCK_UINT</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>STR_TO_STR</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
@@ -5632,7 +5704,7 @@
 							<Child>
 								<value.first>Axis14 [26]:【軸14】ワーク幅調整軸：SV3-M040AK</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

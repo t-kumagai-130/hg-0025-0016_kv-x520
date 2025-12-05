@@ -968,6 +968,12 @@
 								</value.second>
 							</Child>
 							<Child>
+								<value.first>RCON_TBL</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
 								<value.first>RCON_TP</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
@@ -983,6 +989,12 @@
 					</Child>
 					<Child>
 						<value.first>SET_CHECK_STA</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>ST_SYCL_TP</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 						</value.second>
@@ -2044,6 +2056,36 @@
 						</value.second>
 					</Child>
 					<Child>
+						<value.first>GET_POS_NAME</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
 						<value.first>GET_SV3_ERR</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
@@ -2076,11 +2118,11 @@
 					<Child>
 						<value.first>KAxisCtrl</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>ブックマーク</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>END</value.first>
 										<value.second>
@@ -2520,11 +2562,11 @@
 					<Child>
 						<value.first>RAxisCtrl</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>ブックマーク</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>EDN</value.first>
 										<value.second>
@@ -6442,6 +6484,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>インターロック</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>モニタ</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -6550,6 +6598,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>インターロック</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>入力</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -6599,6 +6653,12 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>インターロック</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -6658,6 +6718,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>インターロック</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>入力</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -6707,6 +6773,12 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>インターロック</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -6820,6 +6892,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>制御/描画</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -6868,6 +6946,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>制御/描画</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -6911,6 +6995,12 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>インターロック</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -7121,6 +7211,12 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>入力</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -7690,7 +7786,7 @@
 							<Child>
 								<value.first>Origin [8]:原点復帰</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -8045,6 +8141,12 @@
 											</Child>
 											<Child>
 												<value.first>├ TPL</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>オーバーライドアイコン</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

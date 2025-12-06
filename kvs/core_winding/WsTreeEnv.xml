@@ -994,12 +994,6 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>ST_SYCL_TP</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
 						<value.first>TORQ_INSP:トルク検査結果</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
@@ -1013,6 +1007,30 @@
 					</Child>
 					<Child>
 						<value.first>TORQ_INSP_SET:トルク計測設定値</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>UNI_COT</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>UNI_CYCL_SET</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>UNI_CYC_STA</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>UNI_SYCL_TP</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 						</value.second>
@@ -2116,6 +2134,36 @@
 						</value.second>
 					</Child>
 					<Child>
+						<value.first>GET_UNIOPE_NAME</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
 						<value.first>KAxisCtrl</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
@@ -2767,6 +2815,72 @@
 									</Child>
 									<Child>
 										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>TP_CYC</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>PU</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>TPB / TPBIL</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ポップアップ</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>入力</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>出力</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>親へ</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -5540,7 +5654,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis1 [18]:【軸1】箔ロウリール軸：5TK20GN-CW2J+5GN180K</value.first>
+								<value.first>Axis1 [20]:【軸1】箔ロウリール軸：5TK20GN-CW2J+5GN180K</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -5648,7 +5762,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis10 [27]:【軸10】バインダー供給ポンプモータ：</value.first>
+								<value.first>Axis10 [29]:【軸10】バインダー供給ポンプモータ：</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -5690,7 +5804,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis11 [28]:【軸11】波板リールモータ：</value.first>
+								<value.first>Axis11 [30]:【軸11】波板リールモータ：</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -5720,7 +5834,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis12 [29]:【軸12】平板リールモータ：</value.first>
+								<value.first>Axis12 [31]:【軸12】平板リールモータ：</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -5750,7 +5864,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis13 [30]:【軸13】巻取り主軸：SV3-B075AK</value.first>
+								<value.first>Axis13 [32]:【軸13】巻取り主軸：SV3-B075AK</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -5804,7 +5918,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis14 [31]:【軸14】ワーク幅調整軸：SV3-M040AK</value.first>
+								<value.first>Axis14 [33]:【軸14】ワーク幅調整軸：SV3-M040AK</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -5858,7 +5972,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis15 [32]:【軸15】Tロール回転軸：M540-402</value.first>
+								<value.first>Axis15 [34]:【軸15】Tロール回転軸：M540-402</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -5900,7 +6014,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis16 [33]:【軸16】ロータユニットXロール回転軸：M540-402</value.first>
+								<value.first>Axis16 [35]:【軸16】ロータユニットXロール回転軸：M540-402</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -5942,7 +6056,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis2 [19]:【軸2】平板送り軸：AZM46AC-HP9+AZD-CEP+CC070VZR</value.first>
+								<value.first>Axis2 [21]:【軸2】平板送り軸：AZM46AC-HP9+AZD-CEP+CC070VZR</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -5984,7 +6098,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis3 [20]:【軸3】箔ロウ送り軸：AZM46AC-HP9+AZD-CEP+CC070VZR</value.first>
+								<value.first>Axis3 [22]:【軸3】箔ロウ送り軸：AZM46AC-HP9+AZD-CEP+CC070VZR</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6032,7 +6146,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis4 [21]:【軸4】波板送り軸：AZM46AC-HP9+AZD-CEP+CC070VZR</value.first>
+								<value.first>Axis4 [23]:【軸4】波板送り軸：AZM46AC-HP9+AZD-CEP+CC070VZR</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6080,7 +6194,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis5 [22]:【軸5】ワーク排出上下軸：RCP6-SA7R-WA-56P-16-400-P5-S-B-MR</value.first>
+								<value.first>Axis5 [24]:【軸5】ワーク排出上下軸：RCP6-SA7R-WA-56P-16-400-P5-S-B-MR</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6152,7 +6266,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis6 [23]:【軸6】周長測定子上下軸：RCA2-GS3NA-I-10-2-50-A6-M-K1</value.first>
+								<value.first>Axis6 [25]:【軸6】周長測定子上下軸：RCA2-GS3NA-I-10-2-50-A6-M-K1</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6212,7 +6326,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis7 [24]:【軸7】ワーク(排出)チャック軸：RCP6-SA4R-WA-35P-16-150-P5-X07-MR-NM</value.first>
+								<value.first>Axis7 [26]:【軸7】ワーク(排出)チャック軸：RCP6-SA4R-WA-35P-16-150-P5-X07-MR-NM</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6266,73 +6380,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis8 [25]:【軸8】Y軸：溶接トーチ前後：ICSB2-YSA2M-WA-20AQ-20AQBNM-T4-5L-SC/ISB【ISPB】-SXM-WA-60-8-②-T4-⑧-③</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-									<Child>
-										<value.first>ブックマーク</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-											<Child>
-												<value.first>END</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ENDH</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>インターロック</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>インターロック無効確認</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>入力</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>制御/描画</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>原点モニタ</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>設定</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>ローカル変数</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>Axis9 [26]:【軸9】Z軸：溶接トーチ上下：ICSB2-YSA2M-WA-20AQ-20AQBNM-T4-5L-SC/ISB【ISPB】-SXM-WA-60-4-④-T4-⑧-⑤</value.first>
+								<value.first>Axis8 [27]:【軸8】Y軸：溶接トーチ前後：ICSB2-YSA2M-WA-20AQ-20AQBNM-T4-5L-SC/ISB【ISPB】-SXM-WA-60-8-②-T4-⑧-③</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6398,7 +6446,73 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis_IN [17]</value.first>
+								<value.first>Axis9 [28]:【軸9】Z軸：溶接トーチ上下：ICSB2-YSA2M-WA-20AQ-20AQBNM-T4-5L-SC/ISB【ISPB】-SXM-WA-60-4-④-T4-⑧-⑤</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>インターロック</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>インターロック無効確認</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>制御/描画</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>Axis_IN [19]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6434,7 +6548,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis_OUT [34]</value.first>
+								<value.first>Axis_OUT [36]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6464,7 +6578,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder1 [35]:【ｼﾘ1】巻取り軸芯前後</value.first>
+								<value.first>Cylnder1 [37]:【ｼﾘ1】巻取り軸芯前後</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6530,7 +6644,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder10 [44]:【ｼﾘ10】波板押え：CDQ2B25-20DZ-M9BVM</value.first>
+								<value.first>Cylnder10 [46]:【ｼﾘ10】波板押え：CDQ2B25-20DZ-M9BVM</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6545,6 +6659,12 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>入力</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -6578,7 +6698,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder11 [45]:【ｼﾘ11】平板カット刃押出し：CD55B32-105-M9BZ</value.first>
+								<value.first>Cylnder11 [47]:【ｼﾘ11】平板カット刃押出し：CD55B32-105-M9BZ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6638,7 +6758,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder12 [46]:【ｼﾘ12】平板カット刃開閉：CDQ2B25-10DMZ-L-A93M</value.first>
+								<value.first>Cylnder12 [48]:【ｼﾘ12】平板カット刃開閉：CDQ2B25-10DMZ-L-A93M</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6698,7 +6818,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder13 [47]:【ｼﾘ13】波板カット刃押出し：CD55B32-105-M9BZ</value.first>
+								<value.first>Cylnder13 [49]:【ｼﾘ13】波板カット刃押出し：CD55B32-105-M9BZ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6758,7 +6878,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder14 [48]:【ｼﾘ14】波板カット刃開閉：CDQ2B40M-15DMZ-M9BZ</value.first>
+								<value.first>Cylnder14 [50]:【ｼﾘ14】波板カット刃開閉：CDQ2B40M-15DMZ-M9BZ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6818,7 +6938,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder1516 [49]:【ｼﾘ15・16】波板カット補助R・L：CXSJM10P-10-M9BL</value.first>
+								<value.first>Cylnder1516 [51]:【ｼﾘ15・16】波板カット補助R・L：CXSJM10P-10-M9BL</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6872,7 +6992,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder2 [36]:【ｼﾘ2】Tロール糊付け①：CDAS16×10-B-R</value.first>
+								<value.first>Cylnder2 [38]:【ｼﾘ2】Tロール糊付け①：CDAS16×10-B-R</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6926,7 +7046,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder3 [37]:【ｼﾘ3】Tロール糊付け②：CDAS16×10-B-R</value.first>
+								<value.first>Cylnder3 [39]:【ｼﾘ3】Tロール糊付け②：CDAS16×10-B-R</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6980,7 +7100,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder4 [38]:【ｼﾘ4】平板下側補助プレート逃がし：CDJ2D16-45Z-W-M9BWZ-B</value.first>
+								<value.first>Cylnder4 [40]:【ｼﾘ4】平板下側補助プレート逃がし：CDJ2D16-45Z-W-M9BWZ-B</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7040,7 +7160,67 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder5 [39]:【ｼﾘ5】平板チャック(ハンド)前後：MXQ20-50A-M9BZ</value.first>
+								<value.first>Cylnder5 [41]:【ｼﾘ5】平板チャック(ハンド)前後：MXQ20-50A-M9BZ</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>インターロック</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>制御/描画</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>Cylnder6 [42]:【ｼﾘ6】平板チャック開閉：MHF2-16D1-M9BL-X83C1</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7094,55 +7274,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder6 [40]:【ｼﾘ6】平板チャック開閉：MHF2-16D1-M9BL-X83C1</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-									<Child>
-										<value.first>ブックマーク</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-											<Child>
-												<value.first>END</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ENDH</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>制御/描画</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>原点モニタ</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>設定</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>ローカル変数</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>Cylnder7 [41]:【ｼﾘ7】平板押え上下①：CDQ2B25-20DZ-M9BVM</value.first>
+								<value.first>Cylnder7 [43]:【ｼﾘ7】平板押え上下①：CDQ2B25-20DZ-M9BVM</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7196,7 +7328,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder8 [42]:【ｼﾘ8】箔ロウ押え上下：CDQ2D25-20DMZ-M9BM</value.first>
+								<value.first>Cylnder8 [44]:【ｼﾘ8】箔ロウ押え上下：CDQ2D25-20DMZ-M9BM</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7250,7 +7382,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder9 [43]:【ｼﾘ9】箔ロウカット：CDQSKB16-10DM-M9NWVZ</value.first>
+								<value.first>Cylnder9 [45]:【ｼﾘ9】箔ロウカット：CDQSKB16-10DM-M9NWVZ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7265,6 +7397,12 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>入力</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -7328,7 +7466,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>EC1 [50]:【EC1】ワーク排出前後軸：MXQ20-50A-M9BZ</value.first>
+								<value.first>EC1 [52]:【EC1】ワーク排出前後軸：MXQ20-50A-M9BZ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7349,6 +7487,12 @@
 											</Child>
 											<Child>
 												<value.first>インターロック</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>入力</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -7376,7 +7520,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>END_REF [63]</value.first>
+								<value.first>END_REF [65]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7406,7 +7550,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>FTP [62]</value.first>
+								<value.first>FTP [64]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7520,7 +7664,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Files [61]</value.first>
+								<value.first>Files [63]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7742,7 +7886,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>OUT [51]:出力処理</value.first>
+								<value.first>OUT [53]:出力処理</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7880,7 +8024,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU1_DRIVER [60]:ポップアップ制御</value.first>
+								<value.first>PU1_DRIVER [62]:ポップアップ制御</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8114,9 +8258,9 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1 [52]:タッチパネル1</value.first>
+								<value.first>TP1 [54]:タッチパネル1</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -8216,7 +8360,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_Files [58]</value.first>
+								<value.first>TP1_Files [60]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8390,7 +8534,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_manual [59]</value.first>
+								<value.first>TP1_manual [61]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8462,7 +8606,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_mess [56]:タッチパネル1 メッセージ</value.first>
+								<value.first>TP1_mess [58]:タッチパネル1 メッセージ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8492,7 +8636,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_mode [55]:タッチパネル1 モード</value.first>
+								<value.first>TP1_mode [57]:タッチパネル1 モード</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8534,7 +8678,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_moni [54]:モニタ</value.first>
+								<value.first>TP1_moni [56]:モニタ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8564,7 +8708,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_setting [53]</value.first>
+								<value.first>TP1_setting [55]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8624,7 +8768,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_warning [57]:タッチパネル1 警告</value.first>
+								<value.first>TP1_warning [59]:タッチパネル1 警告</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8654,7 +8798,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>UTMⅡ1 [16]:UNIPULS UTMⅡ</value.first>
+								<value.first>UTMⅡ1 [18]:UNIPULS UTMⅡ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8690,7 +8834,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Unit1 [10]:ユニットプログラム：平板部</value.first>
+								<value.first>Unit1 [11]:ユニットプログラム：平板部</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8705,6 +8849,12 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>TP</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -8780,7 +8930,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Unit2 [11]:ユニットプログラム：波板部</value.first>
+								<value.first>Unit2 [12]:ユニットプログラム：波板部</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8795,6 +8945,12 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>TP</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -8870,7 +9026,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Unit3 [12]:ユニットプログラム：箔ロウ部</value.first>
+								<value.first>Unit3 [13]:ユニットプログラム：箔ロウ部</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8885,6 +9041,12 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>TP</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -8960,7 +9122,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Unit4 [13]:ユニットプログラム：主軸部</value.first>
+								<value.first>Unit4 [14]:ユニットプログラム：主軸部</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8975,6 +9137,12 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>TP</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -9050,7 +9218,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Unit5 [14]:ユニットプログラム：溶接部</value.first>
+								<value.first>Unit5 [15]:ユニットプログラム：溶接部</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -9065,6 +9233,12 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>TP</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -9140,7 +9314,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Unit6 [15]:ユニットプログラム：排出部</value.first>
+								<value.first>Unit6 [16]:ユニットプログラム：排出部</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -9155,6 +9329,12 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>TP</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -9215,6 +9395,66 @@
 											</Child>
 											<Child>
 												<value.first>設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>Unit_IN [10]</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>Unit_OUT [17]</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

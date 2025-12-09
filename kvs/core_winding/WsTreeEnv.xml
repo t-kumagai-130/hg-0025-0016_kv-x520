@@ -494,7 +494,25 @@
 						<value.second>
 							<Expanded>1</Expanded>
 							<Child>
+								<value.first>AZD_CIN</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>AZD_COT</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
 								<value.first>AZD_DRV</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>AZD_EXE3_PRM1</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -792,7 +810,7 @@
 					<Child>
 						<value.first>POPUP</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>PUX_DISP_IDX</value.first>
 								<value.second>
@@ -1363,6 +1381,12 @@
 									</Child>
 									<Child>
 										<value.first>[2]位置決め</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>[3]連続運転</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -2402,7 +2426,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_DISP:ウィンドウ表示 ver.1.0.0</value.first>
+								<value.first>PU_DISP</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2423,6 +2447,12 @@
 											</Child>
 											<Child>
 												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>設定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -2507,6 +2537,12 @@
 											</Child>
 											<Child>
 												<value.first>出力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>設定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -6134,7 +6170,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -6143,6 +6179,18 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>制御/描画</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -6172,7 +6220,7 @@
 							<Child>
 								<value.first>Axis3 [22]:【軸3】箔ロウ送り軸：AZM46AC-HP9+AZD-CEP+CC070VZR</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -6191,6 +6239,18 @@
 											</Child>
 											<Child>
 												<value.first>PU</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>制御/描画</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -6239,6 +6299,18 @@
 											</Child>
 											<Child>
 												<value.first>PU</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>制御/描画</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -6590,7 +6662,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -7936,6 +8008,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>運転準備</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -8336,7 +8414,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -8782,11 +8860,11 @@
 							<Child>
 								<value.first>TP1_setting [55]</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -8908,11 +8986,11 @@
 							<Child>
 								<value.first>Unit1 [11]:ユニットプログラム：平板部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -8926,6 +9004,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>PU</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>TP</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -8933,6 +9017,12 @@
 											</Child>
 											<Child>
 												<value.first>[1]原点復帰</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[2]供給動作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -9292,11 +9382,11 @@
 							<Child>
 								<value.first>Unit5 [15]:ユニットプログラム：溶接部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>

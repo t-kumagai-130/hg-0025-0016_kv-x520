@@ -3,6 +3,7 @@
   <GlobalVariable>
     <GroupFilters>
       <Name>(Default)</Name>
+      <Name>Axis</Name>
       <Name>TP</Name>
     </GroupFilters>
   </GlobalVariable>

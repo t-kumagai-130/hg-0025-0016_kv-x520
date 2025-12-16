@@ -746,6 +746,18 @@
 								</value.second>
 							</Child>
 							<Child>
+								<value.first>KSV_EXE3_RPM</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>KSV_EXE6_RPM</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
 								<value.first>KSV_IL</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
@@ -1126,6 +1138,12 @@
 						</value.second>
 					</Child>
 					<Child>
+						<value.first>WIND_POINT</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
 						<value.first>WIND_RAD</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
@@ -1384,7 +1402,7 @@
 							<Child>
 								<value.first>ブックマーク</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>EDN</value.first>
 										<value.second>
@@ -2284,7 +2302,7 @@
 							<Child>
 								<value.first>ブックマーク</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>END</value.first>
 										<value.second>
@@ -2346,6 +2364,12 @@
 										</value.second>
 									</Child>
 									<Child>
+										<value.first>[6]ポイントテーブル</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
 										<value.first>└ 出力</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
@@ -2365,6 +2389,18 @@
 									</Child>
 									<Child>
 										<value.first>├ 異常</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>├ 管理</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>├ 設定</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -2770,7 +2806,7 @@
 							<Child>
 								<value.first>ブックマーク</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>EDN</value.first>
 										<value.second>
@@ -5691,6 +5727,42 @@
 							</Child>
 						</value.second>
 					</Child>
+					<Child>
+						<value.first>WIND</value.first>
+						<value.second>
+							<Expanded>1</Expanded>
+							<Child>
+								<value.first>WIND_INSERT</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
 				</value.second>
 			</Child>
 			<Child>
@@ -8314,7 +8386,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>└ 運転準備</value.first>
+												<value.first>└ エアー圧力不足</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -9364,7 +9436,7 @@
 							<Child>
 								<value.first>Unit3 [13]:ユニットプログラム：箔ロウ部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -9472,7 +9544,7 @@
 							<Child>
 								<value.first>Unit4 [14]:ユニットプログラム：主軸部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -9682,7 +9754,7 @@
 							<Child>
 								<value.first>Unit6 [16]:ユニットプログラム：排出部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

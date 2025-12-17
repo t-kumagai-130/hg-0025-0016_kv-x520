@@ -640,6 +640,12 @@
 						</value.second>
 					</Child>
 					<Child>
+						<value.first>DEV_COT</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
 						<value.first>DL_EP1_IN100</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
@@ -1078,13 +1084,19 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>UNI_COT</value.first>
+						<value.first>UNI_CYCL_SET</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>UNI_CYCL_SET</value.first>
+						<value.first>UNI_CYC_CIN</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>UNI_CYC_COT</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 						</value.second>
@@ -1135,6 +1147,12 @@
 									</Child>
 								</value.second>
 							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>WELD_TP</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
 						</value.second>
 					</Child>
 					<Child>
@@ -5730,7 +5748,7 @@
 					<Child>
 						<value.first>WIND</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>WIND_INSERT</value.first>
 								<value.second>
@@ -6142,6 +6160,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>インターロック無効確認</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>入力</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -6191,6 +6215,12 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>インターロック無効確認</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -7732,7 +7762,7 @@
 							<Child>
 								<value.first>Data [5]:情報</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -7844,7 +7874,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>END_REF [65]</value.first>
+								<value.first>END_REF [66]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7874,7 +7904,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>FTP [64]</value.first>
+								<value.first>FTP [65]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7988,7 +8018,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Files [63]</value.first>
+								<value.first>Files [64]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8216,7 +8246,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>OUT [53]:出力処理</value.first>
+								<value.first>OUT [54]:出力処理</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8366,7 +8396,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU1_DRIVER [62]:ポップアップ制御</value.first>
+								<value.first>PU1_DRIVER [63]:ポップアップ制御</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8600,13 +8630,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1 [54]:タッチパネル1</value.first>
+								<value.first>TP1 [55]:タッチパネル1</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -8708,7 +8738,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_Files [60]</value.first>
+								<value.first>TP1_Files [61]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8882,7 +8912,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_manual [61]</value.first>
+								<value.first>TP1_manual [62]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8954,7 +8984,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_mess [58]:タッチパネル1 メッセージ</value.first>
+								<value.first>TP1_mess [59]:タッチパネル1 メッセージ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8984,7 +9014,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_mode [57]:タッチパネル1 モード</value.first>
+								<value.first>TP1_mode [58]:タッチパネル1 モード</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -9026,7 +9056,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_moni [56]:モニタ</value.first>
+								<value.first>TP1_moni [57]:モニタ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -9056,13 +9086,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_setting [55]</value.first>
+								<value.first>TP1_setting [56]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -9116,7 +9146,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_warning [59]:タッチパネル1 警告</value.first>
+								<value.first>TP1_warning [60]:タッチパネル1 警告</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -9310,7 +9340,7 @@
 							<Child>
 								<value.first>Unit2 [12]:ユニットプログラム：波板部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -9628,6 +9658,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>入力</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -9658,7 +9694,7 @@
 							<Child>
 								<value.first>Unit5 [15]:ユニットプログラム：溶接部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -9683,6 +9719,12 @@
 											</Child>
 											<Child>
 												<value.first>[1]原点復帰</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[2]巻き押え</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -9754,7 +9796,7 @@
 							<Child>
 								<value.first>Unit6 [16]:ユニットプログラム：排出部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -9779,6 +9821,12 @@
 											</Child>
 											<Child>
 												<value.first>[1]原点復帰</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[3]巻取り中測定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -9893,6 +9941,120 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>WELD1 [53]:溶接機1：MDシリーズ/AMADA</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>EDN</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>PU</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>TPB / TPBIL</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[1]溶接動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[2]巻き押え</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>└ 出力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 完了</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 異常</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 管理</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>出力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>設定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

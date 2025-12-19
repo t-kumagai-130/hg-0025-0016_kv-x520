@@ -2322,11 +2322,11 @@
 					<Child>
 						<value.first>KAxisCtrl</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>ブックマーク</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>END</value.first>
 										<value.second>
@@ -2395,6 +2395,12 @@
 									</Child>
 									<Child>
 										<value.first>└ 出力</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>├ 一時停止</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -9442,7 +9448,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>[2]供給動作</value.first>
+												<value.first>[2]供給準備動作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -9568,7 +9574,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>[2]供給動作</value.first>
+												<value.first>[2]供給準備動作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -9694,7 +9700,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>[2]供給動作</value.first>
+												<value.first>[2]供給準備動作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -9934,7 +9940,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>[3]巻き溶接</value.first>
+												<value.first>[3]溶接</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -10037,6 +10043,12 @@
 											</Child>
 											<Child>
 												<value.first>[3]巻取り中測定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[5]排出動作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

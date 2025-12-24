@@ -492,7 +492,7 @@
 					<Child>
 						<value.first>AZD</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>AZD_CIN</value.first>
 								<value.second>
@@ -570,7 +570,7 @@
 					<Child>
 						<value.first>CYLNDER</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>CMGR_SET</value.first>
 								<value.second>
@@ -652,57 +652,63 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>EXE_CIN</value.first>
+						<value.first>EXE</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>EXE_COT</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>EXE_DIREC</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>EXE_MEM</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>EXE_PRM</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>EXE_SCIN</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>EXE_SCOT</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>EXE_STA</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
+							<Child>
+								<value.first>EXE_CIN</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>EXE_COT</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>EXE_DIREC</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>EXE_MEM</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>EXE_PRM</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>EXE_SCIN</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>EXE_SCOT</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>EXE_STA</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
 						</value.second>
 					</Child>
 					<Child>
 						<value.first>FILES</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>FILE</value.first>
 								<value.second>
@@ -744,7 +750,7 @@
 					<Child>
 						<value.first>KSV</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>KSV_CIN</value.first>
 								<value.second>
@@ -816,7 +822,7 @@
 					<Child>
 						<value.first>MODEL</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>MODEL</value.first>
 								<value.second>
@@ -858,7 +864,7 @@
 					<Child>
 						<value.first>POPUP</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>PUX_DISP_IDX</value.first>
 								<value.second>
@@ -972,7 +978,7 @@
 					<Child>
 						<value.first>RCON</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>RCON_CIN</value.first>
 								<value.second>
@@ -2358,12 +2364,6 @@
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>TP</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-									<Child>
 										<value.first>TPB / TPBIL</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
@@ -2401,6 +2401,12 @@
 									</Child>
 									<Child>
 										<value.first>[6]ポイントテーブル</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>[7]座標変更</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -9448,7 +9454,7 @@
 							<Child>
 								<value.first>Unit1 [10]:ユニットプログラム：平板部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -9574,7 +9580,7 @@
 							<Child>
 								<value.first>Unit2 [11]:ユニットプログラム：波板部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -9700,7 +9706,7 @@
 							<Child>
 								<value.first>Unit3 [12]:ユニットプログラム：箔ロウ部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -9814,7 +9820,7 @@
 							<Child>
 								<value.first>Unit4 [13]:ユニットプログラム：主軸部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -9952,11 +9958,11 @@
 							<Child>
 								<value.first>Unit5 [14]:ユニットプログラム：溶接部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -10060,11 +10066,11 @@
 							<Child>
 								<value.first>Unit6 [15]:ユニットプログラム：排出部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>

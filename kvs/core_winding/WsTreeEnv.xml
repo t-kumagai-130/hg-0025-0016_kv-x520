@@ -978,7 +978,7 @@
 					<Child>
 						<value.first>RCON</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>RCON_CIN</value.first>
 								<value.second>
@@ -1171,6 +1171,12 @@
 									</Child>
 								</value.second>
 							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>WARK</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
 						</value.second>
 					</Child>
 					<Child>
@@ -2340,11 +2346,11 @@
 					<Child>
 						<value.first>KAxisCtrl</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>ブックマーク</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>END</value.first>
 										<value.second>
@@ -6010,6 +6016,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>[3]自動運転</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>└ 出力</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -8728,6 +8740,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>TPL / TPBIL</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>[]csv(BIN)ファイル保存</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -8927,12 +8945,6 @@
 											</Child>
 											<Child>
 												<value.first>プロセスバー</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ポップアップ</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -9706,7 +9718,7 @@
 							<Child>
 								<value.first>Unit3 [12]:ユニットプログラム：箔ロウ部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -10102,7 +10114,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>[5]排出動作</value.first>
+												<value.first>[5]巻き軸排出動作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

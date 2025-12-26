@@ -492,7 +492,7 @@
 					<Child>
 						<value.first>AZD</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>AZD_CIN</value.first>
 								<value.second>
@@ -750,7 +750,7 @@
 					<Child>
 						<value.first>KSV</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>KSV_CIN</value.first>
 								<value.second>
@@ -864,7 +864,7 @@
 					<Child>
 						<value.first>POPUP</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>PUX_DISP_IDX</value.first>
 								<value.second>
@@ -6688,11 +6688,11 @@
 							<Child>
 								<value.first>Axis5 [23]:【軸5】ワーク排出上下軸：RCP6-SA7R-WA-56P-16-400-P5-S-B-MR</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>

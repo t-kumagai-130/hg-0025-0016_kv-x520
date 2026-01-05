@@ -6370,11 +6370,11 @@
 							<Child>
 								<value.first>Axis14 [32]:【軸14】ワーク幅調整軸：SV3-M040AK</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -9466,7 +9466,7 @@
 							<Child>
 								<value.first>Unit1 [10]:ユニットプログラム：平板部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -9592,7 +9592,7 @@
 							<Child>
 								<value.first>Unit2 [11]:ユニットプログラム：波板部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -9718,7 +9718,7 @@
 							<Child>
 								<value.first>Unit3 [12]:ユニットプログラム：箔ロウ部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -10190,7 +10190,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -10282,7 +10282,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>[2]巻き押え</value.first>
+												<value.first>[2]チャンネル切替</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

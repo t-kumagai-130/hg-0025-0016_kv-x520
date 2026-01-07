@@ -6010,7 +6010,7 @@
 							<Child>
 								<value.first>Auto [8]:原点復帰</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -6053,6 +6053,12 @@
 											</Child>
 											<Child>
 												<value.first>└ 出力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ サイクル停止</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -9496,7 +9502,7 @@
 							<Child>
 								<value.first>Unit1 [10]:ユニットプログラム：平板部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -9622,7 +9628,7 @@
 							<Child>
 								<value.first>Unit2 [11]:ユニットプログラム：波板部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -10000,7 +10006,7 @@
 							<Child>
 								<value.first>Unit5 [14]:ユニットプログラム：溶接部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -10108,7 +10114,7 @@
 							<Child>
 								<value.first>Unit6 [15]:ユニットプログラム：排出部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

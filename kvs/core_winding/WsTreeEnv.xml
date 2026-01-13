@@ -1192,6 +1192,12 @@
 						</value.second>
 					</Child>
 					<Child>
+						<value.first>WIND_PerPAng</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
 						<value.first>WIND_RAD</value.first>
 						<value.second>
 							<Expanded>0</Expanded>

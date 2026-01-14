@@ -1078,24 +1078,6 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>TORQ_INSP:トルク検査結果</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>TORQ_INSP_DATA:トルク検査データ</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>TORQ_INSP_SET:トルク計測設定値</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
 						<value.first>U4_EXE4_PRM</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
@@ -1186,13 +1168,13 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>WIND_POINT</value.first>
+						<value.first>WIND_PER_P_ANG</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>WIND_PerPAng</value.first>
+						<value.first>WIND_POINT</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 						</value.second>
@@ -1233,6 +1215,36 @@
 				<value.first>ファンクションブロック</value.first>
 				<value.second>
 					<Expanded>1</Expanded>
+					<Child>
+						<value.first>APP_FORMULA:近似1次式生成</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
 					<Child>
 						<value.first>AXIS</value.first>
 						<value.second>
@@ -1573,36 +1585,6 @@
 									</Child>
 									<Child>
 										<value.first>設定</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>ローカル変数</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-								</value.second>
-							</Child>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>AppFormula</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-							<Child>
-								<value.first>ブックマーク</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-									<Child>
-										<value.first>END</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>ENDH</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -6076,7 +6058,7 @@
 							<Child>
 								<value.first>Auto [8]:原点復帰</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -6179,6 +6161,12 @@
 											</Child>
 											<Child>
 												<value.first>動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>手動/自動遷移</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -9568,7 +9556,7 @@
 							<Child>
 								<value.first>Unit1 [10]:ユニットプログラム：平板部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -9820,7 +9808,7 @@
 							<Child>
 								<value.first>Unit3 [12]:ユニットプログラム：箔ロウ部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

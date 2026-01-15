@@ -736,6 +736,18 @@
 						</value.second>
 					</Child>
 					<Child>
+						<value.first>GT_STA</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>GT_VAL</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
 						<value.first>INS_SET</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
@@ -5836,7 +5848,7 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>WIND_INS</value.first>
+						<value.first>WIND_COR:巻き補正 補正値計算</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
@@ -5866,7 +5878,7 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>WIND_INS_COR:巻き半径補正値算出</value.first>
+						<value.first>WIND_COR_APP:巻き補正 補正値適用</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
@@ -5896,7 +5908,7 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>WIND_INS_CORA:巻き半径補正値適用</value.first>
+						<value.first>WIND_COR_INIT:巻き補正 初期化</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
@@ -5926,7 +5938,7 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>WIND_INS_INIT</value.first>
+						<value.first>WIN_COR_INS:巻き補正 計測処理</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
@@ -9556,7 +9568,7 @@
 							<Child>
 								<value.first>Unit1 [10]:ユニットプログラム：平板部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -10060,7 +10072,7 @@
 							<Child>
 								<value.first>Unit5 [14]:ユニットプログラム：溶接部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

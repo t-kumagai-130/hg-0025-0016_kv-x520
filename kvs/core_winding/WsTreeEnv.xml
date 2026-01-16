@@ -736,6 +736,12 @@
 						</value.second>
 					</Child>
 					<Child>
+						<value.first>GT_SET</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
 						<value.first>GT_STA</value.first>
 						<value.second>
 							<Expanded>0</Expanded>

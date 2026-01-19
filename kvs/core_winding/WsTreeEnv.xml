@@ -2490,12 +2490,6 @@
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>├ 一時停止</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-									<Child>
 										<value.first>├ 動作</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
@@ -6074,7 +6068,7 @@
 						<value.second>
 							<Expanded>1</Expanded>
 							<Child>
-								<value.first>Abnormal [6]</value.first>
+								<value.first>Abnormal [7]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6104,7 +6098,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Auto [8]:原点復帰</value.first>
+								<value.first>Auto [9]:原点復帰</value.first>
 								<value.second>
 									<Expanded>1</Expanded>
 									<Child>
@@ -7142,7 +7136,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis_IN [18]</value.first>
+								<value.first>Axis_IN [5]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8246,13 +8240,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Data [5]:情報</value.first>
+								<value.first>Data [6]:情報</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -8396,7 +8390,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>   │ └ 制御</value.first>
 												<value.second>
@@ -8510,7 +8504,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -8684,13 +8678,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Main [7]</value.first>
+								<value.first>Main [8]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -9134,7 +9128,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>   │ └ 全選択/全解除</value.first>
 												<value.second>
@@ -9566,7 +9560,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>UTMⅡ1 [17]:UNIPULS UTMⅡ</value.first>
+								<value.first>UTMⅡ1 [18]:UNIPULS UTMⅡ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -9602,133 +9596,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Unit1 [10]:ユニットプログラム：平板部</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-									<Child>
-										<value.first>ブックマーク</value.first>
-										<value.second>
-											<Expanded>1</Expanded>
-											<Child>
-												<value.first>EDN</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ENDH</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>PU</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>TP</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>[1]原点復帰</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>[2]供給準備動作</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>[3]供給開始動作</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>[4]供給動作</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>[9]カット動作</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>└ 出力</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>├ 動作</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>├ 完了</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>├ 異常</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>├ 管理</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>├ 設定</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>入力</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>出力</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>設定</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>ローカル変数</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>Unit2 [11]:ユニットプログラム：波板部</value.first>
+								<value.first>Unit1 [11]:ユニットプログラム：平板部</value.first>
 								<value.second>
 									<Expanded>1</Expanded>
 									<Child>
@@ -9854,13 +9722,139 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Unit3 [12]:ユニットプログラム：箔ロウ部</value.first>
+								<value.first>Unit2 [12]:ユニットプログラム：波板部</value.first>
+								<value.second>
+									<Expanded>1</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>1</Expanded>
+											<Child>
+												<value.first>EDN</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>PU</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>TP</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[1]原点復帰</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[2]供給準備動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[3]供給開始動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[4]供給動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[9]カット動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>└ 出力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 完了</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 異常</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 管理</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>出力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>Unit3 [13]:ユニットプログラム：箔ロウ部</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -9968,7 +9962,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Unit4 [13]:ユニットプログラム：主軸部</value.first>
+								<value.first>Unit4 [14]:ユニットプログラム：主軸部</value.first>
 								<value.second>
 									<Expanded>1</Expanded>
 									<Child>
@@ -10106,7 +10100,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Unit5 [14]:ユニットプログラム：溶接部</value.first>
+								<value.first>Unit5 [15]:ユニットプログラム：溶接部</value.first>
 								<value.second>
 									<Expanded>1</Expanded>
 									<Child>
@@ -10214,7 +10208,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Unit6 [15]:ユニットプログラム：排出部</value.first>
+								<value.first>Unit6 [16]:ユニットプログラム：排出部</value.first>
 								<value.second>
 									<Expanded>1</Expanded>
 									<Child>
@@ -10322,13 +10316,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Unit_IN [9]</value.first>
+								<value.first>Unit_IN [10]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -10352,7 +10346,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Unit_OUT [16]</value.first>
+								<value.first>Unit_OUT [17]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>

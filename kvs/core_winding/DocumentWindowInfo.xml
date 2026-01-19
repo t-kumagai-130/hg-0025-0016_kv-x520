@@ -2,10 +2,10 @@
 <DocumentWindowInfoForTab xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <All>
     <DocumentWindowInfoForTabElement>
-      <Name>CONV_RAD</Name>
-      <SaveKey>[Ladder]CONV_RAD</SaveKey>
+      <Name>Auto</Name>
+      <SaveKey>[Ladder]Auto</SaveKey>
       <DockingBarState>
-        <Key>Document@Ladder-892294528</Key>
+        <Key>Document@Ladder-893687472</Key>
         <Usable>true</Usable>
         <IsFloating>false</IsFloating>
         <DockingInfo>
@@ -13,15 +13,15 @@
           <DockingSide>Left</DockingSide>
           <IsAutoHide>false</IsAutoHide>
           <Size>
-            <Width>1087</Width>
-            <Height>997</Height>
+            <Width>1144</Width>
+            <Height>1041</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
           <RightIndex>-1</RightIndex>
           <BottomIndex>-1</BottomIndex>
           <MergeInfo>
-            <TabIndex>9</TabIndex>
+            <TabIndex>13</TabIndex>
             <IsTabSelected>false</IsTabSelected>
             <TilePosition />
           </MergeInfo>
@@ -45,10 +45,10 @@
       </DockingBarState>
     </DocumentWindowInfoForTabElement>
     <DocumentWindowInfoForTabElement>
-      <Name>Axis13</Name>
-      <SaveKey>[Ladder]Axis13</SaveKey>
+      <Name>KAxisCtrl</Name>
+      <SaveKey>[Ladder]KAxisCtrl</SaveKey>
       <DockingBarState>
-        <Key>Document@Ladder-1095025744</Key>
+        <Key>Document@Ladder-1099478376</Key>
         <Usable>true</Usable>
         <IsFloating>false</IsFloating>
         <DockingInfo>
@@ -56,15 +56,15 @@
           <DockingSide>Left</DockingSide>
           <IsAutoHide>false</IsAutoHide>
           <Size>
-            <Width>1087</Width>
-            <Height>997</Height>
+            <Width>1144</Width>
+            <Height>1041</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
           <RightIndex>-1</RightIndex>
           <BottomIndex>-1</BottomIndex>
           <MergeInfo>
-            <TabIndex>8</TabIndex>
+            <TabIndex>12</TabIndex>
             <IsTabSelected>false</IsTabSelected>
             <TilePosition />
           </MergeInfo>
@@ -88,10 +88,10 @@
       </DockingBarState>
     </DocumentWindowInfoForTabElement>
     <DocumentWindowInfoForTabElement>
-      <Name>WIN_COR_INS</Name>
-      <SaveKey>[Ladder]WIN_COR_INS</SaveKey>
+      <Name>Axis14.fbMng(KAxisCtrl)</Name>
+      <SaveKey>[Ladder]KAxisCtrl</SaveKey>
       <DockingBarState>
-        <Key>Document@Ladder-1221813512</Key>
+        <Key>Document@Ladder-891465424</Key>
         <Usable>true</Usable>
         <IsFloating>false</IsFloating>
         <DockingInfo>
@@ -99,94 +99,8 @@
           <DockingSide>Left</DockingSide>
           <IsAutoHide>false</IsAutoHide>
           <Size>
-            <Width>1087</Width>
-            <Height>997</Height>
-          </Size>
-          <LeftIndex>-1</LeftIndex>
-          <TopIndex>-1</TopIndex>
-          <RightIndex>-1</RightIndex>
-          <BottomIndex>-1</BottomIndex>
-          <MergeInfo>
-            <TabIndex>7</TabIndex>
-            <IsTabSelected>false</IsTabSelected>
-            <TilePosition />
-          </MergeInfo>
-        </DockingInfo>
-        <FloatingInfo>
-          <DockingKey>0</DockingKey>
-          <Location>
-            <X>0</X>
-            <Y>0</Y>
-          </Location>
-          <Size>
-            <Width>624</Width>
-            <Height>326</Height>
-          </Size>
-          <MergeInfo>
-            <TabIndex>-1</TabIndex>
-            <IsTabSelected>false</IsTabSelected>
-            <TilePosition />
-          </MergeInfo>
-        </FloatingInfo>
-      </DockingBarState>
-    </DocumentWindowInfoForTabElement>
-    <DocumentWindowInfoForTabElement>
-      <Name>WIND_COR</Name>
-      <SaveKey>[Ladder]WIND_COR</SaveKey>
-      <DockingBarState>
-        <Key>Document@Ladder-830393520</Key>
-        <Usable>true</Usable>
-        <IsFloating>false</IsFloating>
-        <DockingInfo>
-          <IsCenter>true</IsCenter>
-          <DockingSide>Left</DockingSide>
-          <IsAutoHide>false</IsAutoHide>
-          <Size>
-            <Width>1087</Width>
-            <Height>997</Height>
-          </Size>
-          <LeftIndex>-1</LeftIndex>
-          <TopIndex>-1</TopIndex>
-          <RightIndex>-1</RightIndex>
-          <BottomIndex>-1</BottomIndex>
-          <MergeInfo>
-            <TabIndex>6</TabIndex>
-            <IsTabSelected>false</IsTabSelected>
-            <TilePosition />
-          </MergeInfo>
-        </DockingInfo>
-        <FloatingInfo>
-          <DockingKey>0</DockingKey>
-          <Location>
-            <X>0</X>
-            <Y>0</Y>
-          </Location>
-          <Size>
-            <Width>624</Width>
-            <Height>326</Height>
-          </Size>
-          <MergeInfo>
-            <TabIndex>-1</TabIndex>
-            <IsTabSelected>false</IsTabSelected>
-            <TilePosition />
-          </MergeInfo>
-        </FloatingInfo>
-      </DockingBarState>
-    </DocumentWindowInfoForTabElement>
-    <DocumentWindowInfoForTabElement>
-      <Name>Unit5</Name>
-      <SaveKey>[Ladder]Unit5</SaveKey>
-      <DockingBarState>
-        <Key>Document@Ladder-1524096712</Key>
-        <Usable>true</Usable>
-        <IsFloating>false</IsFloating>
-        <DockingInfo>
-          <IsCenter>true</IsCenter>
-          <DockingSide>Left</DockingSide>
-          <IsAutoHide>false</IsAutoHide>
-          <Size>
-            <Width>1087</Width>
-            <Height>997</Height>
+            <Width>1144</Width>
+            <Height>1041</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
@@ -217,10 +131,10 @@
       </DockingBarState>
     </DocumentWindowInfoForTabElement>
     <DocumentWindowInfoForTabElement>
-      <Name>構造体[RCON_COT]</Name>
-      <SaveKey>構造体:RCON_COT</SaveKey>
+      <Name>CONV_RAD_ACT</Name>
+      <SaveKey>[Ladder]CONV_RAD_ACT</SaveKey>
       <DockingBarState>
-        <Key>Document@構造体:455720592</Key>
+        <Key>Document@Ladder-455087552</Key>
         <Usable>true</Usable>
         <IsFloating>false</IsFloating>
         <DockingInfo>
@@ -228,101 +142,15 @@
           <DockingSide>Left</DockingSide>
           <IsAutoHide>false</IsAutoHide>
           <Size>
-            <Width>1087</Width>
-            <Height>997</Height>
+            <Width>1144</Width>
+            <Height>1041</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
           <RightIndex>-1</RightIndex>
           <BottomIndex>-1</BottomIndex>
           <MergeInfo>
-            <TabIndex>0</TabIndex>
-            <IsTabSelected>false</IsTabSelected>
-            <TilePosition />
-          </MergeInfo>
-        </DockingInfo>
-        <FloatingInfo>
-          <DockingKey>0</DockingKey>
-          <Location>
-            <X>0</X>
-            <Y>0</Y>
-          </Location>
-          <Size>
-            <Width>624</Width>
-            <Height>326</Height>
-          </Size>
-          <MergeInfo>
-            <TabIndex>-1</TabIndex>
-            <IsTabSelected>false</IsTabSelected>
-            <TilePosition />
-          </MergeInfo>
-        </FloatingInfo>
-      </DockingBarState>
-    </DocumentWindowInfoForTabElement>
-    <DocumentWindowInfoForTabElement>
-      <Name>Unit4</Name>
-      <SaveKey>[Ladder]Unit4</SaveKey>
-      <DockingBarState>
-        <Key>Document@Ladder-751374976</Key>
-        <Usable>true</Usable>
-        <IsFloating>false</IsFloating>
-        <DockingInfo>
-          <IsCenter>true</IsCenter>
-          <DockingSide>Left</DockingSide>
-          <IsAutoHide>false</IsAutoHide>
-          <Size>
-            <Width>1087</Width>
-            <Height>997</Height>
-          </Size>
-          <LeftIndex>-1</LeftIndex>
-          <TopIndex>-1</TopIndex>
-          <RightIndex>-1</RightIndex>
-          <BottomIndex>-1</BottomIndex>
-          <MergeInfo>
-            <TabIndex>2</TabIndex>
-            <IsTabSelected>false</IsTabSelected>
-            <TilePosition />
-          </MergeInfo>
-        </DockingInfo>
-        <FloatingInfo>
-          <DockingKey>0</DockingKey>
-          <Location>
-            <X>0</X>
-            <Y>0</Y>
-          </Location>
-          <Size>
-            <Width>624</Width>
-            <Height>326</Height>
-          </Size>
-          <MergeInfo>
-            <TabIndex>-1</TabIndex>
-            <IsTabSelected>false</IsTabSelected>
-            <TilePosition />
-          </MergeInfo>
-        </FloatingInfo>
-      </DockingBarState>
-    </DocumentWindowInfoForTabElement>
-    <DocumentWindowInfoForTabElement>
-      <Name>KAxisCtrl</Name>
-      <SaveKey>[Ladder]KAxisCtrl</SaveKey>
-      <DockingBarState>
-        <Key>Document@Ladder-534593824</Key>
-        <Usable>true</Usable>
-        <IsFloating>false</IsFloating>
-        <DockingInfo>
-          <IsCenter>true</IsCenter>
-          <DockingSide>Left</DockingSide>
-          <IsAutoHide>false</IsAutoHide>
-          <Size>
-            <Width>1087</Width>
-            <Height>997</Height>
-          </Size>
-          <LeftIndex>-1</LeftIndex>
-          <TopIndex>-1</TopIndex>
-          <RightIndex>-1</RightIndex>
-          <BottomIndex>-1</BottomIndex>
-          <MergeInfo>
-            <TabIndex>5</TabIndex>
+            <TabIndex>3</TabIndex>
             <IsTabSelected>false</IsTabSelected>
             <TilePosition />
           </MergeInfo>
@@ -357,15 +185,15 @@
           <DockingSide>Left</DockingSide>
           <IsAutoHide>false</IsAutoHide>
           <Size>
-            <Width>1087</Width>
-            <Height>997</Height>
+            <Width>1144</Width>
+            <Height>1041</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
           <RightIndex>-1</RightIndex>
           <BottomIndex>-1</BottomIndex>
           <MergeInfo>
-            <TabIndex>3</TabIndex>
+            <TabIndex>7</TabIndex>
             <IsTabSelected>false</IsTabSelected>
             <TilePosition />
           </MergeInfo>
@@ -389,10 +217,10 @@
       </DockingBarState>
     </DocumentWindowInfoForTabElement>
     <DocumentWindowInfoForTabElement>
-      <Name>Axis14.fbMng(KAxisCtrl)</Name>
-      <SaveKey>[Ladder]KAxisCtrl</SaveKey>
+      <Name>Unit1</Name>
+      <SaveKey>[Ladder]Unit1</SaveKey>
       <DockingBarState>
-        <Key>Document@Ladder-1099478376</Key>
+        <Key>Document@Ladder-591916104</Key>
         <Usable>true</Usable>
         <IsFloating>false</IsFloating>
         <DockingInfo>
@@ -400,8 +228,137 @@
           <DockingSide>Left</DockingSide>
           <IsAutoHide>false</IsAutoHide>
           <Size>
-            <Width>1087</Width>
-            <Height>997</Height>
+            <Width>1144</Width>
+            <Height>1041</Height>
+          </Size>
+          <LeftIndex>-1</LeftIndex>
+          <TopIndex>-1</TopIndex>
+          <RightIndex>-1</RightIndex>
+          <BottomIndex>-1</BottomIndex>
+          <MergeInfo>
+            <TabIndex>2</TabIndex>
+            <IsTabSelected>false</IsTabSelected>
+            <TilePosition />
+          </MergeInfo>
+        </DockingInfo>
+        <FloatingInfo>
+          <DockingKey>0</DockingKey>
+          <Location>
+            <X>0</X>
+            <Y>0</Y>
+          </Location>
+          <Size>
+            <Width>624</Width>
+            <Height>326</Height>
+          </Size>
+          <MergeInfo>
+            <TabIndex>-1</TabIndex>
+            <IsTabSelected>false</IsTabSelected>
+            <TilePosition />
+          </MergeInfo>
+        </FloatingInfo>
+      </DockingBarState>
+    </DocumentWindowInfoForTabElement>
+    <DocumentWindowInfoForTabElement>
+      <Name>Unit5</Name>
+      <SaveKey>[Ladder]Unit5</SaveKey>
+      <DockingBarState>
+        <Key>Document@Ladder-1524096712</Key>
+        <Usable>true</Usable>
+        <IsFloating>false</IsFloating>
+        <DockingInfo>
+          <IsCenter>true</IsCenter>
+          <DockingSide>Left</DockingSide>
+          <IsAutoHide>false</IsAutoHide>
+          <Size>
+            <Width>1144</Width>
+            <Height>1041</Height>
+          </Size>
+          <LeftIndex>-1</LeftIndex>
+          <TopIndex>-1</TopIndex>
+          <RightIndex>-1</RightIndex>
+          <BottomIndex>-1</BottomIndex>
+          <MergeInfo>
+            <TabIndex>5</TabIndex>
+            <IsTabSelected>false</IsTabSelected>
+            <TilePosition />
+          </MergeInfo>
+        </DockingInfo>
+        <FloatingInfo>
+          <DockingKey>0</DockingKey>
+          <Location>
+            <X>0</X>
+            <Y>0</Y>
+          </Location>
+          <Size>
+            <Width>624</Width>
+            <Height>326</Height>
+          </Size>
+          <MergeInfo>
+            <TabIndex>-1</TabIndex>
+            <IsTabSelected>false</IsTabSelected>
+            <TilePosition />
+          </MergeInfo>
+        </FloatingInfo>
+      </DockingBarState>
+    </DocumentWindowInfoForTabElement>
+    <DocumentWindowInfoForTabElement>
+      <Name>Unit4</Name>
+      <SaveKey>[Ladder]Unit4</SaveKey>
+      <DockingBarState>
+        <Key>Document@Ladder-818816968</Key>
+        <Usable>true</Usable>
+        <IsFloating>false</IsFloating>
+        <DockingInfo>
+          <IsCenter>true</IsCenter>
+          <DockingSide>Left</DockingSide>
+          <IsAutoHide>false</IsAutoHide>
+          <Size>
+            <Width>1144</Width>
+            <Height>1041</Height>
+          </Size>
+          <LeftIndex>-1</LeftIndex>
+          <TopIndex>-1</TopIndex>
+          <RightIndex>-1</RightIndex>
+          <BottomIndex>-1</BottomIndex>
+          <MergeInfo>
+            <TabIndex>8</TabIndex>
+            <IsTabSelected>false</IsTabSelected>
+            <TilePosition />
+          </MergeInfo>
+        </DockingInfo>
+        <FloatingInfo>
+          <DockingKey>0</DockingKey>
+          <Location>
+            <X>0</X>
+            <Y>0</Y>
+          </Location>
+          <Size>
+            <Width>624</Width>
+            <Height>326</Height>
+          </Size>
+          <MergeInfo>
+            <TabIndex>-1</TabIndex>
+            <IsTabSelected>false</IsTabSelected>
+            <TilePosition />
+          </MergeInfo>
+        </FloatingInfo>
+      </DockingBarState>
+    </DocumentWindowInfoForTabElement>
+    <DocumentWindowInfoForTabElement>
+      <Name>Unit2</Name>
+      <SaveKey>[Ladder]Unit2</SaveKey>
+      <DockingBarState>
+        <Key>Document@Ladder-593225256</Key>
+        <Usable>true</Usable>
+        <IsFloating>false</IsFloating>
+        <DockingInfo>
+          <IsCenter>true</IsCenter>
+          <DockingSide>Left</DockingSide>
+          <IsAutoHide>false</IsAutoHide>
+          <Size>
+            <Width>1144</Width>
+            <Height>1041</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
@@ -409,6 +366,49 @@
           <BottomIndex>-1</BottomIndex>
           <MergeInfo>
             <TabIndex>1</TabIndex>
+            <IsTabSelected>false</IsTabSelected>
+            <TilePosition />
+          </MergeInfo>
+        </DockingInfo>
+        <FloatingInfo>
+          <DockingKey>0</DockingKey>
+          <Location>
+            <X>0</X>
+            <Y>0</Y>
+          </Location>
+          <Size>
+            <Width>624</Width>
+            <Height>326</Height>
+          </Size>
+          <MergeInfo>
+            <TabIndex>-1</TabIndex>
+            <IsTabSelected>false</IsTabSelected>
+            <TilePosition />
+          </MergeInfo>
+        </FloatingInfo>
+      </DockingBarState>
+    </DocumentWindowInfoForTabElement>
+    <DocumentWindowInfoForTabElement>
+      <Name>Axis4.fbMng(AZD_Ctrl)</Name>
+      <SaveKey>[Ladder]AZD_Ctrl</SaveKey>
+      <DockingBarState>
+        <Key>Document@Ladder-828787480</Key>
+        <Usable>true</Usable>
+        <IsFloating>false</IsFloating>
+        <DockingInfo>
+          <IsCenter>true</IsCenter>
+          <DockingSide>Left</DockingSide>
+          <IsAutoHide>false</IsAutoHide>
+          <Size>
+            <Width>1144</Width>
+            <Height>1041</Height>
+          </Size>
+          <LeftIndex>-1</LeftIndex>
+          <TopIndex>-1</TopIndex>
+          <RightIndex>-1</RightIndex>
+          <BottomIndex>-1</BottomIndex>
+          <MergeInfo>
+            <TabIndex>0</TabIndex>
             <IsTabSelected>true</IsTabSelected>
             <TilePosition />
           </MergeInfo>

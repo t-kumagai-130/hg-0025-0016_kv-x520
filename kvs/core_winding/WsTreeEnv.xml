@@ -6070,11 +6070,11 @@
 							<Child>
 								<value.first>Abnormal [7]</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -6098,7 +6098,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Auto [9]:原点復帰</value.first>
+								<value.first>Auto [9]:自動動作</value.first>
 								<value.second>
 									<Expanded>1</Expanded>
 									<Child>
@@ -8242,11 +8242,11 @@
 							<Child>
 								<value.first>Data [6]:情報</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -9652,7 +9652,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>[9]カット動作</value.first>
+												<value.first>[5]カット動作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -9778,7 +9778,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>[9]カット動作</value.first>
+												<value.first>[5]カット動作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -9850,11 +9850,11 @@
 							<Child>
 								<value.first>Unit3 [13]:ユニットプログラム：箔ロウ部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>

@@ -568,6 +568,12 @@
 						</value.second>
 					</Child>
 					<Child>
+						<value.first>CONV_RAD_ACT_INST</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
 						<value.first>CYLNDER</value.first>
 						<value.second>
 							<Expanded>1</Expanded>
@@ -847,6 +853,12 @@
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>MATH_CONST</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
 						</value.second>
 					</Child>
 					<Child>
@@ -2458,7 +2470,7 @@
 							<Child>
 								<value.first>ブックマーク</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>END</value.first>
 										<value.second>
@@ -6806,7 +6818,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>

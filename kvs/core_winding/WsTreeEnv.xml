@@ -664,6 +664,24 @@
 						</value.second>
 					</Child>
 					<Child>
+						<value.first>EDGE_SEARCH_POINT</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>EDGE_SEARCH_SET</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>EDGE_SEARCH_STA</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
 						<value.first>EXE</value.first>
 						<value.second>
 							<Expanded>1</Expanded>
@@ -1115,6 +1133,12 @@
 					</Child>
 					<Child>
 						<value.first>SET_CHECK_STA</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>TP_GRAPH_POINT</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 						</value.second>
@@ -2470,7 +2494,7 @@
 							<Child>
 								<value.first>ブックマーク</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>END</value.first>
 										<value.second>
@@ -10222,7 +10246,7 @@
 							<Child>
 								<value.first>Unit5 [15]:ユニットプログラム：溶接部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

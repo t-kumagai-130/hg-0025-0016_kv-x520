@@ -682,6 +682,12 @@
 						</value.second>
 					</Child>
 					<Child>
+						<value.first>ERR</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
 						<value.first>EXE</value.first>
 						<value.second>
 							<Expanded>1</Expanded>
@@ -1252,6 +1258,12 @@
 						</value.second>
 					</Child>
 					<Child>
+						<value.first>WIND_RAD_P_ANG</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
 						<value.first>WIND_SET</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
@@ -1281,36 +1293,6 @@
 				<value.first>ファンクションブロック</value.first>
 				<value.second>
 					<Expanded>1</Expanded>
-					<Child>
-						<value.first>APP_FORMULA:近似1次式生成</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-							<Child>
-								<value.first>ブックマーク</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-									<Child>
-										<value.first>END</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>ENDH</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>ローカル変数</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-								</value.second>
-							</Child>
-						</value.second>
-					</Child>
 					<Child>
 						<value.first>AXIS</value.first>
 						<value.second>
@@ -1534,7 +1516,7 @@
 							<Child>
 								<value.first>ブックマーク</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>EDN</value.first>
 										<value.second>
@@ -2490,7 +2472,7 @@
 					<Child>
 						<value.first>KAxisCtrl</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>ブックマーク</value.first>
 								<value.second>
@@ -2557,6 +2539,12 @@
 									</Child>
 									<Child>
 										<value.first>[7]座標変更</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>[8]速度制御</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -2998,7 +2986,7 @@
 							<Child>
 								<value.first>ブックマーク</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>EDN</value.first>
 										<value.second>
@@ -5922,7 +5910,157 @@
 					<Child>
 						<value.first>WIND</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
+							<Child>
+								<value.first>APP_FORMULA_PPA:近似1次式生成[周長mm/deg]</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>APP_FORMULA_RPA:近似1次式生成[周長半径mm/deg]</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>WIND_COR:巻き補正 補正値計算</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>WIND_COR_APP:巻き補正 補正値適用</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>WIND_COR_INIT:巻き補正 初期化</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
 							<Child>
 								<value.first>WIND_INSERT</value.first>
 								<value.second>
@@ -5953,54 +6091,30 @@
 									</Child>
 								</value.second>
 							</Child>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>WIND_COR:巻き補正 補正値計算</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
 							<Child>
-								<value.first>ブックマーク</value.first>
+								<value.first>WIND_MINMAX</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
-										<value.first>END</value.first>
+										<value.first>ブックマーク</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>ENDH</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>ローカル変数</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-								</value.second>
-							</Child>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>WIND_COR_APP:巻き補正 補正値適用</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-							<Child>
-								<value.first>ブックマーク</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-									<Child>
-										<value.first>END</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>ENDH</value.first>
+										<value.first>ローカル変数</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -6008,69 +6122,33 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>ローカル変数</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-								</value.second>
-							</Child>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>WIND_COR_INIT:巻き補正 初期化</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-							<Child>
-								<value.first>ブックマーク</value.first>
+								<value.first>WIN_COR_INS:巻き補正 計測処理</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
-										<value.first>END</value.first>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
-									<Child>
-										<value.first>ENDH</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>ローカル変数</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-								</value.second>
-							</Child>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>WIN_COR_INS:巻き補正 計測処理</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-							<Child>
-								<value.first>ブックマーク</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-									<Child>
-										<value.first>END</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>ENDH</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>ローカル変数</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 						</value.second>
@@ -8380,7 +8458,7 @@
 							<Child>
 								<value.first>Data [6]:情報</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -9868,7 +9946,7 @@
 							<Child>
 								<value.first>Unit2 [12]:ユニットプログラム：波板部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

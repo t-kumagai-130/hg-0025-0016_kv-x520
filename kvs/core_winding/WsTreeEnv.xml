@@ -9988,7 +9988,7 @@
 							<Child>
 								<value.first>Unit2 [12]:ユニットプログラム：波板部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -10043,6 +10043,12 @@
 											</Child>
 											<Child>
 												<value.first>[5]カット動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[6]供給確認動作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

@@ -9106,7 +9106,7 @@
 							<Child>
 								<value.first>Setting [3]:設定</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -9268,7 +9268,7 @@
 							<Child>
 								<value.first>TP1 [58]:タッチパネル1</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -9341,6 +9341,12 @@
 											</Child>
 											<Child>
 												<value.first>メインボタン</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>モニタ</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -10120,7 +10126,7 @@
 							<Child>
 								<value.first>Unit3 [13]:ユニットプログラム：箔ロウ部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -10372,7 +10378,7 @@
 							<Child>
 								<value.first>Unit5 [15]:ユニットプログラム：溶接部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

@@ -568,6 +568,18 @@
 						</value.second>
 					</Child>
 					<Child>
+						<value.first>CONST_CPSI:セル密度データ</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>CONST_MATH</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
 						<value.first>CONV_RAD_ACT_INST</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
@@ -883,12 +895,6 @@
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>MATH_CONST</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
 						</value.second>
 					</Child>
 					<Child>
@@ -8758,11 +8764,11 @@
 							<Child>
 								<value.first>Files [67]</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -8938,7 +8944,7 @@
 							<Child>
 								<value.first>Main [8]</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -9214,6 +9220,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>出力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>削除</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -9293,6 +9305,12 @@
 											</Child>
 											<Child>
 												<value.first>├ TPL</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>しおり</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -10240,7 +10258,7 @@
 							<Child>
 								<value.first>Unit4 [14]:ユニットプログラム：主軸部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

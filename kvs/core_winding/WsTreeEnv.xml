@@ -756,9 +756,15 @@
 					<Child>
 						<value.first>FILES</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>FILE</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>FILE06_DATA</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -1043,6 +1049,18 @@
 					</Child>
 					<Child>
 						<value.first>SET_CHECK_STA</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>SUP_SET</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>SUP_STA</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 						</value.second>
@@ -2185,6 +2203,36 @@
 						<value.first>FILES</value.first>
 						<value.second>
 							<Expanded>1</Expanded>
+							<Child>
+								<value.first>FD06_ADD</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
 							<Child>
 								<value.first>FD_LOG_ADD</value.first>
 								<value.second>
@@ -6020,6 +6068,66 @@
 								</value.second>
 							</Child>
 							<Child>
+								<value.first>WIND_ACT_LEN</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>WIND_ACT_RAD</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
 								<value.first>WIND_COR:巻き補正 補正値計算</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
@@ -8770,7 +8878,7 @@
 							<Child>
 								<value.first>Files [67]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -9422,7 +9530,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>   │ └ 全選択/全解除</value.first>
 												<value.second>
@@ -9592,7 +9700,7 @@
 							<Child>
 								<value.first>TP1_manual [65]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -9736,11 +9844,11 @@
 							<Child>
 								<value.first>TP1_moni [60]:モニタ</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -9749,6 +9857,12 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>TPL / TPBIL</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -10018,7 +10132,7 @@
 							<Child>
 								<value.first>Unit2 [12]:ユニットプログラム：波板部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -10402,7 +10516,7 @@
 							<Child>
 								<value.first>Unit5 [15]:ユニットプログラム：溶接部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -10892,7 +11006,7 @@
 									<Child>
 										<value.first>SV3ツール</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>チューニング</value.first>
 												<value.second>
@@ -11133,12 +11247,18 @@
 							<Expanded>0</Expanded>
 						</value.second>
 					</Child>
+					<Child>
+						<value.first>[3]  KV-AM40V    R33800  DM10300</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
 				</value.second>
 			</Child>
 			<Child>
 				<value.first>変数</value.first>
 				<value.second>
-					<Expanded>0</Expanded>
+					<Expanded>1</Expanded>
 					<Child>
 						<value.first>(Default)</value.first>
 						<value.second>
@@ -11153,6 +11273,12 @@
 					</Child>
 					<Child>
 						<value.first>Axis</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>File</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 						</value.second>

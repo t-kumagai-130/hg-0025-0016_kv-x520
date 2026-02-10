@@ -494,19 +494,19 @@
 						<value.second>
 							<Expanded>1</Expanded>
 							<Child>
-								<value.first>AZD_CIN</value.first>
+								<value.first>AZD_CIN:OrientalMotor AZD-KEP 制御入力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>AZD_COT</value.first>
+								<value.first>AZD_COT:OrientalMotor AZD-KEP 制御出力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>AZD_DRV</value.first>
+								<value.first>AZD_DRV:OrientalMotor AZD-KEP 通信デバイス</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -530,25 +530,25 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>AZD_PDATA</value.first>
+								<value.first>AZD_PDATA:OrientalMotor AZD-KEP ポジションデータ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>AZD_SET</value.first>
+								<value.first>AZD_SET:OrientalMotor AZD-KEP 動作設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>AZD_STA</value.first>
+								<value.first>AZD_STA:OrientalMotor AZD-KEP 動作状態</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>AZD_TP</value.first>
+								<value.first>AZD_TP:OrientalMotor AZD-KEP タッチパネルデバイス</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -568,19 +568,7 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>CONST_CPSI:セル密度データ</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
 						<value.first>CONST_MATH</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>CONV_RAD_ACT_INST</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 						</value.second>
@@ -590,37 +578,37 @@
 						<value.second>
 							<Expanded>1</Expanded>
 							<Child>
-								<value.first>CMGR_RET:状態(保持)</value.first>
+								<value.first>CMGR_RET:Cylinder manager 動作状態(保持)</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>CMGR_SET</value.first>
+								<value.first>CMGR_SET:Cylinder manager 動作設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>CMGR_STA</value.first>
+								<value.first>CMGR_STA:Cylinder manager 動作状態</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>CMGR_TP</value.first>
+								<value.first>CMGR_TP:Cylinder manager タッチパネルデバイス</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>CYL_CIN</value.first>
+								<value.first>CYL_CIN:Cylinder 制御入力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>CYL_COT</value.first>
+								<value.first>CYL_COT:Cylinder 制御出力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -638,59 +626,29 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>CYL_SET:シリンダ制御</value.first>
+								<value.first>CYL_MOVE_SET:Cylinder Control 動作情報設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>CYL_SET_MOVE</value.first>
+								<value.first>CYL_MOVE_STA:Cylinder Control 動作情報状態</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>CYL_STA:シリンダ状態</value.first>
+								<value.first>CYL_SET:Cylinder Control 動作設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>CYL_STA_MOVE</value.first>
+								<value.first>CYL_STA:Cylinder Control 動作状態</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>DEV_COT</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>DL_EP1_IN100</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>EDGE_SEARCH_POINT</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>EDGE_SEARCH_SET</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>EDGE_SEARCH_STA</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
 						</value.second>
 					</Child>
 					<Child>
@@ -756,7 +714,7 @@
 					<Child>
 						<value.first>FILES</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>FILE</value.first>
 								<value.second>
@@ -790,51 +748,9 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>FOIL_STOP:箔ロウ溶接 停止位置リスト</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>GT_SET</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>GT_STA</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>GT_VAL</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>INS_SET</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>INS_STA</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>INS_THIC_P_ANG</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
 						<value.first>KSV</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>KSV_CIN</value.first>
 								<value.second>
@@ -928,21 +844,135 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>MOD_CIN</value.first>
+						<value.first>PROD</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>MOD_CONF:モジュール設定</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>MOD_COT</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
+							<Child>
+								<value.first>CONST_CPSI:セル密度データ</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>CONV_RAD_ACT_INST:ファンクション変数(RAD_ACT_INST)</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>EDGE_SEARCH_POINT</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>EDGE_SEARCH_SET</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>EDGE_SEARCH_STA</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>FOIL_STOP:箔ロウ溶接 停止位置リスト</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>GT_SET</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>GT_STA</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>GT_VAL</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>INS_SET</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>INS_STA</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>INS_THIC_P_ANG</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>SUP_SET</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>SUP_STA</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>WARK</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>WIND_PER_P_ANG</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>WIND_POINT</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>WIND_RAD</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>WIND_RAD_P_ANG</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>WIND_SET</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>WIND_STA</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
 						</value.second>
 					</Child>
 					<Child>
@@ -954,7 +984,7 @@
 					<Child>
 						<value.first>RCON</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>RCON_CIN</value.first>
 								<value.second>
@@ -1042,33 +1072,27 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>SET_CHECK_LIMIT_UINT</value.first>
+						<value.first>SETTING</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>SET_CHECK_STA</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>SUP_SET</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>SUP_STA</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
+							<Child>
+								<value.first>SET_CHECK_LIMIT_UINT</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>SET_CHECK_STA</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
 						</value.second>
 					</Child>
 					<Child>
 						<value.first>TP</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>PT_BKMRK</value.first>
 								<value.second>
@@ -1177,66 +1201,84 @@
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
+							<Child>
+								<value.first>TP_GRAPH_POINT</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>TP_GRAPH_POINT</value.first>
+						<value.first>UNIT</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>U4_EXE4_PRM</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>U5_EXE3_PRM</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>UNI_CYCL_SET</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>UNI_CYC_CIN</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>UNI_CYC_COT</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>UNI_CYC_STA</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>UNI_SYCL_TP</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>UTM_VAL:UTMⅡアナログデータ</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>UTM_VALS:UTMⅡアナログデータ配列</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
+							<Child>
+								<value.first>DEV_COT</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>MOD_CIN</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>MOD_CONF:モジュール設定</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>MOD_COT</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>U4_EXE4_PRM</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>U5_EXE3_PRM</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>UNI_CYCL_SET</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>UNI_CYC_CIN</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>UNI_CYC_COT</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>UNI_CYC_STA</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>UNI_SYCL_TP</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
 						</value.second>
 					</Child>
 					<Child>
@@ -1264,61 +1306,13 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>WARK</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
 						<value.first>WELD_TP</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>WIND_PER_P_ANG</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>WIND_POINT</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>WIND_RAD</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>WIND_RAD_P_ANG</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>WIND_SET</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>WIND_STA</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
 						<value.first>csv_file_data</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>inspection_result_data</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 						</value.second>
@@ -7448,7 +7442,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis_IN [5]</value.first>
+								<value.first>Axis_IN [4]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8990,7 +8984,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>IN [4]:入力処理</value.first>
+								<value.first>IN [3]:入力処理</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -9224,13 +9218,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Setting [3]:設定</value.first>
+								<value.first>Setting [5]:設定</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -10516,7 +10510,7 @@
 							<Child>
 								<value.first>Unit5 [15]:ユニットプログラム：溶接部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -10983,6 +10977,12 @@
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
+											<Child>
+												<value.first>[2]  IL-1050/1550</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
 										</value.second>
 									</Child>
 									<Child>
@@ -11273,6 +11273,18 @@
 					</Child>
 					<Child>
 						<value.first>Axis</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>Cylnder</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>Data</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 						</value.second>

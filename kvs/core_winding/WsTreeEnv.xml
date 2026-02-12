@@ -492,7 +492,7 @@
 					<Child>
 						<value.first>AZD</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>AZD_CIN:OrientalMotor AZD-KEP 制御入力</value.first>
 								<value.second>
@@ -576,7 +576,7 @@
 					<Child>
 						<value.first>CYLNDER</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>CMGR_RET:Cylinder manager 動作状態(保持)</value.first>
 								<value.second>
@@ -660,7 +660,7 @@
 					<Child>
 						<value.first>EXE</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>EXE_CIN</value.first>
 								<value.second>
@@ -822,7 +822,7 @@
 					<Child>
 						<value.first>MODEL</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>MODEL</value.first>
 								<value.second>
@@ -984,7 +984,7 @@
 					<Child>
 						<value.first>RCON</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>RCON_CIN</value.first>
 								<value.second>
@@ -1074,7 +1074,7 @@
 					<Child>
 						<value.first>SETTING</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>SET_CHECK_LIMIT_UINT</value.first>
 								<value.second>
@@ -1212,7 +1212,7 @@
 					<Child>
 						<value.first>UNIT</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>DEV_COT</value.first>
 								<value.second>
@@ -6406,7 +6406,7 @@
 							<Child>
 								<value.first>Auto [9]:自動動作</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -9052,7 +9052,7 @@
 							<Child>
 								<value.first>Main [8]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -9388,7 +9388,7 @@
 							<Child>
 								<value.first>TP1 [58]:タッチパネル1</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -9838,7 +9838,7 @@
 							<Child>
 								<value.first>TP1_moni [60]:モニタ</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -10372,7 +10372,7 @@
 							<Child>
 								<value.first>Unit4 [14]:ユニットプログラム：主軸部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -10510,7 +10510,7 @@
 							<Child>
 								<value.first>Unit5 [15]:ユニットプログラム：溶接部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -10618,7 +10618,7 @@
 							<Child>
 								<value.first>Unit6 [16]:ユニットプログラム：排出部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

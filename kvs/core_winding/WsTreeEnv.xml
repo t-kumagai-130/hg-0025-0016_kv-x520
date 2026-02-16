@@ -492,7 +492,7 @@
 					<Child>
 						<value.first>AZD</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>AZD_CIN:OrientalMotor AZD-KEP 制御入力</value.first>
 								<value.second>
@@ -660,7 +660,7 @@
 					<Child>
 						<value.first>EXE</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>EXE_CIN</value.first>
 								<value.second>
@@ -822,7 +822,7 @@
 					<Child>
 						<value.first>MODEL</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>MODEL</value.first>
 								<value.second>
@@ -3360,11 +3360,11 @@
 					<Child>
 						<value.first>UniversalLibrary</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>Motor</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>IAI_CON_EIP</value.first>
 										<value.second>
@@ -5963,6 +5963,1488 @@
 											</Child>
 										</value.second>
 									</Child>
+									<Child>
+										<value.first>ORIEN_AZ</value.first>
+										<value.second>
+											<Expanded>1</Expanded>
+											<Child>
+												<value.first>AC_Home_ORIEN_AZ_V100:原点復帰</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>Check Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Result</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Skip Req</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control state</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control step</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Disable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Enable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Local Variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Parameters</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Read Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Set Command</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Start FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Arguments</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Axis Status</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update local variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Write Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-state(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-step(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-state (ExecBody)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-step (Req)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>AC_InitAxis_ORIEN_AZ_V100:軸変数初期設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>Create AxisInfo</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Disable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Enable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Local Variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Arguments</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update local variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>AC_Jog_ORIEN_AZ_V100:JOG</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>Check Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Skip Req</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check　Request</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control state</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control step</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Disable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Enable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Local Variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Parameters</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Read Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Set Command</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Start FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Arguments</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Axis Status</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update local variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Write Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-state(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-step(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-state (ExecBody)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-step (Req)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>AC_MoveAbsolute_ORIEN_AZ_V100:絶対位置決め</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>Check Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Result</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Skip Req</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control state</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control step</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Disable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Enable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Local Variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Parameters</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Read Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Set Command</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Start FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Arguments</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Axis Status</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update local variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Write Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-state(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-step(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-state (ExecBody)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-step (Req)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>AC_MoveRelative_ORIEN_AZ_V100:相対位置決め</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>Check Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Result</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Skip Req</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control state</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control step</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Disable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Enable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Local Variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Parameters</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Read Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Set Command</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Start FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Arguments</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Axis Status</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update local variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Write Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-state(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-step(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-state (ExecBody)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-step (Req)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>AC_Power_ORIEN_AZ_V100:サーボON</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>Check Node Status</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Disable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Enable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Execute ServoOn/Off</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Parameters</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Read Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Arguments</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Parameters</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Write Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>AC_PressAbsolute_ORIEN_AZ_V100:絶対値押し当て</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>Check Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Result</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Skip Req</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control state</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control step</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Disable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Enable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Local Variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Parameters</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Read Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Set Command</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Start FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Arguments</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Axis Status</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update local variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Write Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-state(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-step(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-state (ExecBody)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-step (Req)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>AC_PressRelative_ORIEN_AZ_V100:相対値押し当て</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>Check Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Result</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Skip Req</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control state</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control step</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Disable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Enable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Local Variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Parameters</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Read Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Set Command</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Start FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Arguments</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Axis Status</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update local variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Write Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-state(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-step(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-state (ExecBody)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-step (Req)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>AC_ReadAxisError_ORIEN_AZ_V100:軸エラー読み出し</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>Disable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Enable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Local Variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Read Axis AlarmCode</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Arguments</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update local variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>AC_Reset_ORIEN_AZ_V100:軸エラークリア</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>Check Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Result</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Skip Req</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control state</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control step</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Disable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Enable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Local Variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Parameters</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Read Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Set Command</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Start FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Arguments</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Axis Status</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update local variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Write Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-state(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-step(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-state (ExecBody)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-step (Req)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>AC_Stop_ORIEN_AZ_V100:減速停止</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>Check Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Result</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Skip Req</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control state</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control step</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Disable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Enable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Local Variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Parameters</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Read Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Set Command</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Start FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Arguments</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Axis Status</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update local variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Write Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-state(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-step(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-state (ExecBody)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-step (Req)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
 								</value.second>
 							</Child>
 						</value.second>
@@ -6436,6 +7918,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>[1～]自立起動</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>[2]供給動作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -6536,7 +8024,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis1 [20]:【軸1】箔ロウリール軸：5TK20GN-CW2J+5GN180K</value.first>
+								<value.first>Axis1 [21]:【軸1】箔ロウリール軸：5TK20GN-CW2J+5GN180K</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6644,7 +8132,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis10 [29]:【軸10】バインダー供給ポンプモータ：</value.first>
+								<value.first>Axis10 [30]:【軸10】バインダー供給ポンプモータ：</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6686,7 +8174,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis11 [30]:【軸11】波板リールモータ：</value.first>
+								<value.first>Axis11 [31]:【軸11】波板リールモータ：</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6716,7 +8204,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis12 [31]:【軸12】平板リールモータ：</value.first>
+								<value.first>Axis12 [32]:【軸12】平板リールモータ：</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6746,7 +8234,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis13 [32]:【軸13】巻取り主軸：SV3-B075AK</value.first>
+								<value.first>Axis13 [33]:【軸13】巻取り主軸：SV3-B075AK</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6806,7 +8294,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis14 [33]:【軸14】ワーク幅調整軸：SV3-M040AK</value.first>
+								<value.first>Axis14 [34]:【軸14】ワーク幅調整軸：SV3-M040AK</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6866,7 +8354,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis15 [34]:【軸15】Tロール回転軸：M540-402</value.first>
+								<value.first>Axis15 [35]:【軸15】Tロール回転軸：M540-402</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6908,7 +8396,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis16 [35]:【軸16】ロータユニットXロール回転軸：M540-402</value.first>
+								<value.first>Axis16 [36]:【軸16】ロータユニットXロール回転軸：M540-402</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -6950,61 +8438,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis2 [21]:【軸2】平板送り軸：AZM46AC-HP9+AZD-CEP+CC070VZR</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-									<Child>
-										<value.first>ブックマーク</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-											<Child>
-												<value.first>END</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ENDH</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>入力</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>制御/描画</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>原点モニタ</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>設定</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>ローカル変数</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>Axis3 [22]:【軸3】箔ロウ送り軸：AZM46AC-HP9+AZD-CEP+CC070VZR</value.first>
+								<value.first>Axis17 [37]:【軸17】波板補助軸：AZD-KEP+AZM15AK</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7064,7 +8498,61 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis4 [23]:【軸4】波板送り軸：AZM46AC-HP9+AZD-CEP+CC070VZR</value.first>
+								<value.first>Axis2 [22]:【軸2】平板送り軸：AZM46AC-HP9+AZD-CEP+CC070VZR</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>制御/描画</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>Axis3 [23]:【軸3】箔ロウ送り軸：AZM46AC-HP9+AZD-CEP+CC070VZR</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7124,7 +8612,67 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis5 [24]:【軸5】ワーク排出上下軸：RCP6-SA7R-WA-56P-16-400-P5-S-B-MR</value.first>
+								<value.first>Axis4 [24]:【軸4】波板送り軸：AZM46AC-HP9+AZD-CEP+CC070VZR</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>EDN</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>PU</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>制御/描画</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>Axis5 [25]:【軸5】ワーク排出上下軸：RCP6-SA7R-WA-56P-16-400-P5-S-B-MR</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7196,7 +8744,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis6 [25]:【軸6】周長測定子上下軸：RCA2-GS3NA-I-10-2-50-A6-M-K1</value.first>
+								<value.first>Axis6 [26]:【軸6】周長測定子上下軸：RCA2-GS3NA-I-10-2-50-A6-M-K1</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7256,7 +8804,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis7 [26]:【軸7】ワーク(排出)チャック軸：RCP6-SA4R-WA-35P-16-150-P5-X07-MR-NM</value.first>
+								<value.first>Axis7 [27]:【軸7】ワーク(排出)チャック軸：RCP6-SA4R-WA-35P-16-150-P5-X07-MR-NM</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7310,7 +8858,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis8 [27]:【軸8】Y軸：溶接トーチ前後：ICSB2-YSA2M-WA-20AQ-20AQBNM-T4-5L-SC/ISB【ISPB】-SXM-WA-60-8-②-T4-⑧-③</value.first>
+								<value.first>Axis8 [28]:【軸8】Y軸：溶接トーチ前後：ICSB2-YSA2M-WA-20AQ-20AQBNM-T4-5L-SC/ISB【ISPB】-SXM-WA-60-8-②-T4-⑧-③</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7376,7 +8924,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis9 [28]:【軸9】Z軸：溶接トーチ上下：ICSB2-YSA2M-WA-20AQ-20AQBNM-T4-5L-SC/ISB【ISPB】-SXM-WA-60-4-④-T4-⑧-⑤</value.first>
+								<value.first>Axis9 [29]:【軸9】Z軸：溶接トーチ上下：ICSB2-YSA2M-WA-20AQ-20AQBNM-T4-5L-SC/ISB【ISPB】-SXM-WA-60-4-④-T4-⑧-⑤</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7508,7 +9056,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis_OUT [36]</value.first>
+								<value.first>Axis_OUT [38]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7538,7 +9086,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder1 [37]:【ｼﾘ1】巻取り軸芯前後</value.first>
+								<value.first>Cylnder1 [39]:【ｼﾘ1】巻取り軸芯前後</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7604,7 +9152,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder10 [46]:【ｼﾘ10】波板押え：CDQ2B25-20DZ-M9BVM</value.first>
+								<value.first>Cylnder10 [48]:【ｼﾘ10】波板押え：CDQ2B25-20DZ-M9BVM</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7658,67 +9206,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder11 [47]:【ｼﾘ11】平板カット刃押出し：CD55B32-105-M9BZ</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-									<Child>
-										<value.first>ブックマーク</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-											<Child>
-												<value.first>END</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ENDH</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>インターロック</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>入力</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>制御/描画</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>原点モニタ</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>設定</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>ローカル変数</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>Cylnder12 [48]:【ｼﾘ12】平板カット刃開閉：CDQ2B25-10DMZ-L-A93M</value.first>
+								<value.first>Cylnder11 [49]:【ｼﾘ11】平板カット刃押出し：CD55B32-105-M9BZ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7778,7 +9266,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder13 [49]:【ｼﾘ13】波板カット刃押出し：CD55B32-105-M9BZ</value.first>
+								<value.first>Cylnder12 [50]:【ｼﾘ12】平板カット刃開閉：CDQ2B25-10DMZ-L-A93M</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7838,7 +9326,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder14 [50]:【ｼﾘ14】波板カット刃開閉：CDQ2B40M-15DMZ-M9BZ</value.first>
+								<value.first>Cylnder13 [51]:【ｼﾘ13】波板カット刃押出し：CD55B32-105-M9BZ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -7898,61 +9386,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder1516 [51]:【ｼﾘ15・16】波板カット補助R・L：CXSJM10P-10-M9BL</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-									<Child>
-										<value.first>ブックマーク</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-											<Child>
-												<value.first>END</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ENDH</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>入力</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>制御/描画</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>原点モニタ</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>設定</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>ローカル変数</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>Cylnder17 [52]:【ｼﾘ17】Xロール糊付け①：CDM2RA20-25Z-M9BWV</value.first>
+								<value.first>Cylnder14 [52]:【ｼﾘ14】波板カット刃開閉：CDQ2B40M-15DMZ-M9BZ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8012,7 +9446,61 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder18 [53]:【ｼﾘ18】Xロール糊付け②：CDM2RA20-25Z-M9BWV</value.first>
+								<value.first>Cylnder1516 [53]:【ｼﾘ15・16】波板カット補助R・L：CXSJM10P-10-M9BL</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>制御/描画</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>Cylnder17 [54]:【ｼﾘ17】Xロール糊付け①：CDM2RA20-25Z-M9BWV</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8072,7 +9560,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder19 [54]:【ｼﾘ19】Xロール平板押付：</value.first>
+								<value.first>Cylnder18 [55]:【ｼﾘ18】Xロール糊付け②：CDM2RA20-25Z-M9BWV</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8132,61 +9620,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder2 [38]:【ｼﾘ2】Tロール糊付け①：CDAS16×10-B-R</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-									<Child>
-										<value.first>ブックマーク</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-											<Child>
-												<value.first>END</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ENDH</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>入力</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>制御/描画</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>原点モニタ</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>設定</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>ローカル変数</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>Cylnder20 [55]:【ｼﾘ20】箔ロウリール固定：MGPM12-20Z-M9BL</value.first>
+								<value.first>Cylnder19 [56]:【ｼﾘ19】Xロール平板押付：</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8246,7 +9680,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder3 [39]:【ｼﾘ3】Tロール糊付け②：CDAS16×10-B-R</value.first>
+								<value.first>Cylnder2 [40]:【ｼﾘ2】Tロール糊付け①：CDAS16×10-B-R</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8300,67 +9734,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder4 [40]:【ｼﾘ4】平板下側補助プレート逃がし：CDJ2D16-45Z-W-M9BWZ-B</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-									<Child>
-										<value.first>ブックマーク</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-											<Child>
-												<value.first>END</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ENDH</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>インターロック</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>入力</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>制御/描画</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>原点モニタ</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>設定</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>ローカル変数</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>Cylnder5 [41]:【ｼﾘ5】平板チャック(ハンド)前後：MXQ20-50A-M9BZ</value.first>
+								<value.first>Cylnder20 [57]:【ｼﾘ20】箔ロウリール固定：MGPM12-20Z-M9BL</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8420,7 +9794,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder6 [42]:【ｼﾘ6】平板チャック開閉：MHF2-16D1-M9BL-X83C1</value.first>
+								<value.first>Cylnder3 [41]:【ｼﾘ3】Tロール糊付け②：CDAS16×10-B-R</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8474,7 +9848,127 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder7 [43]:【ｼﾘ7】平板押え上下①：CDQ2B25-20DZ-M9BVM</value.first>
+								<value.first>Cylnder4 [42]:【ｼﾘ4】平板下側補助プレート逃がし：CDJ2D16-45Z-W-M9BWZ-B</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>インターロック</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>制御/描画</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>Cylnder5 [43]:【ｼﾘ5】平板チャック(ハンド)前後：MXQ20-50A-M9BZ</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>インターロック</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>制御/描画</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>Cylnder6 [44]:【ｼﾘ6】平板チャック開閉：MHF2-16D1-M9BL-X83C1</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8528,7 +10022,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder8 [44]:【ｼﾘ8】箔ロウ押え上下：CDQ2D25-20DMZ-M9BM</value.first>
+								<value.first>Cylnder7 [45]:【ｼﾘ7】平板押え上下①：CDQ2B25-20DZ-M9BVM</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8582,7 +10076,61 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder9 [45]:【ｼﾘ9】箔ロウカット：CDQSKB16-10DM-M9NWVZ</value.first>
+								<value.first>Cylnder8 [46]:【ｼﾘ8】箔ロウ押え上下：CDQ2D25-20DMZ-M9BM</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>制御/描画</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>Cylnder9 [47]:【ｼﾘ9】箔ロウカット：CDQSKB16-10DM-M9NWVZ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8696,7 +10244,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>EC1 [56]:【EC1】ワーク排出前後軸：MXQ20-50A-M9BZ</value.first>
+								<value.first>EC1 [58]:【EC1】ワーク排出前後軸：MXQ20-50A-M9BZ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8750,7 +10298,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>END_REF [70]</value.first>
+								<value.first>END_REF [72]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8780,7 +10328,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>FTP [69]</value.first>
+								<value.first>FTP [71]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8894,7 +10442,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Files [68]</value.first>
+								<value.first>Files [70]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -9122,7 +10670,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>OUT [58]:出力処理</value.first>
+								<value.first>OUT [60]:出力処理</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -9164,7 +10712,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU1_DRIVER [67]:ポップアップ制御</value.first>
+								<value.first>PU1_DRIVER [69]:ポップアップ制御</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -9410,7 +10958,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1 [59]:タッチパネル1</value.first>
+								<value.first>TP1 [61]:タッチパネル1</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -9542,7 +11090,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_Files [65]</value.first>
+								<value.first>TP1_Files [67]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -9716,7 +11264,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_manual [66]</value.first>
+								<value.first>TP1_manual [68]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -9788,7 +11336,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_mess [63]:タッチパネル1 メッセージ</value.first>
+								<value.first>TP1_mess [65]:タッチパネル1 メッセージ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -9818,7 +11366,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_mode [62]:タッチパネル1 モード</value.first>
+								<value.first>TP1_mode [64]:タッチパネル1 モード</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -9860,7 +11408,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_moni [61]:モニタ</value.first>
+								<value.first>TP1_moni [63]:モニタ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -9896,7 +11444,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_setting [60]</value.first>
+								<value.first>TP1_setting [62]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -9956,7 +11504,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_warning [64]:タッチパネル1 警告</value.first>
+								<value.first>TP1_warning [66]:タッチパネル1 警告</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -9986,7 +11534,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>UTMⅡ1 [19]:UNIPULS UTMⅡ</value.first>
+								<value.first>UTMⅡ1 [20]:UNIPULS UTMⅡ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -10024,7 +11572,7 @@
 							<Child>
 								<value.first>Unit1 [11]:ユニットプログラム：平板部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -10060,6 +11608,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>[1～]自立起動</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>[2]供給準備動作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -10073,6 +11627,12 @@
 											</Child>
 											<Child>
 												<value.first>[6]供給開始動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[6～]ユニット起動</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -10186,6 +11746,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>[1～]自立起動</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>[2]供給準備動作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -10211,6 +11777,12 @@
 											</Child>
 											<Child>
 												<value.first>[6]供給確認動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[6～]ユニット起動</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -10318,6 +11890,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>[1～]自立起動</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>[2]供給準備動作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -10325,6 +11903,12 @@
 											</Child>
 											<Child>
 												<value.first>[3]供給動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[6～]ユニット起動</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -10426,6 +12010,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>[1～]自立起動</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>[2]周長測定プリセット</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -10451,6 +12041,12 @@
 											</Child>
 											<Child>
 												<value.first>[6]周長測定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[6～]ユニット起動</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -10564,6 +12160,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>[1～]自立起動</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>[2]巻き押え</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -10571,6 +12173,12 @@
 											</Child>
 											<Child>
 												<value.first>[3]溶接</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[6～]ユニット起動</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -10642,7 +12250,7 @@
 							<Child>
 								<value.first>Unit6 [16]:ユニットプログラム：排出部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -10672,6 +12280,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>[1～]自立起動</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>[2]巻き軸排出動作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -10679,6 +12293,12 @@
 											</Child>
 											<Child>
 												<value.first>[6]計測準備</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[6～]ユニット起動</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -10756,7 +12376,7 @@
 							<Child>
 								<value.first>Unit7 [17]:ユニットプログラム：Xロールタワー</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -10786,7 +12406,127 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>[1～]自立起動</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>[6]糊付け動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>└ 出力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 完了</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 異常</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 管理</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>出力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>Unit8 [18]:ユニットプログラム：箔ロウリール</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>1</Expanded>
+											<Child>
+												<value.first>EDN</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>TP</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[1]送り</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[1～]自立起動</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[6]糊付け動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[6～]ユニット起動</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -10886,7 +12626,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Unit_OUT [18]</value.first>
+								<value.first>Unit_OUT [19]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -10916,7 +12656,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>WELD1 [57]:溶接機1：MDシリーズ/AMADA</value.first>
+								<value.first>WELD1 [59]:溶接機1：MDシリーズ/AMADA</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -11119,6 +12859,12 @@
 									</Child>
 									<Child>
 										<value.first>[7]  EX260-SEN4</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>[8]  AZD-KEP</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>

@@ -512,7 +512,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>AZD_EXE2_PRM</value.first>
+								<value.first>AZD_EXE2_PRM:OrientalMotor AZD-KEP [2]位置決め 動作設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -1542,7 +1542,7 @@
 					<Child>
 						<value.first>AZD_Ctrl</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>ブックマーク</value.first>
 								<value.second>
@@ -10628,7 +10628,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -11854,7 +11854,7 @@
 							<Child>
 								<value.first>Unit3 [13]:ユニットプログラム：箔ロウ部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -12376,7 +12376,7 @@
 							<Child>
 								<value.first>Unit7 [17]:ユニットプログラム：Xロールタワー</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -12484,7 +12484,7 @@
 							<Child>
 								<value.first>Unit8 [18]:ユニットプログラム：箔ロウリール</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

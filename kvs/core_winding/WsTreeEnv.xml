@@ -2500,6 +2500,36 @@
 						</value.second>
 					</Child>
 					<Child>
+						<value.first>GET_RCON_ERR</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
 						<value.first>GET_SV3_ERR</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
@@ -7918,7 +7948,7 @@
 							<Child>
 								<value.first>Auto [9]:自動動作</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -10618,6 +10648,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>IO入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>TP</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -11614,7 +11650,7 @@
 							<Child>
 								<value.first>Unit1 [11]:ユニットプログラム：平板部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -11752,7 +11788,7 @@
 							<Child>
 								<value.first>Unit2 [12]:ユニットプログラム：波板部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -12022,7 +12058,7 @@
 							<Child>
 								<value.first>Unit4 [14]:ユニットプログラム：主軸部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -12292,7 +12328,7 @@
 							<Child>
 								<value.first>Unit6 [16]:ユニットプログラム：排出部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

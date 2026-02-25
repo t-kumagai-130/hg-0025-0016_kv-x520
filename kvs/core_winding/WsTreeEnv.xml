@@ -12064,7 +12064,7 @@
 							<Child>
 								<value.first>Unit2 [12]:ユニットプログラム：波板部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -12112,31 +12112,31 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>[3]供給開始動作</value.first>
+												<value.first>[3]カット動作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>[4]供給動作</value.first>
+												<value.first>[4]供給確認動作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>[5]カット動作</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>[6]供給確認動作</value.first>
+												<value.first>[6]供給開始動作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
 												<value.first>[6～]ユニット起動</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[7]供給動作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -12334,7 +12334,7 @@
 							<Child>
 								<value.first>Unit4 [14]:ユニットプログラム：主軸部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

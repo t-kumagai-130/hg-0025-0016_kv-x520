@@ -1232,24 +1232,6 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>MOD_CIN</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>MOD_CONF:モジュール設定</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>MOD_COT</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-								</value.second>
-							</Child>
-							<Child>
 								<value.first>U4_EXE4_PRM</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
@@ -1257,6 +1239,24 @@
 							</Child>
 							<Child>
 								<value.first>U5_EXE3_PRM</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>UNI_CIN</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>UNI_CONF:モジュール設定</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>UNI_COT</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -10954,7 +10954,7 @@
 							<Child>
 								<value.first>OTH2 [60]:Xロール電磁クラッチ</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -11074,7 +11074,7 @@
 							<Child>
 								<value.first>OTH3 [61]:【OTH3】Tロール糊付けモータ</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -11260,7 +11260,7 @@
 							<Child>
 								<value.first>Setting [5]:設定</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -11333,6 +11333,12 @@
 											</Child>
 											<Child>
 												<value.first>├ 設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>セル密度</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -11764,11 +11770,11 @@
 							<Child>
 								<value.first>TP1_manual [70]</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -12070,7 +12076,7 @@
 							<Child>
 								<value.first>Unit1 [11]:ユニットプログラム：平板部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -12628,7 +12634,7 @@
 							<Child>
 								<value.first>Unit5 [15]:ユニットプログラム：溶接部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -12748,7 +12754,7 @@
 							<Child>
 								<value.first>Unit6 [16]:ユニットプログラム：排出部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

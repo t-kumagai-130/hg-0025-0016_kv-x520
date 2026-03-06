@@ -1334,13 +1334,13 @@
 						<value.second>
 							<Expanded>1</Expanded>
 							<Child>
-								<value.first>AZD_Ctrl</value.first>
+								<value.first>AxisMgrAZD:OrientalMotor AZDシリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -1472,229 +1472,145 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>IL</value.first>
-								<value.second>
-									<Expanded>1</Expanded>
-									<Child>
-										<value.first>AXIS05_IL</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-											<Child>
-												<value.first>ブックマーク</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-													<Child>
-														<value.first>END</value.first>
-														<value.second>
-															<Expanded>0</Expanded>
-														</value.second>
-													</Child>
-													<Child>
-														<value.first>ENDH</value.first>
-														<value.second>
-															<Expanded>0</Expanded>
-														</value.second>
-													</Child>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ローカル変数</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>AXIS06_IL</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-											<Child>
-												<value.first>ブックマーク</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-													<Child>
-														<value.first>END</value.first>
-														<value.second>
-															<Expanded>0</Expanded>
-														</value.second>
-													</Child>
-													<Child>
-														<value.first>ENDH</value.first>
-														<value.second>
-															<Expanded>0</Expanded>
-														</value.second>
-													</Child>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ローカル変数</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>AXIS07_IL</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-											<Child>
-												<value.first>ブックマーク</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-													<Child>
-														<value.first>END</value.first>
-														<value.second>
-															<Expanded>0</Expanded>
-														</value.second>
-													</Child>
-													<Child>
-														<value.first>ENDH</value.first>
-														<value.second>
-															<Expanded>0</Expanded>
-														</value.second>
-													</Child>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ローカル変数</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>AXIS08_IL</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-											<Child>
-												<value.first>ブックマーク</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-													<Child>
-														<value.first>END</value.first>
-														<value.second>
-															<Expanded>0</Expanded>
-														</value.second>
-													</Child>
-													<Child>
-														<value.first>ENDH</value.first>
-														<value.second>
-															<Expanded>0</Expanded>
-														</value.second>
-													</Child>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ローカル変数</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>AXIS09_IL</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-											<Child>
-												<value.first>ブックマーク</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-													<Child>
-														<value.first>END</value.first>
-														<value.second>
-															<Expanded>0</Expanded>
-														</value.second>
-													</Child>
-													<Child>
-														<value.first>ENDH</value.first>
-														<value.second>
-															<Expanded>0</Expanded>
-														</value.second>
-													</Child>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ローカル変数</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>AXIS13_IL</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-											<Child>
-												<value.first>ブックマーク</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-													<Child>
-														<value.first>END</value.first>
-														<value.second>
-															<Expanded>0</Expanded>
-														</value.second>
-													</Child>
-													<Child>
-														<value.first>ENDH</value.first>
-														<value.second>
-															<Expanded>0</Expanded>
-														</value.second>
-													</Child>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ローカル変数</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>AXIS14_IL</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-											<Child>
-												<value.first>ブックマーク</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-													<Child>
-														<value.first>END</value.first>
-														<value.second>
-															<Expanded>0</Expanded>
-														</value.second>
-													</Child>
-													<Child>
-														<value.first>ENDH</value.first>
-														<value.second>
-															<Expanded>0</Expanded>
-														</value.second>
-													</Child>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ローカル変数</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-										</value.second>
-									</Child>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>KAxisCtrl</value.first>
+								<value.first>AxisMgrRCON:IAI RCONシリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>EDN</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>END_REF</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>PU</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>REF</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>TPB / TPBIL</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[1]原点復帰</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[2]位置決め</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>└ 出力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 完了</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 異常</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 管理</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>インターロック</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ポップアップ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>出力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>AxisMgrSV3:KEYENCE SV3シリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -1838,7 +1754,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>KPTBL_GET</value.first>
+								<value.first>GetPosDataRCON:ポジションデータ取得 RCONシリーズ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -1868,139 +1784,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>RAxisCtrl</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-									<Child>
-										<value.first>ブックマーク</value.first>
-										<value.second>
-											<Expanded>1</Expanded>
-											<Child>
-												<value.first>EDN</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ENDH</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>END_REF</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>PU</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>REF</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>TPB / TPBIL</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>[1]原点復帰</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>[2]位置決め</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>└ 出力</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>├ 動作</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>├ 完了</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>├ 異常</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>├ 管理</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>├ 設定</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>インターロック</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ポップアップ</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>入力</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>出力</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>設定</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>ローカル変数</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>RPTBL_GET</value.first>
+								<value.first>GetPosDataSV3:ポジションデータ取得 SV3シリーズ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2025,6 +1809,222 @@
 										<value.first>ローカル変数</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>IL</value.first>
+								<value.second>
+									<Expanded>1</Expanded>
+									<Child>
+										<value.first>AXIS05_IL:【軸5】ワーク排出上下軸 インターロックファンクションブロック目標位置が干渉領域にあるか結果値を返します。</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>ブックマーク</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>END</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ENDH</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ローカル変数</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>AXIS06_IL:【軸6】周長測定子上下軸 インターロックファンクションブロック目標位置が干渉領域にあるか結果値を返します。</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>ブックマーク</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>END</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ENDH</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ローカル変数</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>AXIS07_IL:【軸7】ワーク(排出)チャック軸 インターロックファンクションブロック目標位置が干渉領域にあるか結果値を返します。</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>ブックマーク</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>END</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ENDH</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ローカル変数</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>AXIS08_IL:【軸8】Y軸：溶接トーチ前後 インターロックファンクションブロック目標位置が干渉領域にあるか結果値を返します。</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>ブックマーク</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>END</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ENDH</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ローカル変数</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>AXIS09_IL:【軸9】Z軸：溶接トーチ上下 インターロックファンクションブロック目標位置が干渉領域にあるか結果値を返します。</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>ブックマーク</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>END</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ENDH</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ローカル変数</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>AXIS13_IL:【軸13】巻取り主軸 インターロックファンクションブロック目標位置が干渉領域にあるか結果値を返します。</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>ブックマーク</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>END</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ENDH</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ローカル変数</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>AXIS14_IL:【軸14】ワーク幅調整軸 インターロックファンクションブロック目標位置が干渉領域にあるか結果値を返します。</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>ブックマーク</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>END</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ENDH</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ローカル変数</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
 										</value.second>
 									</Child>
 								</value.second>
@@ -2282,13 +2282,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>CylMgr:シリンダ制御管理</value.first>
+								<value.first>CylMgr:エレシリンダシリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -2354,7 +2354,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>EClMgr:エレシリンダ制御管理</value.first>
+								<value.first>ECMgr:IAI エレシリンダシリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -8008,6 +8008,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>Cylinder</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -8069,6 +8075,12 @@
 											</Child>
 											<Child>
 												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>軸5 排出軸</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -10774,7 +10786,7 @@
 							<Child>
 								<value.first>IN [3]:入力処理</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -11176,7 +11188,7 @@
 							<Child>
 								<value.first>OTH3 [61]:【OTH3】Tロール糊付けモータ</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -11878,11 +11890,11 @@
 							<Child>
 								<value.first>TP1_manual [71]</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -12184,7 +12196,7 @@
 							<Child>
 								<value.first>Unit1 [11]:ユニットプログラム：平板部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -12592,7 +12604,7 @@
 							<Child>
 								<value.first>Unit4 [14]:ユニットプログラム：主軸部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -12862,7 +12874,7 @@
 							<Child>
 								<value.first>Unit6 [16]:ユニットプログラム：排出部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

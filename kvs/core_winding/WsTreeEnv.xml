@@ -626,6 +626,12 @@
 								</value.second>
 							</Child>
 							<Child>
+								<value.first>CYL_IL</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
 								<value.first>CYL_MOVE_SET:Cylinder Control 動作情報設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
@@ -1086,7 +1092,13 @@
 					<Child>
 						<value.first>SETTING</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
+							<Child>
+								<value.first>SET_CHECK_LIMIT_REAL</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
 							<Child>
 								<value.first>SET_CHECK_LIMIT_UINT</value.first>
 								<value.second>
@@ -3748,7 +3760,37 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>SET_SCK_UINT</value.first>
+						<value.first>SET_SCK_REAL:設定範囲内確認 単数精度浮動小数(REAL)</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>SET_SCK_UINT:設定範囲内確認 符号なし1ワード(UINT)</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
@@ -8122,6 +8164,18 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>軸13 主軸 SV3</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>軸14 調整台 SV3</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>軸2 平板供給軸 OrientalMotor AZD</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -8153,6 +8207,18 @@
 											</Child>
 											<Child>
 												<value.first>軸7 ワーク排出軸 RCON</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>軸8 溶接Y RCON</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>軸9 溶接Z RCON</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -10600,7 +10666,7 @@
 							<Child>
 								<value.first>END_REF [75]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -10930,7 +10996,7 @@
 							<Child>
 								<value.first>LOGGING [63]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -11326,7 +11392,7 @@
 							<Child>
 								<value.first>OUT [62]:出力処理</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -12298,7 +12364,7 @@
 							<Child>
 								<value.first>Unit1 [11]:ユニットプログラム：平板部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -12976,7 +13042,7 @@
 							<Child>
 								<value.first>Unit6 [16]:ユニットプログラム：排出部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -13498,7 +13564,7 @@
 							<Child>
 								<value.first>モーション設定</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>SV3ツール</value.first>
 										<value.second>

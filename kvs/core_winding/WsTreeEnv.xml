@@ -1490,7 +1490,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -2471,6 +2471,36 @@
 					</Child>
 					<Child>
 						<value.first>DVIDXI_TO_PUIDX</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>DataToStr:装置内シフト在荷文字列変換</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
@@ -8098,6 +8128,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>EC</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -8171,6 +8207,12 @@
 											</Child>
 											<Child>
 												<value.first>軸14 調整台 SV3</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>軸17 波板補助軸 OrientalMotor AZD</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -12772,7 +12814,7 @@
 							<Child>
 								<value.first>Unit4 [14]:ユニットプログラム：主軸部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -13042,7 +13084,7 @@
 							<Child>
 								<value.first>Unit6 [16]:ユニットプログラム：排出部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -13564,7 +13606,7 @@
 							<Child>
 								<value.first>モーション設定</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>SV3ツール</value.first>
 										<value.second>

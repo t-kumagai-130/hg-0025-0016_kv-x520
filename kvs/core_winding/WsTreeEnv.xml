@@ -980,6 +980,18 @@
 								</value.second>
 							</Child>
 							<Child>
+								<value.first>WIND_SAG_SET:たるみ動作値演算 設定値</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>WIND_SAG_STA:たるみ動作値演算 演算値</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
 								<value.first>WIND_SET</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
@@ -3655,6 +3667,36 @@
 									</Child>
 									<Child>
 										<value.first>WIN_COR_INS:巻き補正 計測処理</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>ブックマーク</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>END</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ENDH</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ローカル変数</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>WindSagRem:たるみ取り演算</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 											<Child>
@@ -8140,7 +8182,7 @@
 							<Child>
 								<value.first>Abnormal [7]</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -8207,6 +8249,12 @@
 											</Child>
 											<Child>
 												<value.first>Unit6 排出部</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>Unit7 Xロールタワー</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -8356,7 +8404,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>[3]自動運転</value.first>
+												<value.first>[3]生産運転</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -12844,7 +12892,7 @@
 							<Child>
 								<value.first>Unit4 [14]:ユニットプログラム：主軸部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -12994,7 +13042,7 @@
 							<Child>
 								<value.first>Unit5 [15]:ユニットプログラム：溶接部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -13246,7 +13294,7 @@
 							<Child>
 								<value.first>Unit7 [17]:ユニットプログラム：Xロールタワー</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

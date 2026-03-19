@@ -8182,7 +8182,7 @@
 							<Child>
 								<value.first>Abnormal [7]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -12682,6 +12682,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>[5]Tロール糊付け開始動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>[6]供給開始動作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -12766,7 +12772,7 @@
 							<Child>
 								<value.first>Unit3 [13]:ユニットプログラム：箔ロウ部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -13162,7 +13168,7 @@
 							<Child>
 								<value.first>Unit6 [16]:ユニットプログラム：排出部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -13294,7 +13300,7 @@
 							<Child>
 								<value.first>Unit7 [17]:ユニットプログラム：Xロールタワー</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

@@ -1630,7 +1630,7 @@
 							<Child>
 								<value.first>AxisMgrSV3:KEYENCE SV3シリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -11044,7 +11044,7 @@
 							<Child>
 								<value.first>IN [3]:入力処理</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -11158,7 +11158,7 @@
 							<Child>
 								<value.first>Main [8]</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -11189,6 +11189,18 @@
 											</Child>
 											<Child>
 												<value.first>電源ON</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>電源ON通算時間</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>電源ON連続時間</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -12622,7 +12634,7 @@
 							<Child>
 								<value.first>Unit2 [12]:ユニットプログラム：波板部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -12898,7 +12910,7 @@
 							<Child>
 								<value.first>Unit4 [14]:ユニットプログラム：主軸部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -13048,7 +13060,7 @@
 							<Child>
 								<value.first>Unit5 [15]:ユニットプログラム：溶接部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

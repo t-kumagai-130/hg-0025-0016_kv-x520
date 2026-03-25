@@ -818,7 +818,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>KSV_TP</value.first>
+								<value.first>KSV_TP:※変数並べ替え注意！</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -1094,7 +1094,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>RCON_TP</value.first>
+								<value.first>RCON_TP:※変数並べ替え注意！</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -8218,6 +8218,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>Setting 設定ユニット</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>Unit1 平板供給</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -8362,7 +8368,7 @@
 							<Child>
 								<value.first>Auto [9]:自動動作</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -9466,7 +9472,7 @@
 							<Child>
 								<value.first>Axis_IN [4]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -10672,7 +10678,7 @@
 							<Child>
 								<value.first>Data [6]:情報</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -10820,7 +10826,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>   │ └ 制御</value.first>
 												<value.second>
@@ -10934,7 +10940,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -11158,7 +11164,7 @@
 							<Child>
 								<value.first>Main [8]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -11692,7 +11698,31 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>[1]csv(BIN)ファイル保存</value.first>
+												<value.first>[1]新規</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[2]読出</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[3]csv(BIN)ファイル保存</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[4]削除</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[5]適用</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -11752,6 +11782,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>上下限設定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -11782,18 +11818,6 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>削除</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>新規</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
 												<value.first>照合</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -11812,13 +11836,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>読出</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>適用</value.first>
+												<value.first>設定値確認</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -12370,11 +12388,11 @@
 							<Child>
 								<value.first>TP1_setting [65]</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -12910,7 +12928,7 @@
 							<Child>
 								<value.first>Unit4 [14]:ユニットプログラム：主軸部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

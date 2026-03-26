@@ -1364,7 +1364,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -8368,7 +8368,7 @@
 							<Child>
 								<value.first>Auto [9]:自動動作</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -8411,6 +8411,12 @@
 											</Child>
 											<Child>
 												<value.first>[3]生産運転</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[4]巻き過少復旧</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -8920,11 +8926,11 @@
 							<Child>
 								<value.first>Axis17 [37]:【軸17】波板補助軸：AZD-KEP+AZM15AK</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -10678,7 +10684,7 @@
 							<Child>
 								<value.first>Data [6]:情報</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -11668,7 +11674,7 @@
 							<Child>
 								<value.first>Setting [5]:設定</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -11858,7 +11864,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -12196,7 +12202,7 @@
 							<Child>
 								<value.first>TP1_manual [71]</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -12388,7 +12394,7 @@
 							<Child>
 								<value.first>TP1_setting [65]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -12652,7 +12658,7 @@
 							<Child>
 								<value.first>Unit2 [12]:ユニットプログラム：波板部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

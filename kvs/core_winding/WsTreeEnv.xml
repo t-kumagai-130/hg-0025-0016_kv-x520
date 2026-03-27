@@ -1750,6 +1750,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>ポップアップ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>入力</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -8926,7 +8932,7 @@
 							<Child>
 								<value.first>Axis17 [37]:【軸17】波板補助軸：AZD-KEP+AZM15AK</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -10828,7 +10834,7 @@
 							<Child>
 								<value.first>FTP [74]</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -12202,7 +12208,7 @@
 							<Child>
 								<value.first>TP1_manual [71]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -12658,7 +12664,7 @@
 							<Child>
 								<value.first>Unit2 [12]:ユニットプログラム：波板部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

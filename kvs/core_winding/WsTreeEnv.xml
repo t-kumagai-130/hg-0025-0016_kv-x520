@@ -530,6 +530,12 @@
 								</value.second>
 							</Child>
 							<Child>
+								<value.first>AZD_IL</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
 								<value.first>AZD_PDATA:OrientalMotor AZD-KEP ポジションデータ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
@@ -1469,6 +1475,12 @@
 											</Child>
 											<Child>
 												<value.first>├ 設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ポップアップ</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -2765,6 +2777,36 @@
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>GET_AZD_ERR</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 						</value.second>
@@ -8968,7 +9010,7 @@
 							<Child>
 								<value.first>Axis17 [37]:【軸17】波板補助軸：AZD-KEP+AZM15AK</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -10838,13 +10880,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>END_REF [75]</value.first>
+								<value.first>END_REF [76]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -10868,13 +10910,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>FTP [74]</value.first>
+								<value.first>FTP [64]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>   │ └ 制御</value.first>
 												<value.second>
@@ -10982,13 +11024,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Files [73]</value.first>
+								<value.first>Files [63]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -11122,6 +11164,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>PU</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>TP</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -11168,13 +11216,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>LOGGING [63]</value.first>
+								<value.first>LOGGING [65]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -11212,7 +11260,7 @@
 							<Child>
 								<value.first>Main [8]</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -11636,7 +11684,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU1_DRIVER [72]:ポップアップ制御</value.first>
+								<value.first>PU1_DRIVER1 [74]:ポップアップ制御</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -11657,24 +11705,6 @@
 											</Child>
 											<Child>
 												<value.first>└ エアー圧力不足</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>├ キーボード</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>├ キーボード(記号1)</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>├ キーボード(記号2)</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -11714,9 +11744,93 @@
 								</value.second>
 							</Child>
 							<Child>
+								<value.first>PU1_DRIVER2 [75]:ポップアップ制御</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>└ キーボード(大)(記号2)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ キーボード</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ キーボード(大)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ キーボード(大)(記号1)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ キーボード(記号1)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ キーボード(記号2)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ウィンドウ追加</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>描画</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
 								<value.first>Setting [5]:設定</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -11900,13 +12014,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1 [64]:タッチパネル1</value.first>
+								<value.first>TP1 [66]:タッチパネル1</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -11969,6 +12083,12 @@
 											</Child>
 											<Child>
 												<value.first>├ 巻き半径円</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>いつもと違う</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -12074,7 +12194,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_Files [70]</value.first>
+								<value.first>TP1_Files [72]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -12248,13 +12368,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_manual [71]</value.first>
+								<value.first>TP1_manual [73]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -12320,7 +12440,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_mess [68]:タッチパネル1 メッセージ</value.first>
+								<value.first>TP1_mess [70]:タッチパネル1 メッセージ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -12350,7 +12470,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_mode [67]:タッチパネル1 モード</value.first>
+								<value.first>TP1_mode [69]:タッチパネル1 モード</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -12392,7 +12512,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_moni [66]:モニタ</value.first>
+								<value.first>TP1_moni [68]:モニタ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -12440,13 +12560,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_setting [65]</value.first>
+								<value.first>TP1_setting [67]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -12500,7 +12620,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_warning [69]:タッチパネル1 警告</value.first>
+								<value.first>TP1_warning [71]:タッチパネル1 警告</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -13252,7 +13372,7 @@
 							<Child>
 								<value.first>Unit6 [16]:ユニットプログラム：排出部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -13624,7 +13744,7 @@
 							<Child>
 								<value.first>Unit_IN [10]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

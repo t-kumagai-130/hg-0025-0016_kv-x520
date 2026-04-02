@@ -2110,6 +2110,36 @@
 						</value.second>
 					</Child>
 					<Child>
+						<value.first>BitToStr:ビット状態変換</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
 						<value.first>COUNTER</value.first>
 						<value.second>
 							<Expanded>1</Expanded>
@@ -9010,7 +9040,7 @@
 							<Child>
 								<value.first>Axis17 [37]:【軸17】波板補助軸：AZD-KEP+AZM15AK</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -11830,7 +11860,7 @@
 							<Child>
 								<value.first>Setting [5]:設定</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -11860,7 +11890,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>[1]新規</value.first>
+												<value.first>[1]新規/複製</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -11872,7 +11902,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>[3]csv(BIN)ファイル保存</value.first>
+												<value.first>[3]保存</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -11956,12 +11986,6 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>保存</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
 												<value.first>入力</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -11999,6 +12023,12 @@
 											</Child>
 											<Child>
 												<value.first>設定値確認</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>警報値(変更値表現)</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -12562,11 +12592,11 @@
 							<Child>
 								<value.first>TP1_setting [67]</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -12587,6 +12617,12 @@
 											</Child>
 											<Child>
 												<value.first>TPL / TPBIL</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>モニタ</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

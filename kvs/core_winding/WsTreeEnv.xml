@@ -8536,6 +8536,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>[5]カット不良復旧</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>└ 出力</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -12862,7 +12868,7 @@
 							<Child>
 								<value.first>Unit2 [12]:ユニットプログラム：波板部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

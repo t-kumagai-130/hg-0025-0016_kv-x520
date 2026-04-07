@@ -530,7 +530,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>AZD_IL</value.first>
+								<value.first>AZD_IL:OrientalMotor AZD-KEP インターローック</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -574,7 +574,7 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>CONST_MATH</value.first>
+						<value.first>CONST_MATH:数学的定数</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 						</value.second>
@@ -632,7 +632,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>CYL_IL</value.first>
+								<value.first>CYL_IL:Cylinder インターローック</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -674,49 +674,49 @@
 						<value.second>
 							<Expanded>1</Expanded>
 							<Child>
-								<value.first>EXE_CIN</value.first>
+								<value.first>EXE_CIN:実行ブロック 制御入力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>EXE_COT</value.first>
+								<value.first>EXE_COT:実行ブロック 制御出力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>EXE_DIREC</value.first>
+								<value.first>EXE_DIREC:実行ブロック 指令完了</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>EXE_MEM</value.first>
+								<value.first>EXE_MEM:実行ブロック 動作状態</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>EXE_PRM</value.first>
+								<value.first>EXE_PRM:実行ブロック 動作設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>EXE_SCIN</value.first>
+								<value.first>EXE_SCIN:実行ブロック 管理入力(読取り専用)</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>EXE_SCOT</value.first>
+								<value.first>EXE_SCOT:実行ブロック 管理出力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>EXE_STA</value.first>
+								<value.first>EXE_STA:実行ブロック 動作状態</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -728,31 +728,31 @@
 						<value.second>
 							<Expanded>1</Expanded>
 							<Child>
-								<value.first>FILE</value.first>
+								<value.first>FILE06_DATA:出力ファイル 06データ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>FILE06_DATA</value.first>
+								<value.first>FILE:出力ファイル</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>FILE_CONF</value.first>
+								<value.first>FILE_CONF:出力ファイル 設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>FILE_DATA</value.first>
+								<value.first>FILE_DATA:出力ファイル データ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>FILE_NAME</value.first>
+								<value.first>FILE_NAME:出力ファイル リスト</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -764,13 +764,13 @@
 						<value.second>
 							<Expanded>1</Expanded>
 							<Child>
-								<value.first>KSV_CIN</value.first>
+								<value.first>KSV_CIN:KEYENCE SV3 制御入力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>KSV_COT</value.first>
+								<value.first>KSV_COT:KEYENCE SV3 制御出力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -794,37 +794,37 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>KSV_IL</value.first>
+								<value.first>KSV_IL:KEYENCE SV3 インターローック</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>KSV_PDATA</value.first>
+								<value.first>KSV_PDATA:KEYENCE SV3 ポジションデータ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>KSV_SET</value.first>
+								<value.first>KSV_SET:KEYENCE SV3 動作設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>KSV_STA</value.first>
+								<value.first>KSV_STA:KEYENCE SV3 動作状態</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>KSV_TBL</value.first>
+								<value.first>KSV_TBL:KEYENCE SV3 ポジションテーブル(※並び替え注意！)</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>KSV_TP:※変数並べ替え注意！</value.first>
+								<value.first>KSV_TP:KEYENCE SV3 タッチパネルデバイス(※並べ替え注意！)</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -836,13 +836,13 @@
 						<value.second>
 							<Expanded>1</Expanded>
 							<Child>
-								<value.first>MODEL</value.first>
+								<value.first>MODEL:品種データ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PRAM</value.first>
+								<value.first>PRAM:パラメータデータ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -854,7 +854,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PRM_LIST</value.first>
+								<value.first>PRM_LIST:パラメータリスト</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -889,6 +889,12 @@
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
+							<Child>
+								<value.first>PROD_OP:生産運転データ</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
 						</value.second>
 					</Child>
 					<Child>
@@ -914,19 +920,19 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>EDGE_SEARCH_POINT</value.first>
+								<value.first>EDGE_SEARCH_POINT:極値検出 ポイントデータ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>EDGE_SEARCH_SET</value.first>
+								<value.first>EDGE_SEARCH_SET:極値検出 設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>EDGE_SEARCH_STA</value.first>
+								<value.first>EDGE_SEARCH_STA:極値検出 状態</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -938,67 +944,61 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>GT_SET</value.first>
+								<value.first>GT_SET:KEYENCE GTセンサ 設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>GT_STA</value.first>
+								<value.first>GT_STA:KEYENCE GTセンサ 状態</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>GT_VAL</value.first>
+								<value.first>GT_VAL:KEYENCE GTセンサ 計測値</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>INS_SET</value.first>
+								<value.first>INS_SET:巻き半径 計測設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>INS_STA</value.first>
+								<value.first>INS_STA:巻き半径 計測状態</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>INS_THIC_P_ANG</value.first>
+								<value.first>INS_THIC_P_ANG:計測データ 巻き角度[deg]における板厚[mm]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PROD_OP:生産運転データ</value.first>
+								<value.first>SUP_SET:供給速度補正 動作設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>SUP_SET</value.first>
+								<value.first>SUP_STA:供給速度補正 動作状態</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>SUP_STA</value.first>
+								<value.first>WARK:在荷ワーク</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>WARK</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>WIND_PER_P_ANG</value.first>
+								<value.first>WIND_PER_P_ANG:巻きデータ 巻き角度[deg]における区間あたりの円弧長さ[mm]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -1010,13 +1010,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>WIND_RAD</value.first>
+								<value.first>WIND_RAD:巻きデータ 区間あたりの計測データ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>WIND_RAD_P_ANG</value.first>
+								<value.first>WIND_RAD_P_ANG:巻きデータ 巻き角度[deg]における計測半径[mm]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -1034,13 +1034,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>WIND_SET</value.first>
+								<value.first>WIND_SET:巻きデータ 設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>WIND_STA</value.first>
+								<value.first>WIND_STA:巻きデータ 状態</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -1056,45 +1056,45 @@
 					<Child>
 						<value.first>RCON</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
-								<value.first>RCON_CIN</value.first>
+								<value.first>RCON_CIN:IAI RCON 制御入力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>RCON_COT</value.first>
+								<value.first>RCON_COT:IAI RCON 制御出力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>RCON_DEV</value.first>
+								<value.first>RCON_DEV1IN:IAI RCON 通信デバイス 固定領域(入力)</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>RCON_DEV1IN</value.first>
+								<value.first>RCON_DEV1OUT:IAI RCON 通信デバイス 固定領域(出力)</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>RCON_DEV1OUT</value.first>
+								<value.first>RCON_DEV2IN:IAI RCON 通信デバイス 軸領域(入力)</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>RCON_DEV2IN</value.first>
+								<value.first>RCON_DEV2OUT:IAI RCON 通信デバイス 軸領域(出力)</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>RCON_DEV2OUT</value.first>
+								<value.first>RCON_DEV:IAI RCON 通信デバイス</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -1106,37 +1106,37 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>RCON_IL</value.first>
+								<value.first>RCON_IL:IAI RCON インターローック</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>RCON_PDATA</value.first>
+								<value.first>RCON_PDATA:IAI RCON ポジションデータ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>RCON_SET</value.first>
+								<value.first>RCON_SET:IAI RCON 動作設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>RCON_STA</value.first>
+								<value.first>RCON_STA:IAI RCON 動作状態</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>RCON_TBL</value.first>
+								<value.first>RCON_TBL:IAI RCON ポジションテーブル(※並び替え注意！)</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>RCON_TP:※変数並べ替え注意！</value.first>
+								<value.first>RCON_TP:IAI RCON タッチパネルデバイス(※並べ替え注意！)</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -1146,7 +1146,7 @@
 					<Child>
 						<value.first>SETTING</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>SET_CHECK_LIMIT_REAL</value.first>
 								<value.second>
@@ -1170,117 +1170,117 @@
 					<Child>
 						<value.first>TP</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
-								<value.first>PT_BKMRK</value.first>
+								<value.first>PUX_CONT_WIN:ポップアップ(拡張) ウィンドウ内容</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PUX_DISP_IDX</value.first>
+								<value.first>PUX_CONT_WINS:ポップアップ(拡張) ウィンドウ内容リスト</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PUX_SET</value.first>
+								<value.first>PUX_DISP_IDX:ポップアップ(拡張) 表示データインデックス</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PUX_STA</value.first>
+								<value.first>PUX_SET:ポップアップ(拡張) 動作設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_BTN</value.first>
+								<value.first>PUX_STA:ポップアップ(拡張) 動作状態</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_CIF</value.first>
+								<value.first>PUX_TITLE_WIN:ポップアップ(拡張) ウィンドウタイトル</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_CONT_STA</value.first>
+								<value.first>PUX_TITLE_WINS:ポップアップ(拡張) ウィンドウタイトルリスト</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_CONT_WIN:ポップアップ 内容ウィンドウ情報 ver.1.0.0</value.first>
+								<value.first>PU_BTN:ポップアップ ボタンデバイス(※並び替え注意！)</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_CONT_WINS:ポップアップ 内容ウィンドウ配列 ver.1.0.0</value.first>
+								<value.first>PU_CIN:ポップアップ 制御入力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_DISP_WIN:ポップアップ 表示ウィンドウ ver.1.0.0</value.first>
+								<value.first>PU_DISP_WIN:ポップアップ 表示データ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_DISP_WINS:ポップアップ 表示ウィンドウ配列 ver.1.0.0</value.first>
+								<value.first>PU_DISP_WINS:ポップアップ 表示データリスト</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_SET:ポップアップ 設定 ver.1.0.0ポップアップの表示に関する設定値を格納します。</value.first>
+								<value.first>PU_SET:ポップアップ 動作設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_STA:ポップアップ 状態 v1.0.0ポップアップの状態を示します。</value.first>
+								<value.first>PU_STA:ポップアップ 動作状態</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_TITLE_WIN:タイトルウィンドウ ver.1.0.0</value.first>
+								<value.first>PU_WIN:ポップアップ ウィンドウデータ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_TITLE_WINS:ポップアップ タイトルウィンドウ配列 ver.1.0.0</value.first>
+								<value.first>PU_WINB:ポップアップ ウィンドウデータ+ボタンデバイス</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_WIN:ポップアップ ウィンドウ情報 ver.1.0.0ポップアップの情報を格納します。</value.first>
+								<value.first>PU_WINS:ポップアップ ウィンドウデータリスト</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_WINS:ポップアップ ウィンドウ配列 ver.1.0.0ポップアップのウィンドウ配列</value.first>
+								<value.first>TP_BKMRK:タッチパネル ブックマーク</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_WIN_BTN</value.first>
+								<value.first>TP_GRAPH_AST:タッチパネル グラフ演算</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP_GRAPH_POINT</value.first>
+								<value.first>TP_MANUAL_STA:タッチパネル 手動操作 動作状態</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -1292,7 +1292,7 @@
 						<value.second>
 							<Expanded>1</Expanded>
 							<Child>
-								<value.first>DEV_COT</value.first>
+								<value.first>DEV_COT:全機器 制御出力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -1310,7 +1310,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>UNI_CIN</value.first>
+								<value.first>UNI_CIN:ユニット 制御入力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -1322,37 +1322,37 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>UNI_COT</value.first>
+								<value.first>UNI_COT:ユニット 制御出力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>UNI_CYCL_SET</value.first>
+								<value.first>UNI_CYCL_SET:ユニット サイクル動作 動作設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>UNI_CYC_CIN</value.first>
+								<value.first>UNI_CYCL_TP:ユニット サイクル動作 タッチパネルデバイス(※並び替え注意！)</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>UNI_CYC_COT</value.first>
+								<value.first>UNI_CYC_CIN:ユニット サイクル動作 制御入力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>UNI_CYC_STA</value.first>
+								<value.first>UNI_CYC_COT:ユニット サイクル動作 制御出力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>UNI_SYCL_TP</value.first>
+								<value.first>UNI_CYC_STA:ユニット サイクル動作 動作状態</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -8560,7 +8560,7 @@
 							<Child>
 								<value.first>Auto [9]:自動動作</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -10882,7 +10882,7 @@
 							<Child>
 								<value.first>Data [6]:情報</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -10996,7 +10996,7 @@
 							<Child>
 								<value.first>END_REF [76]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -12628,7 +12628,7 @@
 							<Child>
 								<value.first>TP1_moni [68]:モニタ</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -13163,6 +13163,12 @@
 											</Child>
 											<Child>
 												<value.first>└ 出力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 入力</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

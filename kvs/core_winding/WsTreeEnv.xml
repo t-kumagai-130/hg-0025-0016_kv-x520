@@ -11026,11 +11026,11 @@
 							<Child>
 								<value.first>FTP [64]</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>   │ └ 制御</value.first>
 												<value.second>
@@ -11144,7 +11144,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -12814,7 +12814,7 @@
 							<Child>
 								<value.first>Unit1 [11]:ユニットプログラム：平板部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -14278,7 +14278,7 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>[3]  KV-AM40V    R33800  DM10300</value.first>
+						<value.first>[3]  KV-AM40V    R33800  DM10300 [予約]</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 						</value.second>

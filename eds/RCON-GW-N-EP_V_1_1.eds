@@ -1,0 +1,237 @@
+$ EZ-EDS Version 3.34.1.20231010 Generated Electronic Data Sheet
+
+[File]
+        DescText = "IAI RCON-GW-N-EP EDS file";
+        CreateDate = 01-06-2024;
+        CreateTime = 18:00:00;
+        ModDate = 05-12-2025;
+        ModTime = 17:47:00;
+        Revision = 1.1;
+        HomeURL = "http://www.iai-robot.co.jp";
+
+[Device]
+        VendCode = 699;
+        VendName = "IAI Corporation";
+        ProdType = 43;
+        ProdTypeStr = "Generic Device";
+        ProdCode = 110;
+        MajRev = 1;
+        MinRev = 1;
+        ProdName = "RCON-GW-N-EP";
+        Catalog = "RCON-GW-N-EP";
+
+[Device Classification]
+        Class1 = EtherNetIP;
+
+[Params]
+        Param1 =
+                0,
+                ,,
+                0x0000,
+                0xC7,
+                2,
+                "Input Size",
+                "",
+                "",
+                16,272,32,
+                ,,,,
+                ,,,,
+                ;
+
+        Param2 =
+                0,
+                ,,
+                0x0000,
+                0xC7,
+                2,
+                "Output Size",
+                "",
+                "",
+                16,272,32,
+                ,,,,
+                ,,,,
+                ;
+
+        Param3 =
+                0,                      $ reserved, shall equal 0
+                ,,                      $ Link Path Size, Link Path
+                0x0000,                 $ Descriptor
+                0xC8,                   $ Data Type
+                4,                      $ Data Size in bytes
+                "RPI Range",            $ name
+                "",                     $ units
+                "",                     $ help string
+                5000,3200000,10000,     $ min, max, default data values
+                ,,,,                    $ mult, div, base, offset scaling
+                ,,,,                    $ mult, div, base, offset links
+                ;                       $ decimal places
+
+[Assembly]
+        Revision = 2;
+        Object_Name = "Assembly Object";
+        Object_Class_Code = 0x04;
+        MaxInst = 2;
+        Number_Of_Static_Instances = 2;
+        Max_Number_Of_Dynamic_Instances = 0;    $ MAX_ASSEMBLIES-Number_Of_Static_Instances
+        Class_Attributes = 0x01;
+        Instance_Attributes =
+                0x3,
+                0x4;
+        Class_Services = 0xE;           $ GetAttributeSingle supported
+        Instance_Services =
+                0xE,
+                0x10;                   $ Get/SetAttributeSingle supported
+        Assem1 =
+                "Input Data",
+                ,
+                272,
+                0x0001,
+                ,,
+                4032,;
+
+        Assem2 =
+                "Output Data",
+                ,
+                272,
+                0x0001,
+                ,,
+                4032,;
+
+[Connection Manager]
+        Revision = 1;
+        Object_Name = "Connection Manager Object";
+        Object_Class_Code = 0x06;
+        MaxInst = 1;
+        Number_Of_Static_Instances = 1;
+        Max_Number_Of_Dynamic_Instances = 0;
+        Instance_Attributes =
+                0x01,
+                0x2,
+                0x3,
+                0x4,
+                0x5,
+                0x6,
+                0x7,
+                0x8;                    $ statistics attributes
+        Instance_Services =
+                0x54,
+                0x5B,                   $ FwdOpen, LargeFwdOpen supported
+                0x4E;                   $ FwdClose supported
+
+        Connection1 =
+                0x04030002,             $ trigger & transport
+                                        $ 	0-15	= supported transport classes (class 0+1)
+                                        $ 	16	= cyclic (1 = supported)
+                                        $ 	17	= change of state (1 = supported)
+                                        $ 	18	= on demand (1 = supported)
+                                        $ 	19-23	= reserved (must be zero)
+                                        $ 	24-27	= exclusive owner
+                                        $ 	28-30	= reserved (must be zero)
+                                        $ 	31	= client 0 (don't care for classes 0 and 1)
+                0x44440405,             $ connection parameters
+                                        $ 	0	= O=>T fixed (1 = supported)
+                                        $ 	1	= O=>T variable
+                                        $ 	2	= T=>O fixed (1 = supported)
+                                        $ 	3	= T=>O variable
+                                        $ 	4-7	= reserved (must be zero)
+                                        $ 	8-11	= O=>T header (4 byte run/idle)
+                                        $ 	12-15	= T=>O header (modeless)
+
+                                        $ 16-19	= O=>T connection type (point-to-point)
+                                        $ 20-23	= T=>O connection type (point-to-point)
+                                        $ 24-27	= O=>T priority (scheduled)
+                                        $ 28-31	= T=>O priority (scheduled)
+                Param3,Param2,Assem2,   $ O=>T RPI,Size,Format
+                Param3,Param1,Assem1,   $ T=>O RPI,Size,Format
+                ,,                      $ config part 1 (not used)
+                ,,                      $ config part 2 (not used)
+                "Consume Data From/Produce Data To",    $ connection name
+                "",                     $ Help string
+                "20 04 24 03 2C 6E 2C 64";
+
+[Capacity]
+        MaxCIPConnections = 8;
+        TSpec1 = TxRx, 4, 500;
+        TSpec2 = TxRx, 500, 500;
+
+[TCP/IP Interface Class]
+        Revision = 4;
+        Object_Name = "TCP/IP Interface Object";
+        Object_Class_Code = 0xF5;
+        MaxInst = 1;
+        Number_Of_Static_Instances = 1;
+        Max_Number_Of_Dynamic_Instances = 0;
+        Class_Attributes = 0x01;
+        Instance_Attributes =
+                0x01,
+                0x2,
+                0x3,
+                0x4,
+                0x5,
+                0x6,
+                0xD;
+        Class_Services = 0x01;          $ GetAttributeAll supported
+        Instance_Services =
+                0x01,
+                0xE;
+
+[Ethernet Link Class]
+        Revision = 4;
+        Object_Name = "Ethernet Link Object";
+        Object_Class_Code = 0xF6;
+        MaxInst = 1;
+        Number_Of_Static_Instances = 1;
+        Max_Number_Of_Dynamic_Instances = 0;
+        Class_Attributes =
+                0x01,
+                0x2,
+                0x3;
+        Instance_Attributes =
+                0x01,
+                0x2,
+                0x3,
+                0x7,
+                0x8,
+                0x9,
+                0xa,
+                0xb;
+        Class_Services = 0xE;           $ GetAttributeSingle supported
+        Instance_Services =
+                0x01,                   $ GetAttributeAll supported
+                0xE;
+
+[Identity Class]
+        Revision = 2;
+        Object_Name = "Identity Object";
+        Object_Class_Code = 0x01;
+        MaxInst = 1;
+        Number_Of_Static_Instances = 1;
+        Max_Number_Of_Dynamic_Instances = 0;
+        Class_Attributes =
+                0x01,
+                0x2,
+                0x3;
+        Instance_Attributes =
+                0x01,
+                0x2,
+                0x3,
+                0x04,
+                0x05,
+                0x6,
+                0x7;                    $ "Required" attributes
+        Class_Services =
+                0x01,                   $ GetAttributeAll supported
+                0xE;                    $ GetAttributeSingle supported
+        Instance_Services =
+                0x01,                   $ GetAttributeAll supported
+                0x5,                    $ Reset supported
+                0xE;
+
+[Message Router Class]
+        Revision = 1;
+        Object_Name = "Message Router Object";
+        Object_Class_Code = 0x02;
+        MaxInst = 1;
+        Number_Of_Static_Instances = 1;
+        Max_Number_Of_Dynamic_Instances = 0;
+

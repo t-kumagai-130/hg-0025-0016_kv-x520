@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WindowInfo xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <GlobalVariable>
+    <GroupFilters>
+      <Name>(Default)</Name>
+      <Name>Axis</Name>
+      <Name>Popup</Name>
+      <Name>Setting</Name>
+      <Name>TP</Name>
+      <Name>User</Name>
+    </GroupFilters>
+  </GlobalVariable>
+  <Motion>
+    <TargetAxisNoForAutoTuning xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:int>1</d3p1:int>
+    </TargetAxisNoForAutoTuning>
+    <TargetAxisNoForMultiTrial xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+  </Motion>
+</WindowInfo>

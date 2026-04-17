@@ -8,7 +8,7 @@
 			<Child>
 				<value.first>データ型</value.first>
 				<value.second>
-					<Expanded>1</Expanded>
+					<Expanded>0</Expanded>
 					<Child>
 						<value.first>(System)</value.first>
 						<value.second>
@@ -833,6 +833,12 @@
 					</Child>
 					<Child>
 						<value.first>MAC_STA_BIT:設備状態(※並び替え注意！)</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>MAC_STA_WRD:設備状態ワード(※並び替え注意！)</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 						</value.second>
@@ -1732,7 +1738,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>[4]座標変更</value.first>
+												<value.first>[4]動作未設定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -1763,6 +1769,12 @@
 											</Child>
 											<Child>
 												<value.first>└ 出力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 入力</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -12320,7 +12332,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>   │ └ 全選択/全解除</value.first>
 												<value.second>

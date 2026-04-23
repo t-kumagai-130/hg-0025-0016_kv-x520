@@ -1690,7 +1690,7 @@
 							<Child>
 								<value.first>AxisMgrSV3:KEYENCE SV3シリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -2128,37 +2128,7 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>BLDS:連続ビットロード関数</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-							<Child>
-								<value.first>ブックマーク</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-									<Child>
-										<value.first>END</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>ENDH</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>ローカル変数</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-								</value.second>
-							</Child>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>BitToStr:ビット状態変換</value.first>
+						<value.first>BIT_TO_STR:ビット状態文字列変換</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
@@ -2554,7 +2524,7 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>DATE_TIME_STR</value.first>
+						<value.first>DT_TO_STR:日時文字列変換</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
@@ -2585,36 +2555,6 @@
 					</Child>
 					<Child>
 						<value.first>DVIDXI_TO_PUIDX</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-							<Child>
-								<value.first>ブックマーク</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-									<Child>
-										<value.first>END</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>ENDH</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>ローカル変数</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-								</value.second>
-							</Child>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>DataToStr:装置内シフト在荷文字列変換</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
@@ -3982,7 +3922,7 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>PR_SLIDER</value.first>
+						<value.first>PROG_BAR:プログレスバー演算</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
@@ -4162,7 +4102,7 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>TP_CYC</value.first>
+						<value.first>UniMgr:ユニット動作 管理ファンクションブロック・ユニット制御・タッチパネル描画</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
@@ -8319,6 +8259,66 @@
 							</Child>
 						</value.second>
 					</Child>
+					<Child>
+						<value.first>WARK_DATA_TO_STR:装置内シフト在荷文字列変換</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>WORD_BIT_MON:連続ワードビット監視</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
 				</value.second>
 			</Child>
 			<Child>
@@ -8578,11 +8578,11 @@
 							<Child>
 								<value.first>Auto [12]:自動動作</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -11272,7 +11272,7 @@
 							<Child>
 								<value.first>IN [3]:入力処理</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -12026,7 +12026,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -12046,7 +12046,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>TPL / TPBIL</value.first>
+												<value.first>TP</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -12125,12 +12125,6 @@
 											</Child>
 											<Child>
 												<value.first>セル密度</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>パラメータ編集</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -13346,7 +13340,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>

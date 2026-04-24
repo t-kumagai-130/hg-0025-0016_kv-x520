@@ -3080,7 +3080,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_DISP</value.first>
+								<value.first>PU_DISP:ポップアップ表示管理</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -3128,13 +3128,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_DISP_EXP</value.first>
+								<value.first>PU_DISP_EXP:ポップアップ表示管理(拡張)</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>1-&gt;2 ソートする(整理する)</value.first>
 												<value.second>
@@ -8578,7 +8578,7 @@
 							<Child>
 								<value.first>Auto [12]:自動動作</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -8639,12 +8639,6 @@
 											</Child>
 											<Child>
 												<value.first>└ 出力</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>├ サイクル停止</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -11044,11 +11038,11 @@
 							<Child>
 								<value.first>FTP [67]</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>   │ └ 制御</value.first>
 												<value.second>
@@ -11158,11 +11152,11 @@
 							<Child>
 								<value.first>Files [66]</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -12584,7 +12578,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_manual [76]</value.first>
+								<value.first>TP1_manual [76]:タッチパネル1 手動操作</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -13058,7 +13052,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -13208,7 +13202,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -13490,7 +13484,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -13610,7 +13604,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -13748,7 +13742,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -13868,7 +13862,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>

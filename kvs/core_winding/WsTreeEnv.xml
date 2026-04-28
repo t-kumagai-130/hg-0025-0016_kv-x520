@@ -866,7 +866,25 @@
 								</value.second>
 							</Child>
 							<Child>
+								<value.first>PRM_DEV:パラメータデータ デバイス</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
 								<value.first>PRM_LIST:パラメータリスト</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>PRM_TP_IF:タッチパネル パラメータ インターフェース</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>PRM_TP_PANEL:タッチパネル パラメータ表示 パネル</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -2995,6 +3013,108 @@
 									</Child>
 									<Child>
 										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>LIST_BTN_MON:リストボタン監視</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>LIST_DISP:リスト表示</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>PU</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>TPL / TPBIL</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ポップアップ</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>モニタ</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>入力</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>描画</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>設定</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -8722,7 +8842,7 @@
 							<Child>
 								<value.first>Axis1 [24]:【軸1】箔ロウリール軸：5TK20GN-CW2J+5GN180K</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -11038,7 +11158,7 @@
 							<Child>
 								<value.first>FTP [67]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -11152,7 +11272,7 @@
 							<Child>
 								<value.first>Files [66]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -11438,7 +11558,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>

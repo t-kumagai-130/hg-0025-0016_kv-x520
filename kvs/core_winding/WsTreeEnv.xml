@@ -1190,6 +1190,12 @@
 								</value.second>
 							</Child>
 							<Child>
+								<value.first>SET_CHECK_LIMIT_UDINT</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
 								<value.first>SET_CHECK_LIMIT_UINT</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
@@ -4139,6 +4145,36 @@
 					</Child>
 					<Child>
 						<value.first>SET_SCK_REAL:設定範囲内確認 単数精度浮動小数(REAL)</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>SET_SCK_UDINT:設定範囲内確認 2ワード符号なし(UDINT)</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
@@ -12454,12 +12490,6 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>モニタ</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
 												<value.first>原点モニタ</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -12881,6 +12911,12 @@
 											</Child>
 											<Child>
 												<value.first>サイクルタイムモニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>タブ</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

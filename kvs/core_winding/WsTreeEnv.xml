@@ -9922,7 +9922,7 @@
 							<Child>
 								<value.first>Axis_IN [4]</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -14340,7 +14340,7 @@
 					<Child>
 						<value.first>[0]  KV-X520</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>EtherCAT</value.first>
 								<value.second>
@@ -14353,6 +14353,12 @@
 									</Child>
 									<Child>
 										<value.first>[2] SV3</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>[3] SV3</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -14432,7 +14438,7 @@
 									<Child>
 										<value.first>SV3ツール</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>チューニング</value.first>
 												<value.second>
@@ -14651,6 +14657,12 @@
 											</Child>
 											<Child>
 												<value.first>軸2:Axis_2</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>軸3:Axis_3</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

@@ -1798,6 +1798,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>version 1.0.1 (このファンクションブロックのバージョン)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>└ 出力</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -1847,6 +1853,12 @@
 											</Child>
 											<Child>
 												<value.first>ポップアップ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>リリースノート</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -9418,7 +9430,7 @@
 							<Child>
 								<value.first>Axis25 [41]:【軸25】平板張力軸：SV3-M040AK</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -13348,7 +13360,7 @@
 							<Child>
 								<value.first>Unit2 [15]:ユニットプログラム：波板部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -13780,7 +13792,7 @@
 							<Child>
 								<value.first>Unit5 [18]:ユニットプログラム：溶接部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

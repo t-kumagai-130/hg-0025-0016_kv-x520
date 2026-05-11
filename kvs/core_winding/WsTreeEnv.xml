@@ -8,7 +8,7 @@
 			<Child>
 				<value.first>データ型</value.first>
 				<value.second>
-					<Expanded>1</Expanded>
+					<Expanded>0</Expanded>
 					<Child>
 						<value.first>(System)</value.first>
 						<value.second>
@@ -4344,11 +4344,11 @@
 					<Child>
 						<value.first>UniversalLibrary</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>Motor</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>IAI_CON_EIP</value.first>
 										<value.second>
@@ -5669,6 +5669,1488 @@
 											</Child>
 											<Child>
 												<value.first>AC_Stop_IAI_CON_V100:減速停止</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>Check Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Result</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Skip Req</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control state</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control step</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Disable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Enable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Local Variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Parameters</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Read Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Set Command</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Start FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Arguments</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Axis Status</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update local variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Write Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-state(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-step(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-state (ExecBody)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-step (Req)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>IAI_RCON_GW_N_EP_EIP</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>AC_Home_IAI_RCON_GW_N_EP_V100:原点復帰</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>Check Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Result</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Skip Req</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control state</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control step</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Disable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Enable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Local Variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Parameters</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Read Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Set Command</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Start FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Arguments</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Axis Status</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update local variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Write Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-state(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-step(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-state (ExecBody)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-step (Req)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>AC_InitAxis_IAI_RCON_GW_N_EP_V100:軸変数初期設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>Create AxisInfo</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Disable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Enable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Local Variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Arguments</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update local variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>AC_Jog_IAI_RCON_GW_N_EP_V100:JOG</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>Check Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Skip Req</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check　Request</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control state</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control step</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Disable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Enable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Local Variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Parameters</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Read Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Set Command</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Start FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Arguments</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Axis Status</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update local variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Write Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-state(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-step(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-state (ExecBody)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-step (Req)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>AC_MoveAbsolute_IAI_RCON_GW_N_EP_V100:絶対位置決め</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>Check Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Result</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Skip Req</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control state</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control step</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Disable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Enable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Local Variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Parameters</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Read Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Set Command</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Start FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Arguments</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Axis Status</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update local variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Write Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-state(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-step(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-state (ExecBody)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-step (Req)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>AC_MoveRelative_IAI_RCON_GW_N_EP_V100:相対位置決め</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>Check Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Result</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Skip Req</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control state</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control step</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Disable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Enable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Local Variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Parameters</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Read Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Set Command</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Start FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Arguments</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Axis Status</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update local variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Write Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-state(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-step(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-state (ExecBody)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-step (Req)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>AC_Power_IAI_RCON_GW_N_EP_V100:サーボON</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>Check Node Status</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Disable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Enable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Execute ServoOn/Off</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Parameters</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Read Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Arguments</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Parameters</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Write Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>AC_PressAbsolute_IAI_RCON_GW_N_EP_V100:絶対値押し当て</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>Check Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Result</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Skip Req</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control state</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control step</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Disable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Enable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Local Variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Parameters</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Read Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Set Command</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Start FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Arguments</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Axis Status</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update local variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Write Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-state(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-step(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-state (ExecBody)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-step (Req)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>AC_PressRelative_IAI_RCON_GW_N_EP_V100:相対値押し当て</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>Check Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Result</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Skip Req</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control state</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control step</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Disable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Enable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Local Variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Parameters</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Read Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Set Command</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Start FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Arguments</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Axis Status</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update local variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Write Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-state(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-step(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-state (ExecBody)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-step (Req)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>AC_ReadAxisError_IAI_RCON_GW_N_EP_V100:軸エラー読み出し</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>Disable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Enable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Local Variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Read Axis AlarmCode</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Arguments</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update local variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>AC_Reset_IAI_RCON_GW_N_EP_V100:軸エラークリア</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>Check Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Result</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check Skip Req</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control state</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control step</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Disable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done Check Fin Exec Body</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Enable Interrupt</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Local Variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize Parameters</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Read Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Set Command</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Start FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Arguments</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update Axis Status</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update local variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Write Cyclic Communication Data</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-state(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-step(Exec)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-state (ExecBody)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub2-step (Req)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>AC_Stop_IAI_RCON_GW_N_EP_V100:減速停止</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 													<Child>
@@ -11398,11 +12880,11 @@
 							<Child>
 								<value.first>Files [67]</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -12940,6 +14422,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>動作モード</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -13360,7 +14848,7 @@
 							<Child>
 								<value.first>Unit2 [15]:ユニットプログラム：波板部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -13642,7 +15130,7 @@
 							<Child>
 								<value.first>Unit4 [17]:ユニットプログラム：主軸部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -13792,7 +15280,7 @@
 							<Child>
 								<value.first>Unit5 [18]:ユニットプログラム：溶接部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -14441,12 +15929,18 @@
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
+									<Child>
+										<value.first>[9]  NQ-EP4L</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
 								</value.second>
 							</Child>
 							<Child>
 								<value.first>モーション設定</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>SV3ツール</value.first>
 										<value.second>
@@ -14698,7 +16192,7 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>[3]  KV-AM40V    R33800  DM10300 [予約]</value.first>
+						<value.first>[3]  KV-AM40V    R33800  DM10300</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 						</value.second>

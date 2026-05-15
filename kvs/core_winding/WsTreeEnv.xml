@@ -1214,6 +1214,12 @@
 						<value.second>
 							<Expanded>1</Expanded>
 							<Child>
+								<value.first>SET_CHECK_LIMIT_INT</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
 								<value.first>SET_CHECK_LIMIT_REAL</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
@@ -4385,6 +4391,36 @@
 					</Child>
 					<Child>
 						<value.first>SCAN_TIME_ADD:スキャンタイム積算</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>END</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ENDH</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>SET_SCK_INT:設定範囲内確認 符号あり1ワード(INT)</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>

@@ -2818,6 +2818,18 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>version 1.0.1 (このファンクションブロックのバージョン)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>リリースノート</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>入力</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -2825,6 +2837,12 @@
 											</Child>
 											<Child>
 												<value.first>出力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>初期化</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -2920,6 +2938,18 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>version 1.0.1 (このファンクションブロックのバージョン)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>リリースノート</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>入力</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -2927,6 +2957,12 @@
 											</Child>
 											<Child>
 												<value.first>出力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>初期化</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -3695,6 +3731,12 @@
 											</Child>
 											<Child>
 												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>初期化</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -5154,7 +5196,7 @@
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>version 1.1.2 (このファンクションブロックのバージョン)</value.first>
+										<value.first>version 1.0.3 (このファンクションブロックのバージョン)</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -5179,6 +5221,12 @@
 									</Child>
 									<Child>
 										<value.first>出力</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>初期化</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -11110,7 +11158,7 @@
 							<Child>
 								<value.first>Auto [12]:自動動作</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -12296,7 +12344,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -12358,11 +12406,11 @@
 							<Child>
 								<value.first>Axis9 [32]:【軸9】Z軸：溶接トーチ上下：ICSB2-YSA2M-WA-20AQ-20AQBNM-T4-5L-SC/ISB【ISPB】-SXM-WA-60-4-④-T4-⑧-⑤</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -14116,7 +14164,7 @@
 							<Child>
 								<value.first>Main [11]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -16150,7 +16198,7 @@
 							<Child>
 								<value.first>Unit4 [17]:ユニットプログラム：主軸部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

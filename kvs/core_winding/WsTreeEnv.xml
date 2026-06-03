@@ -1592,13 +1592,13 @@
 						<value.second>
 							<Expanded>1</Expanded>
 							<Child>
-								<value.first>AxisMgrAZD:OrientalMotor AZDシリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
+								<value.first>AxisMgrAZD:V1.0.1 OrientalMotor AZDシリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -1748,7 +1748,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>AxisMgrPCON:IAI PCONシリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
+								<value.first>AxisMgrPCON:V1.0.1 IAI PCONシリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -1880,13 +1880,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>AxisMgrRCON:IAI RCONシリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
+								<value.first>AxisMgrRCON:V.1.0.2 IAI RCONシリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -2024,13 +2024,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>AxisMgrSV3:KEYENCE SV3シリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
+								<value.first>AxisMgrSV3:V.1.1.4 KEYENCE SV3シリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -2198,7 +2198,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>GetPosDataPCON:ポジションデータ取得 PCONシリーズ</value.first>
+								<value.first>GetPosDataPCON:V.1.0.0 ポジションデータ取得 PCONシリーズ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2213,6 +2213,24 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>version 1.0.0 (このファンクションブロックのバージョン)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>リリースノート</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>処理</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -2228,7 +2246,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>GetPosDataRCON:ポジションデータ取得 RCONシリーズ</value.first>
+								<value.first>GetPosDataRCON:V.1.0.0 ポジションデータ取得 RCONシリーズ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2243,6 +2261,24 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>version 1.0.0 (このファンクションブロックのバージョン)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>リリースノート</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>処理</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -2258,7 +2294,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>GetPosDataSV3:ポジションデータ取得 SV3シリーズ</value.first>
+								<value.first>GetPosDataSV3:V.1.0.0 ポジションデータ取得 SV3シリーズ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2273,6 +2309,24 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>version 1.0.0 (このファンクションブロックのバージョン)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>リリースノート</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>処理</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -2696,7 +2750,7 @@
 						<value.second>
 							<Expanded>1</Expanded>
 							<Child>
-								<value.first>CylCtrl:シリンダ制御</value.first>
+								<value.first>CylCtrl:V.1.0.0 シリンダ制御</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2717,6 +2771,12 @@
 											</Child>
 											<Child>
 												<value.first>[1]シリンダ移動</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>version 1.0.0 (このファンクションブロックのバージョン)</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -2764,6 +2824,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>リリースノート</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>入力</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -2786,7 +2852,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>CylMgr:エレシリンダシリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
+								<value.first>CylMgr:V.1.0.1 エレシリンダシリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2876,7 +2942,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>CylMoveRst:シリンダ動作回数リセット</value.first>
+								<value.first>CylMoveRst:V.1.0.0 シリンダ動作回数リセット</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2895,6 +2961,18 @@
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
+											<Child>
+												<value.first>version 1.0.0 (このファンクションブロックのバージョン)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>リリースノート</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
 										</value.second>
 									</Child>
 									<Child>
@@ -2906,7 +2984,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>ECMgr:IAI エレシリンダシリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
+								<value.first>ECMgr:V.1.0.1 IAI エレシリンダシリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2998,7 +3076,7 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>DATE_TIME_STR</value.first>
+						<value.first>DT_TO_STR:V.1.0.0 日時文字列変換</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
@@ -3017,32 +3095,14 @@
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>ローカル変数</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-								</value.second>
-							</Child>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>DT_TO_STR:日時文字列変換</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-							<Child>
-								<value.first>ブックマーク</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
 									<Child>
-										<value.first>END</value.first>
+										<value.first>version 1.0.0 (このファンクションブロックのバージョン)</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>ENDH</value.first>
+										<value.first>リリースノート</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -3632,37 +3692,7 @@
 						<value.second>
 							<Expanded>1</Expanded>
 							<Child>
-								<value.first>PU_ARG:ポップアップ 配置座標変換 ver.1.0.0</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-									<Child>
-										<value.first>ブックマーク</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-											<Child>
-												<value.first>END</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ENDH</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>ローカル変数</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>PU_DELETE:ウィンドウ削除 ver.1.0.0</value.first>
+								<value.first>PU_ARG:V.1.0.0 ポップアップ 配置座標変換</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -3682,7 +3712,19 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>｜ ├ PROCBLOCK / PB内処理</value.first>
+												<value.first>version 1.0.0 (このファンクションブロックのバージョン)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>リリースノート</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>処理</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -3698,7 +3740,61 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_DISP:ポップアップ表示管理</value.first>
+								<value.first>PU_DELETE:V.1.0.0 ウィンドウ削除</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>version 1.0.0 (このファンクションブロックのバージョン)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>リリースノート</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>処理</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>初期化</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>PU_DISP:V.1.0.2 ポップアップ表示管理</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -3764,7 +3860,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_DISP_EXP:ポップアップ表示管理(拡張)</value.first>
+								<value.first>PU_DISP_EXP:V.1.0.0 ポップアップ表示管理(拡張)</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -3844,6 +3940,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>初期化</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>設定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -3866,7 +3968,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_DISP_Old:ウィンドウ表示(拡張) ver.1.0.0</value.first>
+								<value.first>PU_INSERT:V.1.0.0 ウィンドウ追加</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -3881,6 +3983,30 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>version 1.0.0 (このファンクションブロックのバージョン)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>リリースノート</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>処理</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>初期化</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -3896,7 +4022,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_INSERT:ウィンドウ追加 ver.1.0.0</value.first>
+								<value.first>PU_INSERT_WIND:V.1.0.0 ウィンドウ追加(汎用専用)</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -3915,32 +4041,26 @@
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>ローカル変数</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>PU_INSERT_WIND</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-									<Child>
-										<value.first>ブックマーク</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
 											<Child>
-												<value.first>END</value.first>
+												<value.first>version 1.0.0 (このファンクションブロックのバージョン)</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>ENDH</value.first>
+												<value.first>リリースノート</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>処理</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>概要</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -5104,7 +5224,7 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>STR_TO_STR</value.first>
+						<value.first>STR_TO_STR:V.1.0.1 文字列整列</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
@@ -5164,7 +5284,7 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>UniMgr:ユニット動作 管理ファンクションブロック・ユニット制御・タッチパネル描画</value.first>
+						<value.first>UniMgr:V.1.0.3 ユニット動作 管理ファンクションブロック・ユニット制御・タッチパネル描画</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
@@ -5254,7 +5374,7 @@
 							<Child>
 								<value.first>Motor</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>IAI_CON_EIP</value.first>
 										<value.second>
@@ -10852,7 +10972,7 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>WORD_BIT_MON:連続ワードビット監視</value.first>
+						<value.first>WORD_BIT_MON:V.1.0.0 連続ワードビット監視</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
@@ -11158,7 +11278,7 @@
 							<Child>
 								<value.first>Auto [12]:自動動作</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -12406,7 +12526,7 @@
 							<Child>
 								<value.first>Axis9 [32]:【軸9】Z軸：溶接トーチ上下：ICSB2-YSA2M-WA-20AQ-20AQBNM-T4-5L-SC/ISB【ISPB】-SXM-WA-60-4-④-T4-⑧-⑤</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

@@ -2024,7 +2024,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>AxisMgrSV3:V.1.1.4 KEYENCE SV3シリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
+								<value.first>AxisMgrSV3:V.1.2.0 KEYENCE SV3シリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2104,7 +2104,13 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>version 1.1.4 (このファンクションブロックのバージョン)</value.first>
+												<value.first>[9]サーボON/OFF</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>version 1.2.0 (このファンクションブロックのバージョン)</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

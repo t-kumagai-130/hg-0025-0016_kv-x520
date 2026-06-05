@@ -5476,7 +5476,7 @@
 							<Child>
 								<value.first>Motor</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>IAI_CON_EIP</value.first>
 										<value.second>

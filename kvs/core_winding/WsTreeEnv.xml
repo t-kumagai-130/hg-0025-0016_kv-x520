@@ -830,7 +830,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>KSV_PDATA:KEYENCE SV3 ポジションデータ</value.first>
+								<value.first>KSV_PDATA:V.1.0.1 KEYENCE SV3 ポジションデータ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -16000,7 +16000,7 @@
 							<Child>
 								<value.first>Unit1 [14]:ユニットプログラム：平板部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -17242,7 +17242,7 @@
 							<Child>
 								<value.first>モーション設定</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>SV3ツール</value.first>
 										<value.second>

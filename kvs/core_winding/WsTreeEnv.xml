@@ -770,6 +770,12 @@
 								</value.second>
 							</Child>
 							<Child>
+								<value.first>FILE_COT:出力ファイル 制御出力</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
 								<value.first>FILE_DATA:出力ファイル データ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
@@ -1804,6 +1810,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>├ 入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>├ 動作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -2030,7 +2042,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -3266,7 +3278,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>FileCtrl</value.first>
+								<value.first>FileCtrl:V.1.0.0 ディレクトリ生成およびファイル出力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -3281,6 +3293,96 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[1]ファイル管理ディレクトリ作成</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[1～]自立起動</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[2]ファイル書込み</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>version 1.0.0 (このファンクションブロックのバージョン)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>└ 出力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 完了</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 異常</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 管理</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>リリースノート</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>出力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>設定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -14018,7 +14120,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>END_REF [80]</value.first>
+								<value.first>END_REF [81]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -14048,7 +14150,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>FTP [68]</value.first>
+								<value.first>FTP [69]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -14162,13 +14264,61 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Files [67]</value.first>
+								<value.first>Files [68]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>処理</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>FilesOld [67]</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -14342,7 +14492,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>LOGGING [69]</value.first>
+								<value.first>LOGGING [70]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -14810,7 +14960,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU1_DRIVER1 [78]:ポップアップ制御</value.first>
+								<value.first>PU1_DRIVER1 [79]:ポップアップ制御</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -14906,7 +15056,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU1_DRIVER2 [79]:ポップアップ制御</value.first>
+								<value.first>PU1_DRIVER2 [80]:ポップアップ制御</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -15206,7 +15356,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1 [70]:タッチパネル1</value.first>
+								<value.first>TP1 [71]:タッチパネル1</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -15410,7 +15560,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_Files [76]</value.first>
+								<value.first>TP1_Files [77]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -15584,7 +15734,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_manual [77]:タッチパネル1 手動操作</value.first>
+								<value.first>TP1_manual [78]:タッチパネル1 手動操作</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -15656,7 +15806,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_mess [74]:タッチパネル1 メッセージ</value.first>
+								<value.first>TP1_mess [75]:タッチパネル1 メッセージ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -15692,7 +15842,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_mode [73]:タッチパネル1 モード</value.first>
+								<value.first>TP1_mode [74]:タッチパネル1 モード</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -15740,7 +15890,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_moni [72]:モニタ</value.first>
+								<value.first>TP1_moni [73]:モニタ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -15800,7 +15950,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_setting [71]</value.first>
+								<value.first>TP1_setting [72]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -15866,7 +16016,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_setting2 [81]</value.first>
+								<value.first>TP1_setting2 [82]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -15932,7 +16082,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_warning [75]:タッチパネル1 警告</value.first>
+								<value.first>TP1_warning [76]:タッチパネル1 警告</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>

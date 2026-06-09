@@ -980,43 +980,43 @@
 						<value.second>
 							<Expanded>1</Expanded>
 							<Child>
-								<value.first>PCON_CIN:IAI RCON 制御入力</value.first>
+								<value.first>PCON_CIN:IAI PCON 制御入力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PCON_COT:IAI RCON 制御出力</value.first>
+								<value.first>PCON_COT:IAI PCON 制御出力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PCON_DEV1IN:IAI RCON 通信デバイス 固定領域(入力)</value.first>
+								<value.first>PCON_DEV1IN:IAI PCON 通信デバイス 固定領域(入力)</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PCON_DEV1OUT:IAI RCON 通信デバイス 固定領域(出力)</value.first>
+								<value.first>PCON_DEV1OUT:IAI PCON 通信デバイス 固定領域(出力)</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PCON_DEV2IN:IAI RCON 通信デバイス 軸領域(入力)</value.first>
+								<value.first>PCON_DEV2IN:IAI PCON 通信デバイス 軸領域(入力)</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PCON_DEV2OUT:IAI RCON 通信デバイス 軸領域(出力)</value.first>
+								<value.first>PCON_DEV2OUT:IAI PCON 通信デバイス 軸領域(出力)</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PCON_DEV:IAI RCON 通信デバイス</value.first>
+								<value.first>PCON_DEV:IAI PCON 通信デバイス</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -1028,37 +1028,37 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PCON_IL:IAI RCON インターローック</value.first>
+								<value.first>PCON_IL:IAI PCON インターローック</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PCON_PDATA:IAI RCON ポジションデータ</value.first>
+								<value.first>PCON_PDATA:IAI PCON ポジションデータ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PCON_SET:IAI RCON 動作設定</value.first>
+								<value.first>PCON_SET:IAI PCON 動作設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PCON_STA:IAI RCON 動作状態</value.first>
+								<value.first>PCON_STA:V.1.0.1 IAI PCON 動作状態</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PCON_TBL:IAI RCON ポジションテーブル(※並び替え注意！)</value.first>
+								<value.first>PCON_TBL:IAI PCON ポジションテーブル(※並び替え注意！)</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PCON_TP:IAI RCON タッチパネルデバイス(※並べ替え注意！)</value.first>
+								<value.first>PCON_TP:IAI PCON タッチパネルデバイス(※並べ替え注意！)</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -1754,7 +1754,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>AxisMgrPCON:V1.0.2 IAI PCONシリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
+								<value.first>AxisMgrPCON:V1.0.3 IAI PCONシリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -1769,6 +1769,12 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>END_REF</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -1798,7 +1804,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>version 1.0.2 (このファンクションブロックのバージョン)</value.first>
+												<value.first>version 1.0.3 (このファンクションブロックのバージョン)</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -16150,7 +16156,7 @@
 							<Child>
 								<value.first>Unit1 [14]:ユニットプログラム：平板部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -16570,7 +16576,7 @@
 							<Child>
 								<value.first>Unit4 [17]:ユニットプログラム：主軸部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

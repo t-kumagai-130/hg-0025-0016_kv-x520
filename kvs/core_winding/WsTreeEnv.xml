@@ -1040,7 +1040,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PCON_SET:IAI PCON 動作設定</value.first>
+								<value.first>PCON_SET:V.1.0.1IAI PCON 動作設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -1304,7 +1304,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>RCON_SET:IAI RCON 動作設定</value.first>
+								<value.first>RCON_SET:V.1.0.1 IAI RCON 動作設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -1430,7 +1430,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_DISP_WINS:ポップアップ 表示データリスト</value.first>
+								<value.first>PU_DISP_WINS:V.1.0.1 ポップアップ 表示データリスト</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -1754,7 +1754,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>AxisMgrPCON:V1.0.3 IAI PCONシリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
+								<value.first>AxisMgrPCON:V1.0.4 IAI PCONシリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -1804,7 +1804,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>version 1.0.3 (このファンクションブロックのバージョン)</value.first>
+												<value.first>version 1.0.4 (このファンクションブロックのバージョン)</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -1865,6 +1865,18 @@
 											</Child>
 											<Child>
 												<value.first>リリースノート</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>リリースノート(PCON_SET)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>リリースノート(PCON_STA)</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -2009,6 +2021,12 @@
 											</Child>
 											<Child>
 												<value.first>リリースノート</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>リリースノート(PCON_SET)</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -2611,6 +2629,66 @@
 									</Child>
 									<Child>
 										<value.first>AXIS18_IL:【軸18】平板チャック前後軸 インターロックファンクションブロック目標位置が干渉領域にあるか結果値を返します。</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>ブックマーク</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>END</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ENDH</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ローカル変数</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>AXIS18_ILN:【軸18】平板チャック前後軸 インターロックファンクションブロック目標位置が干渉領域にあるか結果値を返します。</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>ブックマーク</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>END</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ENDH</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ローカル変数</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>AXIS18_ILP:【軸18】平板チャック前後軸 インターロックファンクションブロック目標位置が干渉領域にあるか結果値を返します。</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 											<Child>
@@ -3956,7 +4034,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_DISP:V.1.0.2 ポップアップ表示管理</value.first>
+								<value.first>PU_DISP:V.1.0.3 ポップアップ表示管理</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -3976,13 +4054,19 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>version 1.0.2 (このファンクションブロックのバージョン)</value.first>
+												<value.first>version 1.0.3 (このファンクションブロックのバージョン)</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
 												<value.first>リリースノート</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>リリースノート(PU_DISP_WINS)</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -14457,6 +14541,66 @@
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
+											<Child>
+												<value.first>SDカード</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>エア圧力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>スキャンタイム変数</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ハードボタン入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>フリッカ(2S)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ログ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>中断異常表示</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>割り込み</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>異常クリア</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
 										</value.second>
 									</Child>
 									<Child>
@@ -16156,7 +16300,7 @@
 							<Child>
 								<value.first>Unit1 [14]:ユニットプログラム：平板部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -16576,7 +16720,7 @@
 							<Child>
 								<value.first>Unit4 [17]:ユニットプログラム：主軸部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

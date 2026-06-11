@@ -868,13 +868,13 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>MAC_STA_BIT:設備状態(※並び替え注意！)</value.first>
+						<value.first>MAC_STA_BIT:V.1.0.0 設備状態(※並び替え注意！)</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>MAC_STA_WRD:設備状態ワード(※並び替え注意！)</value.first>
+						<value.first>MAC_STA_WRD:V.1.0.1 設備状態ワード(※並び替え注意！)</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 						</value.second>
@@ -1068,7 +1068,7 @@
 					<Child>
 						<value.first>PROD</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>CONST_CPSI:セル密度データ</value.first>
 								<value.second>
@@ -2060,7 +2060,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>AxisMgrSV3:V.1.2.2 KEYENCE SV3シリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
+								<value.first>AxisMgrSV3:V.1.2.3 KEYENCE SV3シリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2146,7 +2146,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>version 1.2.2 (このファンクションブロックのバージョン)</value.first>
+												<value.first>version 1.2.3 (このファンクションブロックのバージョン)</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -2219,6 +2219,12 @@
 											</Child>
 											<Child>
 												<value.first>出力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>対応構造体リスト</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -3368,7 +3374,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -3814,7 +3820,7 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>LIST_BTN_MON:リストボタン監視</value.first>
+						<value.first>LIST_BTN_MON:V.1.0.0 リストボタン監視</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
@@ -3833,6 +3839,30 @@
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
+									<Child>
+										<value.first>version 1.0.0 (このファンクションブロックのバージョン)</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>リリースノート</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>対応構造体リスト</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>概要</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
 								</value.second>
 							</Child>
 							<Child>
@@ -3844,7 +3874,7 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>LIST_DISP:リスト表示</value.first>
+						<value.first>LIST_DISP:V.1.0.1 リスト表示</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
@@ -3870,7 +3900,7 @@
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>version 1.0.0 (このファンクションブロックのバージョン)</value.first>
+										<value.first>version 1.0.1 (このファンクションブロックのバージョン)</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -3901,6 +3931,18 @@
 									</Child>
 									<Child>
 										<value.first>出力</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>対応FBリスト</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>対応構造体リスト</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -4034,7 +4076,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU_DISP:V.1.0.3 ポップアップ表示管理</value.first>
+								<value.first>PU_DISP:V.1.0.4 ポップアップ表示管理</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -4054,7 +4096,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>version 1.0.3 (このファンクションブロックのバージョン)</value.first>
+												<value.first>version 1.0.4 (このファンクションブロックのバージョン)</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -5578,7 +5620,7 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>UniMgr:V.1.0.3 ユニット動作 管理ファンクションブロック・ユニット制御・タッチパネル描画</value.first>
+						<value.first>UniMgr:V.1.0.4 ユニット動作 管理ファンクションブロック・ユニット制御・タッチパネル描画</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
@@ -5610,7 +5652,7 @@
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>version 1.0.3 (このファンクションブロックのバージョン)</value.first>
+										<value.first>version 1.0.4 (このファンクションブロックのバージョン)</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>

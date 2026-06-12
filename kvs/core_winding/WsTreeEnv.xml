@@ -890,7 +890,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>LIST_DISP_SET:タッチパネル パラメータ表示 設定</value.first>
+								<value.first>LIST_DISP_SET:V.1.0.1 タッチパネル パラメータ表示 設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -3874,7 +3874,7 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>LIST_DISP:V.1.0.1 リスト表示</value.first>
+						<value.first>LIST_DISP:V.1.0.2 リスト表示</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
@@ -3900,7 +3900,7 @@
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>version 1.0.1 (このファンクションブロックのバージョン)</value.first>
+										<value.first>version 1.0.2 (このファンクションブロックのバージョン)</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>

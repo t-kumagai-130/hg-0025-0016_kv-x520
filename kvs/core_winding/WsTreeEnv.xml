@@ -11614,7 +11614,7 @@
 							<Child>
 								<value.first>Auto [12]:自動動作</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -17520,12 +17520,6 @@
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>[2]  AZD-CEP</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-									<Child>
 										<value.first>[3]  AZD-CEP</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
@@ -17540,7 +17534,7 @@
 									<Child>
 										<value.first>[5-0]DL-EP1</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>[1]  GT2-71*/75*</value.first>
 												<value.second>

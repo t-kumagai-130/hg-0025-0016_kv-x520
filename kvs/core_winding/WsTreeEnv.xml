@@ -3820,7 +3820,7 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>LIST_BTN_MON:V.1.0.0 リストボタン監視</value.first>
+						<value.first>LIST_BTN_MON:V.1.0.1 リストボタン監視</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
@@ -3840,13 +3840,25 @@
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>version 1.0.0 (このファンクションブロックのバージョン)</value.first>
+										<value.first>version 1.0.1 (このファンクションブロックのバージョン)</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
 									<Child>
 										<value.first>リリースノート</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>入力</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>出力</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -3863,6 +3875,12 @@
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
+									<Child>
+										<value.first>演算</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
 								</value.second>
 							</Child>
 							<Child>
@@ -3874,7 +3892,7 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>LIST_DISP:V.1.0.2 リスト表示</value.first>
+						<value.first>LIST_DISP:V.1.0.3 リスト表示</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
@@ -3900,7 +3918,7 @@
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>version 1.0.2 (このファンクションブロックのバージョン)</value.first>
+										<value.first>version 1.0.3 (このファンクションブロックのバージョン)</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>

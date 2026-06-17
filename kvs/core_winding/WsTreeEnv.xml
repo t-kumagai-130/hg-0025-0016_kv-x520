@@ -16774,7 +16774,7 @@
 							<Child>
 								<value.first>Unit4 [17]:ユニットプログラム：主軸部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -17854,7 +17854,7 @@
 				<value.second>
 					<Expanded>1</Expanded>
 					<Child>
-						<value.first>(Default)</value.first>
+						<value.first>(Default) ユーザグローバル</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 						</value.second>

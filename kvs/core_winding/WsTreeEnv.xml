@@ -764,13 +764,19 @@
 								</value.second>
 							</Child>
 							<Child>
+								<value.first>FILE_CIN:出力ファイル 制御入力</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
 								<value.first>FILE_CONF:出力ファイル 設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>FILE_COT:出力ファイル 制御出力</value.first>
+								<value.first>FILE_COT:V.1.0.1 出力ファイル 制御出力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -783,6 +789,12 @@
 							</Child>
 							<Child>
 								<value.first>FILE_NAME:出力ファイル リスト</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>FILE_SET:出力ファイル 動作設定</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -3368,13 +3380,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>FileCtrl:V.1.0.0 ディレクトリ生成およびファイル出力</value.first>
+								<value.first>FileCtrl:V.1.1.1 ディレクトリ生成およびファイル出力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>END</value.first>
 												<value.second>
@@ -3406,7 +3418,13 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>version 1.0.0 (このファンクションブロックのバージョン)</value.first>
+												<value.first>[3]SDカード容量取得</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>version 1.1.1 (このファンクションブロックのバージョン)</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -3467,6 +3485,12 @@
 											</Child>
 											<Child>
 												<value.first>出力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>対応構造体リスト</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -14434,6 +14458,60 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>[1]ディレクトリ作成</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[1～]自立起動</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>[2]書込み</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>└ 出力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 完了</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 異常</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 管理</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>├ 設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>入力</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -16354,7 +16432,7 @@
 							<Child>
 								<value.first>Unit1 [14]:ユニットプログラム：平板部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -16492,7 +16570,7 @@
 							<Child>
 								<value.first>Unit2 [15]:ユニットプログラム：波板部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -16774,7 +16852,7 @@
 							<Child>
 								<value.first>Unit4 [17]:ユニットプログラム：主軸部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -16924,7 +17002,7 @@
 							<Child>
 								<value.first>Unit5 [18]:ユニットプログラム：溶接部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -17044,7 +17122,7 @@
 							<Child>
 								<value.first>Unit6 [19]:ユニットプログラム：排出部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

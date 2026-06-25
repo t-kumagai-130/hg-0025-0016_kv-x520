@@ -2078,7 +2078,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>AxisMgrSV3:V.1.2.7 KEYENCE SV3シリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
+								<value.first>AxisMgrSV3:V.1.2.8 KEYENCE SV3シリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2164,7 +2164,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>version 1.2.7 (このファンクションブロックのバージョン)</value.first>
+												<value.first>version 1.2.8 (このファンクションブロックのバージョン)</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -17854,7 +17854,7 @@
 							<Child>
 								<value.first>モーション設定</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>SV3ツール</value.first>
 										<value.second>

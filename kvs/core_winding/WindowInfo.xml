@@ -2,12 +2,7 @@
 <WindowInfo xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
   <GlobalVariable>
     <GroupFilters>
-      <Name>(Default)</Name>
-      <Name>Axis</Name>
-      <Name>Popup</Name>
-      <Name>Setting</Name>
-      <Name>TP</Name>
-      <Name>User</Name>
+      <Name>(System)</Name>
     </GroupFilters>
   </GlobalVariable>
   <Motion>

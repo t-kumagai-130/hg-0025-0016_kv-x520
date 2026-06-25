@@ -12334,12 +12334,6 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>初期化</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
 												<value.first>制御/描画</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -16750,7 +16744,7 @@
 							<Child>
 								<value.first>Unit2 [15]:ユニットプログラム：波板部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

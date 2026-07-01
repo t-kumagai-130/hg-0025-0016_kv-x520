@@ -15448,6 +15448,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>├ 出荷初期化</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>├ 運転準備</value.first>
 												<value.second>
 													<Expanded>0</Expanded>

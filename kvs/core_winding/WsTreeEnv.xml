@@ -14468,7 +14468,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>END_REF [83]</value.first>
+								<value.first>END_REF [84]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -15422,7 +15422,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU1_DRIVER1 [81]:ポップアップ制御</value.first>
+								<value.first>PU1_DRIVER1 [82]:ポップアップ制御</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -15524,7 +15524,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU1_DRIVER2 [82]:ポップアップ制御</value.first>
+								<value.first>PU1_DRIVER2 [83]:ポップアップ制御</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -16034,7 +16034,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_Files [79]</value.first>
+								<value.first>TP1_Files [80]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -16208,7 +16208,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_manual [80]:タッチパネル1 手動操作</value.first>
+								<value.first>TP1_manual [81]:タッチパネル1 手動操作</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -16280,7 +16280,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_mess [77]:タッチパネル1 メッセージ</value.first>
+								<value.first>TP1_mess [78]:タッチパネル1 メッセージ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -16316,7 +16316,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_mode [76]:タッチパネル1 モード</value.first>
+								<value.first>TP1_mode [77]:タッチパネル1 モード</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -16364,7 +16364,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_moni [75]:モニタ</value.first>
+								<value.first>TP1_moni [76]:モニタ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -16550,7 +16550,37 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_warning [78]:タッチパネル1 警告</value.first>
+								<value.first>TP1_system [75]</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>TP1_warning [79]:タッチパネル1 警告</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>

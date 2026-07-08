@@ -1934,7 +1934,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -2080,7 +2080,7 @@
 							<Child>
 								<value.first>AxisMgrSV3:V.1.2.8 KEYENCE SV3シリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -11626,7 +11626,13 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>軸17 波板補助軸 OrientalMotor AZD</value.first>
+												<value.first>軸15 波板補助軸 OrientalMotor AZD</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>軸16 平板張力軸 SV3</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

@@ -524,7 +524,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>AZD_COT:OrientalMotor AZD-KEP 制御出力</value.first>
+								<value.first>AZD_COT:V.1.0.1 OrientalMotor AZD-KEP 制御出力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -1616,7 +1616,7 @@
 						<value.second>
 							<Expanded>1</Expanded>
 							<Child>
-								<value.first>AxisMgrAZD:V1.0.1 OrientalMotor AZDシリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
+								<value.first>AxisMgrAZD:V1.0.2 OrientalMotor AZDシリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -1684,7 +1684,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>version 1.0.1 (このファンクションブロックのバージョン)</value.first>
+												<value.first>version 1.0.2 (このファンクションブロックのバージョン)</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -1751,6 +1751,12 @@
 											</Child>
 											<Child>
 												<value.first>出力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>対応構造体リスト</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -2080,7 +2086,7 @@
 							<Child>
 								<value.first>AxisMgrSV3:V.1.2.8 KEYENCE SV3シリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

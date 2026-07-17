@@ -11710,7 +11710,7 @@
 							<Child>
 								<value.first>Auto [12]:自動動作</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -12250,7 +12250,7 @@
 							<Child>
 								<value.first>Axis16 [39]:【軸16】平板張力軸：SV3-M040AK</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -14480,7 +14480,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>END_REF [84]</value.first>
+								<value.first>END_REF [85]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -15434,7 +15434,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU1_DRIVER1 [82]:ポップアップ制御</value.first>
+								<value.first>PU1_DRIVER1 [83]:ポップアップ制御</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -15536,7 +15536,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>PU1_DRIVER2 [83]:ポップアップ制御</value.first>
+								<value.first>PU1_DRIVER2 [84]:ポップアップ制御</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -16052,7 +16052,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_Files [80]</value.first>
+								<value.first>TP1_Files [81]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -16226,7 +16226,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_manual [81]:タッチパネル1 手動操作</value.first>
+								<value.first>TP1_manual [82]:タッチパネル1 手動操作</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -16298,7 +16298,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_mess [78]:タッチパネル1 メッセージ</value.first>
+								<value.first>TP1_mess [79]:タッチパネル1 メッセージ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -16334,7 +16334,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_mode [77]:タッチパネル1 モード</value.first>
+								<value.first>TP1_mode [78]:タッチパネル1 モード</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -16427,6 +16427,36 @@
 											</Child>
 											<Child>
 												<value.first>生産モニタ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>TP1_moni2 [77]:グラフ</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>EDN</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -16616,7 +16646,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TP1_warning [79]:タッチパネル1 警告</value.first>
+								<value.first>TP1_warning [80]:タッチパネル1 警告</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -17104,7 +17134,7 @@
 							<Child>
 								<value.first>Unit4 [17]:ユニットプログラム：主軸部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

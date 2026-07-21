@@ -1166,12 +1166,6 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>WARK:在荷ワーク</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-								</value.second>
-							</Child>
-							<Child>
 								<value.first>WIND_PER_P_ANG:巻きデータ 巻き角度[deg]における区間あたりの円弧長さ[mm]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
@@ -1215,6 +1209,18 @@
 							</Child>
 							<Child>
 								<value.first>WIND_STA:巻きデータ 状態</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>Workpiece:在荷ワーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>WorkpieceHist:ワークデータ履歴</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -4989,6 +4995,36 @@
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>WKClear</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
 								</value.second>
@@ -12250,7 +12286,7 @@
 							<Child>
 								<value.first>Axis16 [39]:【軸16】平板張力軸：SV3-M040AK</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -17440,7 +17476,7 @@
 							<Child>
 								<value.first>Unit6 [19]:ユニットプログラム：排出部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -17992,7 +18028,7 @@
 							<Child>
 								<value.first>モーション設定</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>SV3ツール</value.first>
 										<value.second>

@@ -346,10 +346,10 @@
       </DockingBarState>
     </DocumentWindowInfoForTabElement>
     <DocumentWindowInfoForTabElement>
-      <Name>Auto</Name>
-      <SaveKey>[Ladder]Auto</SaveKey>
+      <Name>Axis16</Name>
+      <SaveKey>[Ladder]Axis16</SaveKey>
       <DockingBarState>
-        <Key>Document@Ladder-453920840</Key>
+        <Key>Document@Ladder-1434138616</Key>
         <Usable>true</Usable>
         <IsFloating>false</IsFloating>
         <DockingInfo>
@@ -365,7 +365,7 @@
           <RightIndex>-1</RightIndex>
           <BottomIndex>-1</BottomIndex>
           <MergeInfo>
-            <TabIndex>8</TabIndex>
+            <TabIndex>6</TabIndex>
             <IsTabSelected>false</IsTabSelected>
             <TilePosition />
           </MergeInfo>
@@ -389,10 +389,10 @@
       </DockingBarState>
     </DocumentWindowInfoForTabElement>
     <DocumentWindowInfoForTabElement>
-      <Name>Axis16</Name>
-      <SaveKey>[Ladder]Axis16</SaveKey>
+      <Name>Auto</Name>
+      <SaveKey>[Ladder]Auto</SaveKey>
       <DockingBarState>
-        <Key>Document@Ladder-1434138616</Key>
+        <Key>Document@Ladder-453920840</Key>
         <Usable>true</Usable>
         <IsFloating>false</IsFloating>
         <DockingInfo>
@@ -408,7 +408,7 @@
           <RightIndex>-1</RightIndex>
           <BottomIndex>-1</BottomIndex>
           <MergeInfo>
-            <TabIndex>6</TabIndex>
+            <TabIndex>8</TabIndex>
             <IsTabSelected>true</IsTabSelected>
             <TilePosition />
           </MergeInfo>

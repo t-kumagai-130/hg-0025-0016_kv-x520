@@ -2,7 +2,7 @@
 <WindowInfo xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
   <GlobalVariable>
     <GroupFilters>
-      <Name>File</Name>
+      <Name>Data</Name>
     </GroupFilters>
   </GlobalVariable>
   <Motion>

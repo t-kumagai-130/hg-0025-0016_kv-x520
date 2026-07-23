@@ -1214,13 +1214,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>WKP:在荷ワーク</value.first>
+								<value.first>WKP:V.1.0.0 在荷ワーク</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>WKP_HIST:ワークデータ履歴</value.first>
+								<value.first>WKP_HIST:V.1.0.0 ワークデータ履歴</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -5000,7 +5000,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>WorkpieceClear:ワークデータ削除</value.first>
+								<value.first>WorkpieceClear:V.1.0.0 ワークデータ削除</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -5015,6 +5015,30 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>version 1.0.0 (このファンクションブロックのバージョン)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>リリースノート</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>処理</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>対応構造体リスト</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -5030,7 +5054,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>WorkpieceUpdate:ワークデータ更新ファンクションブロック</value.first>
+								<value.first>WorkpieceInit:V.1.0.0 ワークデータ初期化</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -5050,13 +5074,85 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>version 1.0.0 (このファンクションブロックのバージョン)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>リリースノート</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>処理</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>対応構造体リスト</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>WorkpieceUpdate:V.1.0.0 ワークデータ更新ファンクションブロック</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>END</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>version 1.0.0 (このファンクションブロックのバージョン)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>データ確認</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>リリースノート</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>初期化</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>対応構造体リスト</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -12286,7 +12382,7 @@
 							<Child>
 								<value.first>Axis16 [39]:【軸16】平板張力軸：SV3-M040AK</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -14662,7 +14758,7 @@
 							<Child>
 								<value.first>Files [69]</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -17200,7 +17296,7 @@
 							<Child>
 								<value.first>Unit4 [17]:ユニットプログラム：主軸部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

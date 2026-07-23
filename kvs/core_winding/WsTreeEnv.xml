@@ -13802,7 +13802,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder17 [59]:【ｼﾘ17】Xロール糊付け①：CDM2RA20-25Z-M9BWV</value.first>
+								<value.first>Cylnder17 [59]:【ｼﾘ17】Xロール糊付け(左ロール)：CDM2RA20-25Z-M9BWV</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -13862,7 +13862,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder18 [60]:【ｼﾘ18】Xロール糊付け②：CDM2RA20-25Z-M9BWV</value.first>
+								<value.first>Cylnder18 [60]:【ｼﾘ18】Xロール糊付け(右ロール)：CDM2RA20-25Z-M9BWV</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -13982,7 +13982,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder2 [45]:【ｼﾘ2】Tロール糊付け①：CDAS16×10-B-R</value.first>
+								<value.first>Cylnder2 [45]:【ｼﾘ2】Tロール糊付け(下ロール)：CDAS16×10-B-R</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -14102,7 +14102,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Cylnder3 [46]:【ｼﾘ3】Tロール糊付け②：CDAS16×10-B-R</value.first>
+								<value.first>Cylnder3 [46]:【ｼﾘ3】Tロール糊付け(上ロール)：CDAS16×10-B-R</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>

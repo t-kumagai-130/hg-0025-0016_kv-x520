@@ -17572,7 +17572,7 @@
 							<Child>
 								<value.first>Unit6 [19]:ユニットプログラム：排出部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -17830,7 +17830,7 @@
 							<Child>
 								<value.first>Unit8 [21]:ユニットプログラム：箔ロウリール</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -17866,7 +17866,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>[6]糊付け動作</value.first>
+												<value.first>[6]称未設定(未使用)</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

@@ -17296,7 +17296,7 @@
 							<Child>
 								<value.first>Unit4 [17]:ユニットプログラム：主軸部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -17332,7 +17332,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>[2]周長測定プリセット</value.first>
+												<value.first>[2]センサプリセット</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

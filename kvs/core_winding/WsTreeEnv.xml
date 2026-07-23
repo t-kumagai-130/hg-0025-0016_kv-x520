@@ -1214,13 +1214,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Workpiece:在荷ワーク</value.first>
+								<value.first>WKP:在荷ワーク</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>WorkpieceHist:ワークデータ履歴</value.first>
+								<value.first>WKP_HIST:ワークデータ履歴</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -5000,7 +5000,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>WKClear</value.first>
+								<value.first>WorkpieceClear:ワークデータ削除</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -5030,7 +5030,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>WKUpDate:ワークデータ更新ファンクションブロック</value.first>
+								<value.first>WorkpieceUpdate:ワークデータ更新ファンクションブロック</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -11746,7 +11746,7 @@
 							<Child>
 								<value.first>Auto [12]:自動動作</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

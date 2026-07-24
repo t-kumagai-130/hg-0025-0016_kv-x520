@@ -15652,6 +15652,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>初期化</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>設定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -15767,6 +15773,12 @@
 											</Child>
 											<Child>
 												<value.first>入力</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>初期化</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

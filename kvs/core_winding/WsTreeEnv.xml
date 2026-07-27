@@ -860,6 +860,12 @@
 								</value.second>
 							</Child>
 							<Child>
+								<value.first>KSV_SET_R2R:KEYENCE SV3(R2R用) 動作設定</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
 								<value.first>KSV_STA:KEYENCE SV3 動作状態</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
@@ -12956,7 +12962,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -17170,7 +17176,7 @@
 							<Child>
 								<value.first>Unit4 [17]:ユニットプログラム：主軸部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

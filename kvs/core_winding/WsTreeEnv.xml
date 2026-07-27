@@ -12352,12 +12352,6 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>インターロック無効確認</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
 												<value.first>入力</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -12413,12 +12407,6 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>インターロック無効確認</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -12593,12 +12581,6 @@
 											</Child>
 											<Child>
 												<value.first>├ 設定</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>インターロック無効確認</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -18114,7 +18096,7 @@
 											<Child>
 												<value.first>設定調整</value.first>
 												<value.second>
-													<Expanded>0</Expanded>
+													<Expanded>1</Expanded>
 													<Child>
 														<value.first>Z相サーチ</value.first>
 														<value.second>

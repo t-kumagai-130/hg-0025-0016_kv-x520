@@ -734,7 +734,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>EXE_SCOT:実行ブロック 管理出力</value.first>
+								<value.first>EXE_SCOT:V.1.0.1 実行ブロック 管理出力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -2326,7 +2326,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>version 1.0.0 (このファンクションブロックのバージョン)</value.first>
+												<value.first>version 1.0.1 (このファンクションブロックのバージョン)</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -12532,73 +12532,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>TP</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>[21]張力動作</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>[21～]自立起動</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>└ 出力</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>├ 入力</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>├ 動作</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>├ 完了</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>├ 異常</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>├ 管理</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>├ 設定</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
 												<value.first>入力</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>出力</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

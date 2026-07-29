@@ -860,12 +860,6 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>KSV_SET_R2R:KEYENCE SV3(R2R用) 動作設定</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-								</value.second>
-							</Child>
-							<Child>
 								<value.first>KSV_STA:KEYENCE SV3 動作状態</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
@@ -884,9 +878,27 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>KSV_TP_R2R:KEYENCE SV3 タッチパネルデバイス(R2R用)(※並べ替え注意！)</value.first>
+								<value.first>R2R</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
+									<Child>
+										<value.first>KSV_COT_R2R:V.1.0.0 KEYENCE SV3 制御出力(R2R用)</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>KSV_SET_R2R:KEYENCE SV3 動作設定(R2R用)</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>KSV_TP_R2R:KEYENCE SV3 タッチパネルデバイス(R2R用)(※並べ替え注意！)</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
 								</value.second>
 							</Child>
 						</value.second>
@@ -2102,7 +2114,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>AxisMgrSV3:V.1.3.0 KEYENCE SV3シリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
+								<value.first>AxisMgrSV3:V.1.3.1 KEYENCE SV3シリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2188,7 +2200,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>version 1.3.0 (このファンクションブロックのバージョン)</value.first>
+												<value.first>version 1.3.1 (このファンクションブロックのバージョン)</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

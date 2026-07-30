@@ -3,8 +3,7 @@
   <GlobalVariable>
     <GroupFilters>
       <Name>(Default)</Name>
-      <Name>Data</Name>
-      <Name>File</Name>
+      <Name>Axis</Name>
     </GroupFilters>
   </GlobalVariable>
   <Motion>

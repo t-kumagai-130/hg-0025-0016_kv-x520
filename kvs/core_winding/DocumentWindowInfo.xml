@@ -2,49 +2,6 @@
 <DocumentWindowInfoForTab xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <All>
     <DocumentWindowInfoForTabElement>
-      <Name>APP_FORMULA_RPA</Name>
-      <SaveKey>[Ladder]APP_FORMULA_RPA</SaveKey>
-      <DockingBarState>
-        <Key>Document@Ladder-432277120</Key>
-        <Usable>true</Usable>
-        <IsFloating>false</IsFloating>
-        <DockingInfo>
-          <IsCenter>true</IsCenter>
-          <DockingSide>Left</DockingSide>
-          <IsAutoHide>false</IsAutoHide>
-          <Size>
-            <Width>1073</Width>
-            <Height>1068</Height>
-          </Size>
-          <LeftIndex>-1</LeftIndex>
-          <TopIndex>-1</TopIndex>
-          <RightIndex>-1</RightIndex>
-          <BottomIndex>-1</BottomIndex>
-          <MergeInfo>
-            <TabIndex>7</TabIndex>
-            <IsTabSelected>false</IsTabSelected>
-            <TilePosition />
-          </MergeInfo>
-        </DockingInfo>
-        <FloatingInfo>
-          <DockingKey>0</DockingKey>
-          <Location>
-            <X>0</X>
-            <Y>0</Y>
-          </Location>
-          <Size>
-            <Width>624</Width>
-            <Height>326</Height>
-          </Size>
-          <MergeInfo>
-            <TabIndex>-1</TabIndex>
-            <IsTabSelected>false</IsTabSelected>
-            <TilePosition />
-          </MergeInfo>
-        </FloatingInfo>
-      </DockingBarState>
-    </DocumentWindowInfoForTabElement>
-    <DocumentWindowInfoForTabElement>
       <Name>AxisMgrSV3ForR2R</Name>
       <SaveKey>[Ladder]AxisMgrSV3ForR2R</SaveKey>
       <DockingBarState>
@@ -57,7 +14,7 @@
           <IsAutoHide>false</IsAutoHide>
           <Size>
             <Width>1073</Width>
-            <Height>1068</Height>
+            <Height>978</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
@@ -100,7 +57,7 @@
           <IsAutoHide>false</IsAutoHide>
           <Size>
             <Width>1073</Width>
-            <Height>1068</Height>
+            <Height>978</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
@@ -143,7 +100,7 @@
           <IsAutoHide>false</IsAutoHide>
           <Size>
             <Width>1073</Width>
-            <Height>1068</Height>
+            <Height>978</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
@@ -186,7 +143,7 @@
           <IsAutoHide>false</IsAutoHide>
           <Size>
             <Width>1073</Width>
-            <Height>1068</Height>
+            <Height>978</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
@@ -229,7 +186,7 @@
           <IsAutoHide>false</IsAutoHide>
           <Size>
             <Width>1073</Width>
-            <Height>1068</Height>
+            <Height>978</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
@@ -272,14 +229,14 @@
           <IsAutoHide>false</IsAutoHide>
           <Size>
             <Width>1073</Width>
-            <Height>1068</Height>
+            <Height>978</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
           <RightIndex>-1</RightIndex>
           <BottomIndex>-1</BottomIndex>
           <MergeInfo>
-            <TabIndex>8</TabIndex>
+            <TabIndex>7</TabIndex>
             <IsTabSelected>false</IsTabSelected>
             <TilePosition />
           </MergeInfo>
@@ -315,7 +272,7 @@
           <IsAutoHide>false</IsAutoHide>
           <Size>
             <Width>1073</Width>
-            <Height>1068</Height>
+            <Height>978</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
@@ -358,7 +315,7 @@
           <IsAutoHide>false</IsAutoHide>
           <Size>
             <Width>1073</Width>
-            <Height>1068</Height>
+            <Height>978</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
@@ -389,7 +346,7 @@
       </DockingBarState>
     </DocumentWindowInfoForTabElement>
     <DocumentWindowInfoForTabElement>
-      <Name>Unit4(照合不一致)</Name>
+      <Name>Unit4</Name>
       <SaveKey>[Ladder]Unit4</SaveKey>
       <DockingBarState>
         <Key>Document@Ladder-514603672</Key>
@@ -401,7 +358,7 @@
           <IsAutoHide>false</IsAutoHide>
           <Size>
             <Width>1073</Width>
-            <Height>1068</Height>
+            <Height>978</Height>
           </Size>
           <LeftIndex>-1</LeftIndex>
           <TopIndex>-1</TopIndex>
@@ -409,6 +366,49 @@
           <BottomIndex>-1</BottomIndex>
           <MergeInfo>
             <TabIndex>4</TabIndex>
+            <IsTabSelected>false</IsTabSelected>
+            <TilePosition />
+          </MergeInfo>
+        </DockingInfo>
+        <FloatingInfo>
+          <DockingKey>0</DockingKey>
+          <Location>
+            <X>0</X>
+            <Y>0</Y>
+          </Location>
+          <Size>
+            <Width>624</Width>
+            <Height>326</Height>
+          </Size>
+          <MergeInfo>
+            <TabIndex>-1</TabIndex>
+            <IsTabSelected>false</IsTabSelected>
+            <TilePosition />
+          </MergeInfo>
+        </FloatingInfo>
+      </DockingBarState>
+    </DocumentWindowInfoForTabElement>
+    <DocumentWindowInfoForTabElement>
+      <Name>Abnormal</Name>
+      <SaveKey>[Ladder]Abnormal</SaveKey>
+      <DockingBarState>
+        <Key>Document@Ladder-2204813504</Key>
+        <Usable>true</Usable>
+        <IsFloating>false</IsFloating>
+        <DockingInfo>
+          <IsCenter>true</IsCenter>
+          <DockingSide>Left</DockingSide>
+          <IsAutoHide>false</IsAutoHide>
+          <Size>
+            <Width>1073</Width>
+            <Height>978</Height>
+          </Size>
+          <LeftIndex>-1</LeftIndex>
+          <TopIndex>-1</TopIndex>
+          <RightIndex>-1</RightIndex>
+          <BottomIndex>-1</BottomIndex>
+          <MergeInfo>
+            <TabIndex>8</TabIndex>
             <IsTabSelected>true</IsTabSelected>
             <TilePosition />
           </MergeInfo>

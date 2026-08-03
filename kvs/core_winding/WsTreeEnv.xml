@@ -11938,6 +11938,18 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>軸17 平板チャック軸 RCON</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>軸18 平板チャック前後軸 RCON</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>軸19 波板張力軸 SV3</value.first>
 												<value.second>
 													<Expanded>0</Expanded>

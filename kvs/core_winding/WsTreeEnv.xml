@@ -2300,7 +2300,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>AxisMgrSV3ForR2R:V.1.0.3 KEYENCE SV3シリーズ 管理ファンクションブロック・軸制御・タッチパネル描画・R2R制御</value.first>
+								<value.first>AxisMgrSV3ForR2R:V.1.0.4 KEYENCE SV3シリーズ 管理ファンクションブロック・軸制御・タッチパネル描画・R2R制御</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2338,7 +2338,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>version 1.0.3 (このファンクションブロックのバージョン)</value.first>
+												<value.first>version 1.0.4 (このファンクションブロックのバージョン)</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -11933,6 +11933,12 @@
 											</Child>
 											<Child>
 												<value.first>軸16 平板張力軸 SV3</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>軸19 波板張力軸 SV3</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

@@ -1190,6 +1190,12 @@
 								</value.second>
 							</Child>
 							<Child>
+								<value.first>WIND_CORRECTION:巻き補正データ 状態</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
 								<value.first>WIND_PER_P_ANG:巻きデータ 巻き角度[deg]における区間あたりの円弧長さ[mm]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>

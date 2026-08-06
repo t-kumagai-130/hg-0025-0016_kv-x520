@@ -5195,6 +5195,84 @@
 											</Child>
 										</value.second>
 									</Child>
+									<Child>
+										<value.first>WindSensorValIn:V1.0.0 計測センサ値入力処理</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>ブックマーク</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>END</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ENDH</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>version 1.3.4 (このファンクションブロックのバージョン)</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>【SBN】初期化</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>【SBN】確認</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>リリースノート</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>入力</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>処理</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>初期化</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>確認</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ローカル変数</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
 								</value.second>
 							</Child>
 							<Child>
@@ -5698,7 +5776,7 @@
 							<Child>
 								<value.first>SUB</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>R2R_AccDecCtrl:V111</value.first>
 										<value.second>

@@ -2122,7 +2122,7 @@
 							<Child>
 								<value.first>AxisMgrSV3:V.1.3.4 KEYENCE SV3シリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -17344,7 +17344,7 @@
 							<Child>
 								<value.first>Unit5 [18]:ユニットプログラム：溶接部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

@@ -5166,6 +5166,84 @@
 										</value.second>
 									</Child>
 									<Child>
+										<value.first>WindLength:V.1.0.0 巻き長さ計算</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>ブックマーク</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>END</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ENDH</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>version 1.0.0 (このファンクションブロックのバージョン)</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>【SBN】初期化</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>【SBN】確認</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>リリースノート</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>処理</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>出力</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>初期化</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>確認</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>ローカル変数</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
 										<value.first>WindSagRem:たるみ取り演算</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
@@ -5196,7 +5274,7 @@
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>WindSensorValIn:V1.0.0 計測センサ値入力処理</value.first>
+										<value.first>WindSensorValIn:V1.0.1 計測センサ値入力処理</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 											<Child>
@@ -5216,7 +5294,7 @@
 														</value.second>
 													</Child>
 													<Child>
-														<value.first>version 1.3.4 (このファンクションブロックのバージョン)</value.first>
+														<value.first>version 1.0.1 (このファンクションブロックのバージョン)</value.first>
 														<value.second>
 															<Expanded>0</Expanded>
 														</value.second>
@@ -5247,6 +5325,12 @@
 													</Child>
 													<Child>
 														<value.first>処理</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>出力</value.first>
 														<value.second>
 															<Expanded>0</Expanded>
 														</value.second>

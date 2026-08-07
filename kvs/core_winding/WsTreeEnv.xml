@@ -1970,7 +1970,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>AxisMgrRCON:V.1.0.2 IAI RCONシリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
+								<value.first>AxisMgrRCON:V.1.0.3 IAI RCONシリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2026,7 +2026,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>version 1.0.2 (このファンクションブロックのバージョン)</value.first>
+												<value.first>version 1.0.3 (このファンクションブロックのバージョン)</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -17512,7 +17512,7 @@
 							<Child>
 								<value.first>Unit5 [18]:ユニットプログラム：溶接部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -17632,7 +17632,7 @@
 							<Child>
 								<value.first>Unit6 [19]:ユニットプログラム：排出部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

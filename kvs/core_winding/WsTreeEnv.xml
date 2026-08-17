@@ -4634,7 +4634,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>CONV_RAD_GT1_ACT:GTセンサ値から現在の半径を取得</value.first>
+								<value.first>CONV_RAD_GT1_ACT:V.1.0.0 GTセンサ値から現在の半径を取得</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -4649,6 +4649,42 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>version 1.0.0 (このファンクションブロックのバージョン)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>●エラー / udiErrID</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>●動作説明</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>リリースノート</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>処理</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>出力</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -4694,7 +4730,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>CONV_RAD_IL1_ACT:ILセンサ値から現在の半径を取得</value.first>
+								<value.first>CONV_RAD_IL1_ACT:V.1.0.0 ILセンサ値から現在の半径を取得</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -4709,6 +4745,36 @@
 											</Child>
 											<Child>
 												<value.first>ENDH</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>version 1.0.0 (このファンクションブロックのバージョン)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>●エラー / udiErrID</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>リリースノート</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>処理</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>出力</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

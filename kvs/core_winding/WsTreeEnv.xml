@@ -17374,7 +17374,7 @@
 							<Child>
 								<value.first>Unit3 [16]:ユニットプログラム：箔ロウ部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -17662,7 +17662,7 @@
 							<Child>
 								<value.first>Unit5 [18]:ユニットプログラム：溶接部</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>

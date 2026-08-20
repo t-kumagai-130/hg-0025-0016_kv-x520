@@ -1814,13 +1814,13 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>AxisMgrPCON:V1.0.4 IAI PCONシリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
+								<value.first>AxisMgrPCON:V1.0.5 IAI PCONシリーズ 管理ファンクションブロック・軸制御・タッチパネル描画</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>EDN</value.first>
 												<value.second>
@@ -1864,7 +1864,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>version 1.0.4 (このファンクションブロックのバージョン)</value.first>
+												<value.first>version 1.0.5 (このファンクションブロックのバージョン)</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -17224,7 +17224,7 @@
 							<Child>
 								<value.first>Unit2 [15]:ユニットプログラム：波板部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -17374,7 +17374,7 @@
 							<Child>
 								<value.first>Unit3 [16]:ユニットプログラム：箔ロウ部</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
